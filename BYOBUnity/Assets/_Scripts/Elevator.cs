@@ -5,7 +5,7 @@ public class Elevator : MonoBehaviour {
 	public Transform[] floors;
 	int currentFloor;
 	
-	public void ButtonPressed() {
+	public void UpButtonPressed() {
 		StartCoroutine(MoveTo(currentFloor + 1));
 	}	
 	
