@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: d5896a27779e64dd29a90dc5381dab0c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ID108
+    100002: ID108 1
+    100004: ID108 2
+    100006: ID65
+    100008: ID65 1
+    100010: ID65 2
+    100012: ID85
+    100014: ID85 1
+    100016: ID85 2
+    100018: instance_0
+    100020: instance_1
+    100022: instance_10
+    100024: instance_11
+    100026: instance_12
+    100028: instance_13
+    100030: instance_14
+    100032: instance_15
+    100034: instance_16
+    100036: instance_17
+    100038: instance_18
+    100040: instance_19
+    100042: instance_2
+    100044: instance_20
+    100046: instance_21
+    100048: instance_22
+    100050: instance_23
+    100052: instance_24
+    100054: instance_25
+    100056: instance_26
+    100058: instance_27
+    100060: instance_28
+    100062: instance_29
+    100064: instance_3
+    100066: instance_30
+    100068: instance_31
+    100070: instance_31 1
+    100072: instance_31 2
+    100074: instance_32
+    100076: instance_32 1
+    100078: instance_32 2
+    100080: instance_33
+    100082: instance_33 1
+    100084: instance_33 2
+    100086: instance_34
+    100088: instance_34 1
+    100090: instance_34 2
+    100092: instance_35
+    100094: instance_36
+    100096: instance_37
+    100098: instance_38
+    100100: instance_39
+    100102: instance_4
+    100104: instance_40
+    100106: instance_41
+    100108: instance_42
+    100110: instance_43
+    100112: instance_44
+    100114: instance_45
+    100116: instance_46
+    100118: instance_47
+    100120: instance_48
+    100122: instance_5
+    100124: instance_6
+    100126: instance_7
+    100128: instance_8
+    100130: instance_9
+    100132: spath_flower
+    100134: spath_flower 1
+    100136: spath_flower 2
+    100138: spath_flower_half
+    100140: spath_flower_half 1
+    100142: spath_flower_half 2
+    100144: spath_flower_half 3
+    100146: spath_flower_half 4
+    100148: spath_flower_half 5
+    100150: spath_flower_withPistol
+    100152: spath_flower_withPistol 1
+    100154: spath_flower_withPistol 2
+    100156: spath_leaf
+    100158: spath_leaf 1
+    100160: spath_leaf 10
+    100162: spath_leaf 11
+    100164: spath_leaf 12
+    100166: spath_leaf 13
+    100168: spath_leaf 14
+    100170: spath_leaf 15
+    100172: spath_leaf 16
+    100174: spath_leaf 17
+    100176: spath_leaf 18
+    100178: spath_leaf 19
+    100180: spath_leaf 2
+    100182: spath_leaf 20
+    100184: spath_leaf 21
+    100186: spath_leaf 22
+    100188: spath_leaf 23
+    100190: spath_leaf 24
+    100192: spath_leaf 25
+    100194: spath_leaf 26
+    100196: spath_leaf 27
+    100198: spath_leaf 28
+    100200: spath_leaf 29
+    100202: spath_leaf 3
+    100204: spath_leaf 30
+    100206: spath_leaf 31
+    100208: spath_leaf 32
+    100210: spath_leaf 33
+    100212: spath_leaf 34
+    100214: spath_leaf 35
+    100216: spath_leaf 36
+    100218: spath_leaf 37
+    100220: spath_leaf 38
+    100222: spath_leaf 4
+    100224: spath_leaf 5
+    100226: spath_leaf 6
+    100228: spath_leaf 7
+    100230: spath_leaf 8
+    100232: spath_leaf 9
+    100234: spath_pistol
+    100236: spath_pistol 1
+    100238: spath_pistol 2
+    100240: Spath_stem
+    100242: Spath_stem 1
+    100244: Spath_stem 2
+    100246: //RootNode
+    400000: ID108
+    400002: ID108 1
+    400004: ID108 2
+    400006: ID65
+    400008: ID65 1
+    400010: ID65 2
+    400012: ID85
+    400014: ID85 1
+    400016: ID85 2
+    400018: instance_0
+    400020: instance_1
+    400022: instance_10
+    400024: instance_11
+    400026: instance_12
+    400028: instance_13
+    400030: instance_14
+    400032: instance_15
+    400034: instance_16
+    400036: instance_17
+    400038: instance_18
+    400040: instance_19
+    400042: instance_2
+    400044: instance_20
+    400046: instance_21
+    400048: instance_22
+    400050: instance_23
+    400052: instance_24
+    400054: instance_25
+    400056: instance_26
+    400058: instance_27
+    400060: instance_28
+    400062: instance_29
+    400064: instance_3
+    400066: instance_30
+    400068: instance_31
+    400070: instance_31 1
+    400072: instance_31 2
+    400074: instance_32
+    400076: instance_32 1
+    400078: instance_32 2
+    400080: instance_33
+    400082: instance_33 1
+    400084: instance_33 2
+    400086: instance_34
+    400088: instance_34 1
+    400090: instance_34 2
+    400092: instance_35
+    400094: instance_36
+    400096: instance_37
+    400098: instance_38
+    400100: instance_39
+    400102: instance_4
+    400104: instance_40
+    400106: instance_41
+    400108: instance_42
+    400110: instance_43
+    400112: instance_44
+    400114: instance_45
+    400116: instance_46
+    400118: instance_47
+    400120: instance_48
+    400122: instance_5
+    400124: instance_6
+    400126: instance_7
+    400128: instance_8
+    400130: instance_9
+    400132: spath_flower
+    400134: spath_flower 1
+    400136: spath_flower 2
+    400138: spath_flower_half
+    400140: spath_flower_half 1
+    400142: spath_flower_half 2
+    400144: spath_flower_half 3
+    400146: spath_flower_half 4
+    400148: spath_flower_half 5
+    400150: spath_flower_withPistol
+    400152: spath_flower_withPistol 1
+    400154: spath_flower_withPistol 2
+    400156: spath_leaf
+    400158: spath_leaf 1
+    400160: spath_leaf 10
+    400162: spath_leaf 11
+    400164: spath_leaf 12
+    400166: spath_leaf 13
+    400168: spath_leaf 14
+    400170: spath_leaf 15
+    400172: spath_leaf 16
+    400174: spath_leaf 17
+    400176: spath_leaf 18
+    400178: spath_leaf 19
+    400180: spath_leaf 2
+    400182: spath_leaf 20
+    400184: spath_leaf 21
+    400186: spath_leaf 22
+    400188: spath_leaf 23
+    400190: spath_leaf 24
+    400192: spath_leaf 25
+    400194: spath_leaf 26
+    400196: spath_leaf 27
+    400198: spath_leaf 28
+    400200: spath_leaf 29
+    400202: spath_leaf 3
+    400204: spath_leaf 30
+    400206: spath_leaf 31
+    400208: spath_leaf 32
+    400210: spath_leaf 33
+    400212: spath_leaf 34
+    400214: spath_leaf 35
+    400216: spath_leaf 36
+    400218: spath_leaf 37
+    400220: spath_leaf 38
+    400222: spath_leaf 4
+    400224: spath_leaf 5
+    400226: spath_leaf 6
+    400228: spath_leaf 7
+    400230: spath_leaf 8
+    400232: spath_leaf 9
+    400234: spath_pistol
+    400236: spath_pistol 1
+    400238: spath_pistol 2
+    400240: Spath_stem
+    400242: Spath_stem 1
+    400244: Spath_stem 2
+    400246: //RootNode
+    2300000: ID108
+    2300002: ID108 1
+    2300004: ID108 2
+    2300006: ID65
+    2300008: ID65 1
+    2300010: ID65 2
+    2300012: ID85
+    2300014: ID85 1
+    2300016: ID85 2
+    2300018: spath_flower_half
+    2300020: spath_flower_half 1
+    2300022: spath_flower_half 2
+    2300024: spath_flower_half 3
+    2300026: spath_flower_half 4
+    2300028: spath_flower_half 5
+    2300030: spath_leaf
+    2300032: spath_leaf 1
+    2300034: spath_leaf 10
+    2300036: spath_leaf 11
+    2300038: spath_leaf 12
+    2300040: spath_leaf 13
+    2300042: spath_leaf 14
+    2300044: spath_leaf 15
+    2300046: spath_leaf 16
+    2300048: spath_leaf 17
+    2300050: spath_leaf 18
+    2300052: spath_leaf 19
+    2300054: spath_leaf 2
+    2300056: spath_leaf 20
+    2300058: spath_leaf 21
+    2300060: spath_leaf 22
+    2300062: spath_leaf 23
+    2300064: spath_leaf 24
+    2300066: spath_leaf 25
+    2300068: spath_leaf 26
+    2300070: spath_leaf 27
+    2300072: spath_leaf 28
+    2300074: spath_leaf 29
+    2300076: spath_leaf 3
+    2300078: spath_leaf 30
+    2300080: spath_leaf 31
+    2300082: spath_leaf 32
+    2300084: spath_leaf 33
+    2300086: spath_leaf 34
+    2300088: spath_leaf 35
+    2300090: spath_leaf 36
+    2300092: spath_leaf 37
+    2300094: spath_leaf 38
+    2300096: spath_leaf 4
+    2300098: spath_leaf 5
+    2300100: spath_leaf 6
+    2300102: spath_leaf 7
+    2300104: spath_leaf 8
+    2300106: spath_leaf 9
+    2300108: spath_pistol
+    2300110: spath_pistol 1
+    2300112: spath_pistol 2
+    2300114: Spath_stem
+    2300116: Spath_stem 1
+    2300118: Spath_stem 2
+    3300000: ID108
+    3300002: ID108 1
+    3300004: ID108 2
+    3300006: ID65
+    3300008: ID65 1
+    3300010: ID65 2
+    3300012: ID85
+    3300014: ID85 1
+    3300016: ID85 2
+    3300018: spath_flower_half
+    3300020: spath_flower_half 1
+    3300022: spath_flower_half 2
+    3300024: spath_flower_half 3
+    3300026: spath_flower_half 4
+    3300028: spath_flower_half 5
+    3300030: spath_leaf
+    3300032: spath_leaf 1
+    3300034: spath_leaf 10
+    3300036: spath_leaf 11
+    3300038: spath_leaf 12
+    3300040: spath_leaf 13
+    3300042: spath_leaf 14
+    3300044: spath_leaf 15
+    3300046: spath_leaf 16
+    3300048: spath_leaf 17
+    3300050: spath_leaf 18
+    3300052: spath_leaf 19
+    3300054: spath_leaf 2
+    3300056: spath_leaf 20
+    3300058: spath_leaf 21
+    3300060: spath_leaf 22
+    3300062: spath_leaf 23
+    3300064: spath_leaf 24
+    3300066: spath_leaf 25
+    3300068: spath_leaf 26
+    3300070: spath_leaf 27
+    3300072: spath_leaf 28
+    3300074: spath_leaf 29
+    3300076: spath_leaf 3
+    3300078: spath_leaf 30
+    3300080: spath_leaf 31
+    3300082: spath_leaf 32
+    3300084: spath_leaf 33
+    3300086: spath_leaf 34
+    3300088: spath_leaf 35
+    3300090: spath_leaf 36
+    3300092: spath_leaf 37
+    3300094: spath_leaf 38
+    3300096: spath_leaf 4
+    3300098: spath_leaf 5
+    3300100: spath_leaf 6
+    3300102: spath_leaf 7
+    3300104: spath_leaf 8
+    3300106: spath_leaf 9
+    3300108: spath_pistol
+    3300110: spath_pistol 1
+    3300112: spath_pistol 2
+    3300114: Spath_stem
+    3300116: Spath_stem 1
+    3300118: Spath_stem 2
+    4300000: spath_leaf
+    4300002: spath_flower_half
+    4300004: ID65
+    4300006: spath_flower_half
+    4300008: ID85
+    4300010: spath_pistol
+    4300012: ID108
+    4300014: Spath_stem
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

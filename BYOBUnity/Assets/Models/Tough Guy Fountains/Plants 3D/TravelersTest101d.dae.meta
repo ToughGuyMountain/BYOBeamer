@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 3de34336ada63459eb917c4e1004e2f6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ID103
+    100002: ID111
+    100004: ID119
+    100006: ID127
+    100008: ID135
+    100010: ID143
+    100012: ID151
+    100014: ID159
+    100016: ID177
+    100018: ID185
+    100020: ID193
+    100022: ID201
+    100024: ID209
+    100026: ID217
+    100028: ID225
+    100030: ID23
+    100032: ID233
+    100034: ID241
+    100036: ID249
+    100038: ID257
+    100040: ID265
+    100042: ID273
+    100044: ID281
+    100046: ID289
+    100048: ID297
+    100050: ID305
+    100052: ID31
+    100054: ID313
+    100056: ID336
+    100058: ID344
+    100060: ID350
+    100062: ID356
+    100064: ID39
+    100066: ID47
+    100068: ID55
+    100070: ID63
+    100072: ID71
+    100074: ID79
+    100076: ID87
+    100078: ID95
+    100080: instance_0
+    100082: instance_1
+    100084: instance_10
+    100086: instance_11
+    100088: instance_12
+    100090: instance_13
+    100092: instance_14
+    100094: instance_15
+    100096: instance_16
+    100098: instance_16 1
+    100100: instance_16 2
+    100102: instance_16 3
+    100104: instance_16 4
+    100106: instance_16 5
+    100108: instance_16 6
+    100110: instance_16 7
+    100112: instance_17
+    100114: instance_17 1
+    100116: instance_17 2
+    100118: instance_17 3
+    100120: instance_17 4
+    100122: instance_17 5
+    100124: instance_17 6
+    100126: instance_17 7
+    100128: instance_18
+    100130: instance_18 1
+    100132: instance_18 2
+    100134: instance_18 3
+    100136: instance_18 4
+    100138: instance_18 5
+    100140: instance_18 6
+    100142: instance_18 7
+    100144: instance_19
+    100146: instance_2
+    100148: instance_20
+    100150: instance_21
+    100152: instance_22
+    100154: instance_23
+    100156: instance_24
+    100158: instance_25
+    100160: instance_26
+    100162: instance_27
+    100164: instance_28
+    100166: instance_29
+    100168: instance_3
+    100170: instance_30
+    100172: instance_31
+    100174: instance_32
+    100176: instance_33
+    100178: instance_34
+    100180: instance_35
+    100182: instance_36
+    100184: instance_37
+    100186: instance_38
+    100188: instance_39
+    100190: instance_4
+    100192: instance_5
+    100194: instance_6
+    100196: instance_7
+    100198: instance_7 1
+    100200: instance_7 2
+    100202: instance_7 3
+    100204: instance_7 4
+    100206: instance_7 5
+    100208: instance_8
+    100210: instance_8 1
+    100212: instance_8 2
+    100214: instance_8 3
+    100216: instance_8 4
+    100218: instance_8 5
+    100220: instance_9
+    100222: instance_9 1
+    100224: instance_9 2
+    100226: instance_9 3
+    100228: instance_9 4
+    100230: instance_9 5
+    100232: travelers411
+    100234: travelers411 1
+    100236: travelers411 10
+    100238: travelers411 2
+    100240: travelers411 3
+    100242: travelers411 4
+    100244: travelers411 5
+    100246: travelers411 6
+    100248: travelers411 7
+    100250: travelers411 8
+    100252: travelers411 9
+    100254: travelers_stem2_half
+    100256: travelers_stem2_half 1
+    100258: travelers_stem2_half 10
+    100260: travelers_stem2_half 11
+    100262: travelers_stem2_half 12
+    100264: travelers_stem2_half 13
+    100266: travelers_stem2_half 14
+    100268: travelers_stem2_half 15
+    100270: travelers_stem2_half 16
+    100272: travelers_stem2_half 17
+    100274: travelers_stem2_half 18
+    100276: travelers_stem2_half 19
+    100278: travelers_stem2_half 2
+    100280: travelers_stem2_half 3
+    100282: travelers_stem2_half 4
+    100284: travelers_stem2_half 5
+    100286: travelers_stem2_half 6
+    100288: travelers_stem2_half 7
+    100290: travelers_stem2_half 8
+    100292: travelers_stem2_half 9
+    100294: travelers_stem2_half_1
+    100296: travelers_stem2_half_1 1
+    100298: travelers_stem2_half_1 2
+    100300: travelers_stem2_half_1 3
+    100302: travelers_stem2_half_1 4
+    100304: travelers_stem2_half_1 5
+    100306: travelers_stem2_half_1 6
+    100308: travelers_stem2_half_1 7
+    100310: TravelersBase
+    100312: travelersBase_half
+    100314: travelersBase_half 1
+    100316: Travelersbase_trunk
+    100318: TravelersLeaf
+    100320: TravelersLeaf 1
+    100322: TravelersLeaf 2
+    100324: TravelersLeaf 3
+    100326: TravelersStem
+    100328: TravelersStem 1
+    100330: TravelersStem 2
+    100332: TravelersStem 3
+    100334: TravelersStem 4
+    100336: TravelersStem 5
+    100338: TravelersStem_1
+    100340: TravelersStem_1 1
+    100342: TravelersStem_1 2
+    100344: TravelersStem_1 3
+    100346: TravelersStem_1 4
+    100348: TravelersStem_1 5
+    100350: TravelersStem_1 6
+    100352: TravelersStem_1 7
+    100354: travelerstem2
+    100356: travelerstem2 1
+    100358: travelerstem2 2
+    100360: travelerstem2 3
+    100362: travelerstem2 4
+    100364: travelerstem2 5
+    100366: travelerstem2_1
+    100368: travelerstem2_1 1
+    100370: travelerstem2_1 2
+    100372: travelerstem2_1 3
+    100374: travelerstem2_1 4
+    100376: travelerstem2_1 5
+    100378: travelerstem2_1 6
+    100380: travelerstem2_1 7
+    100382: //RootNode
+    100384: TravelersTrunk
+    400000: ID103
+    400002: ID111
+    400004: ID119
+    400006: ID127
+    400008: ID135
+    400010: ID143
+    400012: ID151
+    400014: ID159
+    400016: ID177
+    400018: ID185
+    400020: ID193
+    400022: ID201
+    400024: ID209
+    400026: ID217
+    400028: ID225
+    400030: ID23
+    400032: ID233
+    400034: ID241
+    400036: ID249
+    400038: ID257
+    400040: ID265
+    400042: ID273
+    400044: ID281
+    400046: ID289
+    400048: ID297
+    400050: ID305
+    400052: ID31
+    400054: ID313
+    400056: ID336
+    400058: ID344
+    400060: ID350
+    400062: ID356
+    400064: ID39
+    400066: ID47
+    400068: ID55
+    400070: ID63
+    400072: ID71
+    400074: ID79
+    400076: ID87
+    400078: ID95
+    400080: instance_0
+    400082: instance_1
+    400084: instance_10
+    400086: instance_11
+    400088: instance_12
+    400090: instance_13
+    400092: instance_14
+    400094: instance_15
+    400096: instance_16
+    400098: instance_16 1
+    400100: instance_16 2
+    400102: instance_16 3
+    400104: instance_16 4
+    400106: instance_16 5
+    400108: instance_16 6
+    400110: instance_16 7
+    400112: instance_17
+    400114: instance_17 1
+    400116: instance_17 2
+    400118: instance_17 3
+    400120: instance_17 4
+    400122: instance_17 5
+    400124: instance_17 6
+    400126: instance_17 7
+    400128: instance_18
+    400130: instance_18 1
+    400132: instance_18 2
+    400134: instance_18 3
+    400136: instance_18 4
+    400138: instance_18 5
+    400140: instance_18 6
+    400142: instance_18 7
+    400144: instance_19
+    400146: instance_2
+    400148: instance_20
+    400150: instance_21
+    400152: instance_22
+    400154: instance_23
+    400156: instance_24
+    400158: instance_25
+    400160: instance_26
+    400162: instance_27
+    400164: instance_28
+    400166: instance_29
+    400168: instance_3
+    400170: instance_30
+    400172: instance_31
+    400174: instance_32
+    400176: instance_33
+    400178: instance_34
+    400180: instance_35
+    400182: instance_36
+    400184: instance_37
+    400186: instance_38
+    400188: instance_39
+    400190: instance_4
+    400192: instance_5
+    400194: instance_6
+    400196: instance_7
+    400198: instance_7 1
+    400200: instance_7 2
+    400202: instance_7 3
+    400204: instance_7 4
+    400206: instance_7 5
+    400208: instance_8
+    400210: instance_8 1
+    400212: instance_8 2
+    400214: instance_8 3
+    400216: instance_8 4
+    400218: instance_8 5
+    400220: instance_9
+    400222: instance_9 1
+    400224: instance_9 2
+    400226: instance_9 3
+    400228: instance_9 4
+    400230: instance_9 5
+    400232: travelers411
+    400234: travelers411 1
+    400236: travelers411 10
+    400238: travelers411 2
+    400240: travelers411 3
+    400242: travelers411 4
+    400244: travelers411 5
+    400246: travelers411 6
+    400248: travelers411 7
+    400250: travelers411 8
+    400252: travelers411 9
+    400254: travelers_stem2_half
+    400256: travelers_stem2_half 1
+    400258: travelers_stem2_half 10
+    400260: travelers_stem2_half 11
+    400262: travelers_stem2_half 12
+    400264: travelers_stem2_half 13
+    400266: travelers_stem2_half 14
+    400268: travelers_stem2_half 15
+    400270: travelers_stem2_half 16
+    400272: travelers_stem2_half 17
+    400274: travelers_stem2_half 18
+    400276: travelers_stem2_half 19
+    400278: travelers_stem2_half 2
+    400280: travelers_stem2_half 3
+    400282: travelers_stem2_half 4
+    400284: travelers_stem2_half 5
+    400286: travelers_stem2_half 6
+    400288: travelers_stem2_half 7
+    400290: travelers_stem2_half 8
+    400292: travelers_stem2_half 9
+    400294: travelers_stem2_half_1
+    400296: travelers_stem2_half_1 1
+    400298: travelers_stem2_half_1 2
+    400300: travelers_stem2_half_1 3
+    400302: travelers_stem2_half_1 4
+    400304: travelers_stem2_half_1 5
+    400306: travelers_stem2_half_1 6
+    400308: travelers_stem2_half_1 7
+    400310: TravelersBase
+    400312: travelersBase_half
+    400314: travelersBase_half 1
+    400316: Travelersbase_trunk
+    400318: TravelersLeaf
+    400320: TravelersLeaf 1
+    400322: TravelersLeaf 2
+    400324: TravelersLeaf 3
+    400326: TravelersStem
+    400328: TravelersStem 1
+    400330: TravelersStem 2
+    400332: TravelersStem 3
+    400334: TravelersStem 4
+    400336: TravelersStem 5
+    400338: TravelersStem_1
+    400340: TravelersStem_1 1
+    400342: TravelersStem_1 2
+    400344: TravelersStem_1 3
+    400346: TravelersStem_1 4
+    400348: TravelersStem_1 5
+    400350: TravelersStem_1 6
+    400352: TravelersStem_1 7
+    400354: travelerstem2
+    400356: travelerstem2 1
+    400358: travelerstem2 2
+    400360: travelerstem2 3
+    400362: travelerstem2 4
+    400364: travelerstem2 5
+    400366: travelerstem2_1
+    400368: travelerstem2_1 1
+    400370: travelerstem2_1 2
+    400372: travelerstem2_1 3
+    400374: travelerstem2_1 4
+    400376: travelerstem2_1 5
+    400378: travelerstem2_1 6
+    400380: travelerstem2_1 7
+    400382: //RootNode
+    400384: TravelersTrunk
+    2300000: ID103
+    2300002: ID111
+    2300004: ID119
+    2300006: ID127
+    2300008: ID135
+    2300010: ID143
+    2300012: ID151
+    2300014: ID159
+    2300016: ID177
+    2300018: ID185
+    2300020: ID193
+    2300022: ID201
+    2300024: ID209
+    2300026: ID217
+    2300028: ID225
+    2300030: ID23
+    2300032: ID233
+    2300034: ID241
+    2300036: ID249
+    2300038: ID257
+    2300040: ID265
+    2300042: ID273
+    2300044: ID281
+    2300046: ID289
+    2300048: ID297
+    2300050: ID305
+    2300052: ID31
+    2300054: ID313
+    2300056: ID336
+    2300058: ID344
+    2300060: ID350
+    2300062: ID356
+    2300064: ID39
+    2300066: ID47
+    2300068: ID55
+    2300070: ID63
+    2300072: ID71
+    2300074: ID79
+    2300076: ID87
+    2300078: ID95
+    2300080: travelers411
+    2300082: travelers411 1
+    2300084: travelers411 10
+    2300086: travelers411 2
+    2300088: travelers411 3
+    2300090: travelers411 4
+    2300092: travelers411 5
+    2300094: travelers411 6
+    2300096: travelers411 7
+    2300098: travelers411 8
+    2300100: travelers411 9
+    2300102: travelers_stem2_half
+    2300104: travelers_stem2_half 1
+    2300106: travelers_stem2_half 10
+    2300108: travelers_stem2_half 11
+    2300110: travelers_stem2_half 12
+    2300112: travelers_stem2_half 13
+    2300114: travelers_stem2_half 14
+    2300116: travelers_stem2_half 15
+    2300118: travelers_stem2_half 16
+    2300120: travelers_stem2_half 17
+    2300122: travelers_stem2_half 18
+    2300124: travelers_stem2_half 19
+    2300126: travelers_stem2_half 2
+    2300128: travelers_stem2_half 3
+    2300130: travelers_stem2_half 4
+    2300132: travelers_stem2_half 5
+    2300134: travelers_stem2_half 6
+    2300136: travelers_stem2_half 7
+    2300138: travelers_stem2_half 8
+    2300140: travelers_stem2_half 9
+    2300142: travelers_stem2_half_1
+    2300144: travelers_stem2_half_1 1
+    2300146: travelers_stem2_half_1 2
+    2300148: travelers_stem2_half_1 3
+    2300150: travelers_stem2_half_1 4
+    2300152: travelers_stem2_half_1 5
+    2300154: travelers_stem2_half_1 6
+    2300156: travelers_stem2_half_1 7
+    2300158: travelersBase_half
+    2300160: travelersBase_half 1
+    2300162: TravelersLeaf
+    2300164: TravelersLeaf 1
+    2300166: TravelersLeaf 2
+    2300168: TravelersLeaf 3
+    2300170: TravelersTrunk
+    3300000: ID103
+    3300002: ID111
+    3300004: ID119
+    3300006: ID127
+    3300008: ID135
+    3300010: ID143
+    3300012: ID151
+    3300014: ID159
+    3300016: ID177
+    3300018: ID185
+    3300020: ID193
+    3300022: ID201
+    3300024: ID209
+    3300026: ID217
+    3300028: ID225
+    3300030: ID23
+    3300032: ID233
+    3300034: ID241
+    3300036: ID249
+    3300038: ID257
+    3300040: ID265
+    3300042: ID273
+    3300044: ID281
+    3300046: ID289
+    3300048: ID297
+    3300050: ID305
+    3300052: ID31
+    3300054: ID313
+    3300056: ID336
+    3300058: ID344
+    3300060: ID350
+    3300062: ID356
+    3300064: ID39
+    3300066: ID47
+    3300068: ID55
+    3300070: ID63
+    3300072: ID71
+    3300074: ID79
+    3300076: ID87
+    3300078: ID95
+    3300080: travelers411
+    3300082: travelers411 1
+    3300084: travelers411 10
+    3300086: travelers411 2
+    3300088: travelers411 3
+    3300090: travelers411 4
+    3300092: travelers411 5
+    3300094: travelers411 6
+    3300096: travelers411 7
+    3300098: travelers411 8
+    3300100: travelers411 9
+    3300102: travelers_stem2_half
+    3300104: travelers_stem2_half 1
+    3300106: travelers_stem2_half 10
+    3300108: travelers_stem2_half 11
+    3300110: travelers_stem2_half 12
+    3300112: travelers_stem2_half 13
+    3300114: travelers_stem2_half 14
+    3300116: travelers_stem2_half 15
+    3300118: travelers_stem2_half 16
+    3300120: travelers_stem2_half 17
+    3300122: travelers_stem2_half 18
+    3300124: travelers_stem2_half 19
+    3300126: travelers_stem2_half 2
+    3300128: travelers_stem2_half 3
+    3300130: travelers_stem2_half 4
+    3300132: travelers_stem2_half 5
+    3300134: travelers_stem2_half 6
+    3300136: travelers_stem2_half 7
+    3300138: travelers_stem2_half 8
+    3300140: travelers_stem2_half 9
+    3300142: travelers_stem2_half_1
+    3300144: travelers_stem2_half_1 1
+    3300146: travelers_stem2_half_1 2
+    3300148: travelers_stem2_half_1 3
+    3300150: travelers_stem2_half_1 4
+    3300152: travelers_stem2_half_1 5
+    3300154: travelers_stem2_half_1 6
+    3300156: travelers_stem2_half_1 7
+    3300158: travelersBase_half
+    3300160: travelersBase_half 1
+    3300162: TravelersLeaf
+    3300164: TravelersLeaf 1
+    3300166: TravelersLeaf 2
+    3300168: TravelersLeaf 3
+    3300170: TravelersTrunk
+    4300000: travelersBase_half
+    4300002: ID23
+    4300004: ID31
+    4300006: ID39
+    4300008: ID47
+    4300010: ID55
+    4300012: ID63
+    4300014: ID71
+    4300016: ID79
+    4300018: ID87
+    4300020: ID95
+    4300022: ID103
+    4300024: ID111
+    4300026: ID119
+    4300028: ID127
+    4300030: ID135
+    4300032: ID143
+    4300034: ID151
+    4300036: ID159
+    4300038: travelersBase_half
+    4300040: ID177
+    4300042: ID185
+    4300044: ID193
+    4300046: ID201
+    4300048: ID209
+    4300050: ID217
+    4300052: ID225
+    4300054: ID233
+    4300056: ID241
+    4300058: ID249
+    4300060: ID257
+    4300062: ID265
+    4300064: ID273
+    4300066: ID281
+    4300068: ID289
+    4300070: ID297
+    4300072: ID305
+    4300074: ID313
+    4300076: TravelersTrunk
+    4300078: ID336
+    4300080: ID344
+    4300082: ID350
+    4300084: ID356
+    4300086: travelers411
+    4300088: travelers_stem2_half
+    4300090: travelers_stem2_half
+    4300092: travelers_stem2_half_1
+    4300094: travelers411
+    4300096: TravelersLeaf
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

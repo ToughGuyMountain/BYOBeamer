@@ -7,6 +7,7 @@ public class Elevator : MonoBehaviour {
 	
 	public void UpButtonPressed() {
 		StartCoroutine(MoveTo(currentFloor + 1));
+		//Player.Instance.transform.parent = transform;
 	}	
 	
 	IEnumerator MoveTo(int floor) {

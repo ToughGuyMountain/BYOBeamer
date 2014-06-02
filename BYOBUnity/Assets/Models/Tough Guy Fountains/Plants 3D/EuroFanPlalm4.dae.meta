@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: bc27c7adf1e5343c09a9468c8ad36b00
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: eurofan_half
+    100002: eurofan_half 1
+    100004: eurofan_half 10
+    100006: eurofan_half 11
+    100008: eurofan_half 12
+    100010: eurofan_half 13
+    100012: eurofan_half 14
+    100014: eurofan_half 15
+    100016: eurofan_half 16
+    100018: eurofan_half 17
+    100020: eurofan_half 18
+    100022: eurofan_half 19
+    100024: eurofan_half 2
+    100026: eurofan_half 20
+    100028: eurofan_half 21
+    100030: eurofan_half 22
+    100032: eurofan_half 23
+    100034: eurofan_half 24
+    100036: eurofan_half 25
+    100038: eurofan_half 26
+    100040: eurofan_half 27
+    100042: eurofan_half 28
+    100044: eurofan_half 29
+    100046: eurofan_half 3
+    100048: eurofan_half 30
+    100050: eurofan_half 31
+    100052: eurofan_half 32
+    100054: eurofan_half 33
+    100056: eurofan_half 34
+    100058: eurofan_half 35
+    100060: eurofan_half 36
+    100062: eurofan_half 37
+    100064: eurofan_half 38
+    100066: eurofan_half 39
+    100068: eurofan_half 4
+    100070: eurofan_half 40
+    100072: eurofan_half 41
+    100074: eurofan_half 42
+    100076: eurofan_half 43
+    100078: eurofan_half 44
+    100080: eurofan_half 45
+    100082: eurofan_half 5
+    100084: eurofan_half 6
+    100086: eurofan_half 7
+    100088: eurofan_half 8
+    100090: eurofan_half 9
+    100092: eurofan_hand1
+    100094: eurofan_hand1 1
+    100096: eurofan_hand1 10
+    100098: eurofan_hand1 11
+    100100: eurofan_hand1 12
+    100102: eurofan_hand1 13
+    100104: eurofan_hand1 14
+    100106: eurofan_hand1 15
+    100108: eurofan_hand1 16
+    100110: eurofan_hand1 17
+    100112: eurofan_hand1 18
+    100114: eurofan_hand1 19
+    100116: eurofan_hand1 2
+    100118: eurofan_hand1 20
+    100120: eurofan_hand1 21
+    100122: eurofan_hand1 22
+    100124: eurofan_hand1 3
+    100126: eurofan_hand1 4
+    100128: eurofan_hand1 5
+    100130: eurofan_hand1 6
+    100132: eurofan_hand1 7
+    100134: eurofan_hand1 8
+    100136: eurofan_hand1 9
+    100138: eurofanPalm_hand
+    100140: eurofanPalm_hand 1
+    100142: eurofanPalm_hand 10
+    100144: eurofanPalm_hand 11
+    100146: eurofanPalm_hand 12
+    100148: eurofanPalm_hand 13
+    100150: eurofanPalm_hand 14
+    100152: eurofanPalm_hand 15
+    100154: eurofanPalm_hand 16
+    100156: eurofanPalm_hand 17
+    100158: eurofanPalm_hand 18
+    100160: eurofanPalm_hand 19
+    100162: eurofanPalm_hand 2
+    100164: eurofanPalm_hand 20
+    100166: eurofanPalm_hand 21
+    100168: eurofanPalm_hand 22
+    100170: eurofanPalm_hand 3
+    100172: eurofanPalm_hand 4
+    100174: eurofanPalm_hand 5
+    100176: eurofanPalm_hand 6
+    100178: eurofanPalm_hand 7
+    100180: eurofanPalm_hand 8
+    100182: eurofanPalm_hand 9
+    100184: eurofanPalm_hand_stem
+    100186: eurofanPalm_hand_stem 1
+    100188: eurofanPalm_hand_stem 10
+    100190: eurofanPalm_hand_stem 11
+    100192: eurofanPalm_hand_stem 12
+    100194: eurofanPalm_hand_stem 13
+    100196: eurofanPalm_hand_stem 14
+    100198: eurofanPalm_hand_stem 15
+    100200: eurofanPalm_hand_stem 16
+    100202: eurofanPalm_hand_stem 17
+    100204: eurofanPalm_hand_stem 18
+    100206: eurofanPalm_hand_stem 19
+    100208: eurofanPalm_hand_stem 2
+    100210: eurofanPalm_hand_stem 20
+    100212: eurofanPalm_hand_stem 21
+    100214: eurofanPalm_hand_stem 22
+    100216: eurofanPalm_hand_stem 3
+    100218: eurofanPalm_hand_stem 4
+    100220: eurofanPalm_hand_stem 5
+    100222: eurofanPalm_hand_stem 6
+    100224: eurofanPalm_hand_stem 7
+    100226: eurofanPalm_hand_stem 8
+    100228: eurofanPalm_hand_stem 9
+    100230: eurofanpalm_hands
+    100232: EurofanPalm_stem
+    100234: EurofanPalm_stem 1
+    100236: EurofanPalm_stem 10
+    100238: EurofanPalm_stem 11
+    100240: EurofanPalm_stem 12
+    100242: EurofanPalm_stem 13
+    100244: EurofanPalm_stem 14
+    100246: EurofanPalm_stem 15
+    100248: EurofanPalm_stem 16
+    100250: EurofanPalm_stem 17
+    100252: EurofanPalm_stem 18
+    100254: EurofanPalm_stem 19
+    100256: EurofanPalm_stem 2
+    100258: EurofanPalm_stem 20
+    100260: EurofanPalm_stem 21
+    100262: EurofanPalm_stem 22
+    100264: EurofanPalm_stem 3
+    100266: EurofanPalm_stem 4
+    100268: EurofanPalm_stem 5
+    100270: EurofanPalm_stem 6
+    100272: EurofanPalm_stem 7
+    100274: EurofanPalm_stem 8
+    100276: EurofanPalm_stem 9
+    100278: //RootNode
+    100280: eurofantrunck_a
+    100282: euroneck
+    100284: euroStump
+    100286: group_0
+    100288: group_1
+    100290: group_2
+    100292: ID79
+    100294: ID92
+    100296: instance_0
+    100298: instance_1
+    100300: instance_1 1
+    100302: instance_1 10
+    100304: instance_1 11
+    100306: instance_1 12
+    100308: instance_1 13
+    100310: instance_1 14
+    100312: instance_1 15
+    100314: instance_1 16
+    100316: instance_1 17
+    100318: instance_1 18
+    100320: instance_1 19
+    100322: instance_1 2
+    100324: instance_1 20
+    100326: instance_1 21
+    100328: instance_1 22
+    100330: instance_1 3
+    100332: instance_1 4
+    100334: instance_1 5
+    100336: instance_1 6
+    100338: instance_1 7
+    100340: instance_1 8
+    100342: instance_1 9
+    100344: instance_10
+    100346: instance_11
+    100348: instance_12
+    100350: instance_13
+    100352: instance_14
+    100354: instance_15
+    100356: instance_16
+    100358: instance_17
+    100360: instance_18
+    100362: instance_19
+    100364: instance_2
+    100366: instance_2 1
+    100368: instance_2 10
+    100370: instance_2 11
+    100372: instance_2 12
+    100374: instance_2 13
+    100376: instance_2 14
+    100378: instance_2 15
+    100380: instance_2 16
+    100382: instance_2 17
+    100384: instance_2 18
+    100386: instance_2 19
+    100388: instance_2 2
+    100390: instance_2 20
+    100392: instance_2 21
+    100394: instance_2 22
+    100396: instance_2 3
+    100398: instance_2 4
+    100400: instance_2 5
+    100402: instance_2 6
+    100404: instance_2 7
+    100406: instance_2 8
+    100408: instance_2 9
+    100410: instance_20
+    100412: instance_21
+    100414: instance_22
+    100416: instance_23
+    100418: instance_24
+    100420: instance_25
+    100422: instance_26
+    100424: instance_27
+    100426: instance_28
+    100428: instance_29
+    100430: instance_3
+    100432: instance_3 1
+    100434: instance_3 10
+    100436: instance_3 11
+    100438: instance_3 12
+    100440: instance_3 13
+    100442: instance_3 14
+    100444: instance_3 15
+    100446: instance_3 16
+    100448: instance_3 17
+    100450: instance_3 18
+    100452: instance_3 19
+    100454: instance_3 2
+    100456: instance_3 20
+    100458: instance_3 21
+    100460: instance_3 22
+    100462: instance_3 3
+    100464: instance_3 4
+    100466: instance_3 5
+    100468: instance_3 6
+    100470: instance_3 7
+    100472: instance_3 8
+    100474: instance_3 9
+    100476: instance_30
+    100478: instance_31
+    100480: instance_4
+    100482: instance_4 1
+    100484: instance_4 10
+    100486: instance_4 11
+    100488: instance_4 12
+    100490: instance_4 13
+    100492: instance_4 14
+    100494: instance_4 15
+    100496: instance_4 16
+    100498: instance_4 17
+    100500: instance_4 18
+    100502: instance_4 19
+    100504: instance_4 2
+    100506: instance_4 20
+    100508: instance_4 21
+    100510: instance_4 22
+    100512: instance_4 3
+    100514: instance_4 4
+    100516: instance_4 5
+    100518: instance_4 6
+    100520: instance_4 7
+    100522: instance_4 8
+    100524: instance_4 9
+    100526: instance_5
+    100528: instance_5 1
+    100530: instance_5 10
+    100532: instance_5 11
+    100534: instance_5 12
+    100536: instance_5 13
+    100538: instance_5 14
+    100540: instance_5 15
+    100542: instance_5 16
+    100544: instance_5 17
+    100546: instance_5 18
+    100548: instance_5 19
+    100550: instance_5 2
+    100552: instance_5 20
+    100554: instance_5 21
+    100556: instance_5 22
+    100558: instance_5 3
+    100560: instance_5 4
+    100562: instance_5 5
+    100564: instance_5 6
+    100566: instance_5 7
+    100568: instance_5 8
+    100570: instance_5 9
+    100572: instance_6
+    100574: instance_7
+    100576: instance_8
+    100578: instance_9
+    400000: eurofan_half
+    400002: eurofan_half 1
+    400004: eurofan_half 10
+    400006: eurofan_half 11
+    400008: eurofan_half 12
+    400010: eurofan_half 13
+    400012: eurofan_half 14
+    400014: eurofan_half 15
+    400016: eurofan_half 16
+    400018: eurofan_half 17
+    400020: eurofan_half 18
+    400022: eurofan_half 19
+    400024: eurofan_half 2
+    400026: eurofan_half 20
+    400028: eurofan_half 21
+    400030: eurofan_half 22
+    400032: eurofan_half 23
+    400034: eurofan_half 24
+    400036: eurofan_half 25
+    400038: eurofan_half 26
+    400040: eurofan_half 27
+    400042: eurofan_half 28
+    400044: eurofan_half 29
+    400046: eurofan_half 3
+    400048: eurofan_half 30
+    400050: eurofan_half 31
+    400052: eurofan_half 32
+    400054: eurofan_half 33
+    400056: eurofan_half 34
+    400058: eurofan_half 35
+    400060: eurofan_half 36
+    400062: eurofan_half 37
+    400064: eurofan_half 38
+    400066: eurofan_half 39
+    400068: eurofan_half 4
+    400070: eurofan_half 40
+    400072: eurofan_half 41
+    400074: eurofan_half 42
+    400076: eurofan_half 43
+    400078: eurofan_half 44
+    400080: eurofan_half 45
+    400082: eurofan_half 5
+    400084: eurofan_half 6
+    400086: eurofan_half 7
+    400088: eurofan_half 8
+    400090: eurofan_half 9
+    400092: eurofan_hand1
+    400094: eurofan_hand1 1
+    400096: eurofan_hand1 10
+    400098: eurofan_hand1 11
+    400100: eurofan_hand1 12
+    400102: eurofan_hand1 13
+    400104: eurofan_hand1 14
+    400106: eurofan_hand1 15
+    400108: eurofan_hand1 16
+    400110: eurofan_hand1 17
+    400112: eurofan_hand1 18
+    400114: eurofan_hand1 19
+    400116: eurofan_hand1 2
+    400118: eurofan_hand1 20
+    400120: eurofan_hand1 21
+    400122: eurofan_hand1 22
+    400124: eurofan_hand1 3
+    400126: eurofan_hand1 4
+    400128: eurofan_hand1 5
+    400130: eurofan_hand1 6
+    400132: eurofan_hand1 7
+    400134: eurofan_hand1 8
+    400136: eurofan_hand1 9
+    400138: eurofanPalm_hand
+    400140: eurofanPalm_hand 1
+    400142: eurofanPalm_hand 10
+    400144: eurofanPalm_hand 11
+    400146: eurofanPalm_hand 12
+    400148: eurofanPalm_hand 13
+    400150: eurofanPalm_hand 14
+    400152: eurofanPalm_hand 15
+    400154: eurofanPalm_hand 16
+    400156: eurofanPalm_hand 17
+    400158: eurofanPalm_hand 18
+    400160: eurofanPalm_hand 19
+    400162: eurofanPalm_hand 2
+    400164: eurofanPalm_hand 20
+    400166: eurofanPalm_hand 21
+    400168: eurofanPalm_hand 22
+    400170: eurofanPalm_hand 3
+    400172: eurofanPalm_hand 4
+    400174: eurofanPalm_hand 5
+    400176: eurofanPalm_hand 6
+    400178: eurofanPalm_hand 7
+    400180: eurofanPalm_hand 8
+    400182: eurofanPalm_hand 9
+    400184: eurofanPalm_hand_stem
+    400186: eurofanPalm_hand_stem 1
+    400188: eurofanPalm_hand_stem 10
+    400190: eurofanPalm_hand_stem 11
+    400192: eurofanPalm_hand_stem 12
+    400194: eurofanPalm_hand_stem 13
+    400196: eurofanPalm_hand_stem 14
+    400198: eurofanPalm_hand_stem 15
+    400200: eurofanPalm_hand_stem 16
+    400202: eurofanPalm_hand_stem 17
+    400204: eurofanPalm_hand_stem 18
+    400206: eurofanPalm_hand_stem 19
+    400208: eurofanPalm_hand_stem 2
+    400210: eurofanPalm_hand_stem 20
+    400212: eurofanPalm_hand_stem 21
+    400214: eurofanPalm_hand_stem 22
+    400216: eurofanPalm_hand_stem 3
+    400218: eurofanPalm_hand_stem 4
+    400220: eurofanPalm_hand_stem 5
+    400222: eurofanPalm_hand_stem 6
+    400224: eurofanPalm_hand_stem 7
+    400226: eurofanPalm_hand_stem 8
+    400228: eurofanPalm_hand_stem 9
+    400230: eurofanpalm_hands
+    400232: EurofanPalm_stem
+    400234: EurofanPalm_stem 1
+    400236: EurofanPalm_stem 10
+    400238: EurofanPalm_stem 11
+    400240: EurofanPalm_stem 12
+    400242: EurofanPalm_stem 13
+    400244: EurofanPalm_stem 14
+    400246: EurofanPalm_stem 15
+    400248: EurofanPalm_stem 16
+    400250: EurofanPalm_stem 17
+    400252: EurofanPalm_stem 18
+    400254: EurofanPalm_stem 19
+    400256: EurofanPalm_stem 2
+    400258: EurofanPalm_stem 20
+    400260: EurofanPalm_stem 21
+    400262: EurofanPalm_stem 22
+    400264: EurofanPalm_stem 3
+    400266: EurofanPalm_stem 4
+    400268: EurofanPalm_stem 5
+    400270: EurofanPalm_stem 6
+    400272: EurofanPalm_stem 7
+    400274: EurofanPalm_stem 8
+    400276: EurofanPalm_stem 9
+    400278: //RootNode
+    400280: eurofantrunck_a
+    400282: euroneck
+    400284: euroStump
+    400286: group_0
+    400288: group_1
+    400290: group_2
+    400292: ID79
+    400294: ID92
+    400296: instance_0
+    400298: instance_1
+    400300: instance_1 1
+    400302: instance_1 10
+    400304: instance_1 11
+    400306: instance_1 12
+    400308: instance_1 13
+    400310: instance_1 14
+    400312: instance_1 15
+    400314: instance_1 16
+    400316: instance_1 17
+    400318: instance_1 18
+    400320: instance_1 19
+    400322: instance_1 2
+    400324: instance_1 20
+    400326: instance_1 21
+    400328: instance_1 22
+    400330: instance_1 3
+    400332: instance_1 4
+    400334: instance_1 5
+    400336: instance_1 6
+    400338: instance_1 7
+    400340: instance_1 8
+    400342: instance_1 9
+    400344: instance_10
+    400346: instance_11
+    400348: instance_12
+    400350: instance_13
+    400352: instance_14
+    400354: instance_15
+    400356: instance_16
+    400358: instance_17
+    400360: instance_18
+    400362: instance_19
+    400364: instance_2
+    400366: instance_2 1
+    400368: instance_2 10
+    400370: instance_2 11
+    400372: instance_2 12
+    400374: instance_2 13
+    400376: instance_2 14
+    400378: instance_2 15
+    400380: instance_2 16
+    400382: instance_2 17
+    400384: instance_2 18
+    400386: instance_2 19
+    400388: instance_2 2
+    400390: instance_2 20
+    400392: instance_2 21
+    400394: instance_2 22
+    400396: instance_2 3
+    400398: instance_2 4
+    400400: instance_2 5
+    400402: instance_2 6
+    400404: instance_2 7
+    400406: instance_2 8
+    400408: instance_2 9
+    400410: instance_20
+    400412: instance_21
+    400414: instance_22
+    400416: instance_23
+    400418: instance_24
+    400420: instance_25
+    400422: instance_26
+    400424: instance_27
+    400426: instance_28
+    400428: instance_29
+    400430: instance_3
+    400432: instance_3 1
+    400434: instance_3 10
+    400436: instance_3 11
+    400438: instance_3 12
+    400440: instance_3 13
+    400442: instance_3 14
+    400444: instance_3 15
+    400446: instance_3 16
+    400448: instance_3 17
+    400450: instance_3 18
+    400452: instance_3 19
+    400454: instance_3 2
+    400456: instance_3 20
+    400458: instance_3 21
+    400460: instance_3 22
+    400462: instance_3 3
+    400464: instance_3 4
+    400466: instance_3 5
+    400468: instance_3 6
+    400470: instance_3 7
+    400472: instance_3 8
+    400474: instance_3 9
+    400476: instance_30
+    400478: instance_31
+    400480: instance_4
+    400482: instance_4 1
+    400484: instance_4 10
+    400486: instance_4 11
+    400488: instance_4 12
+    400490: instance_4 13
+    400492: instance_4 14
+    400494: instance_4 15
+    400496: instance_4 16
+    400498: instance_4 17
+    400500: instance_4 18
+    400502: instance_4 19
+    400504: instance_4 2
+    400506: instance_4 20
+    400508: instance_4 21
+    400510: instance_4 22
+    400512: instance_4 3
+    400514: instance_4 4
+    400516: instance_4 5
+    400518: instance_4 6
+    400520: instance_4 7
+    400522: instance_4 8
+    400524: instance_4 9
+    400526: instance_5
+    400528: instance_5 1
+    400530: instance_5 10
+    400532: instance_5 11
+    400534: instance_5 12
+    400536: instance_5 13
+    400538: instance_5 14
+    400540: instance_5 15
+    400542: instance_5 16
+    400544: instance_5 17
+    400546: instance_5 18
+    400548: instance_5 19
+    400550: instance_5 2
+    400552: instance_5 20
+    400554: instance_5 21
+    400556: instance_5 22
+    400558: instance_5 3
+    400560: instance_5 4
+    400562: instance_5 5
+    400564: instance_5 6
+    400566: instance_5 7
+    400568: instance_5 8
+    400570: instance_5 9
+    400572: instance_6
+    400574: instance_7
+    400576: instance_8
+    400578: instance_9
+    2300000: eurofan_half
+    2300002: eurofan_half 1
+    2300004: eurofan_half 10
+    2300006: eurofan_half 11
+    2300008: eurofan_half 12
+    2300010: eurofan_half 13
+    2300012: eurofan_half 14
+    2300014: eurofan_half 15
+    2300016: eurofan_half 16
+    2300018: eurofan_half 17
+    2300020: eurofan_half 18
+    2300022: eurofan_half 19
+    2300024: eurofan_half 2
+    2300026: eurofan_half 20
+    2300028: eurofan_half 21
+    2300030: eurofan_half 22
+    2300032: eurofan_half 23
+    2300034: eurofan_half 24
+    2300036: eurofan_half 25
+    2300038: eurofan_half 26
+    2300040: eurofan_half 27
+    2300042: eurofan_half 28
+    2300044: eurofan_half 29
+    2300046: eurofan_half 3
+    2300048: eurofan_half 30
+    2300050: eurofan_half 31
+    2300052: eurofan_half 32
+    2300054: eurofan_half 33
+    2300056: eurofan_half 34
+    2300058: eurofan_half 35
+    2300060: eurofan_half 36
+    2300062: eurofan_half 37
+    2300064: eurofan_half 38
+    2300066: eurofan_half 39
+    2300068: eurofan_half 4
+    2300070: eurofan_half 40
+    2300072: eurofan_half 41
+    2300074: eurofan_half 42
+    2300076: eurofan_half 43
+    2300078: eurofan_half 44
+    2300080: eurofan_half 45
+    2300082: eurofan_half 5
+    2300084: eurofan_half 6
+    2300086: eurofan_half 7
+    2300088: eurofan_half 8
+    2300090: eurofan_half 9
+    2300092: EurofanPalm_stem
+    2300094: EurofanPalm_stem 1
+    2300096: EurofanPalm_stem 10
+    2300098: EurofanPalm_stem 11
+    2300100: EurofanPalm_stem 12
+    2300102: EurofanPalm_stem 13
+    2300104: EurofanPalm_stem 14
+    2300106: EurofanPalm_stem 15
+    2300108: EurofanPalm_stem 16
+    2300110: EurofanPalm_stem 17
+    2300112: EurofanPalm_stem 18
+    2300114: EurofanPalm_stem 19
+    2300116: EurofanPalm_stem 2
+    2300118: EurofanPalm_stem 20
+    2300120: EurofanPalm_stem 21
+    2300122: EurofanPalm_stem 22
+    2300124: EurofanPalm_stem 3
+    2300126: EurofanPalm_stem 4
+    2300128: EurofanPalm_stem 5
+    2300130: EurofanPalm_stem 6
+    2300132: EurofanPalm_stem 7
+    2300134: EurofanPalm_stem 8
+    2300136: EurofanPalm_stem 9
+    2300138: euroneck
+    2300140: euroStump
+    2300142: ID79
+    3300000: eurofan_half
+    3300002: eurofan_half 1
+    3300004: eurofan_half 10
+    3300006: eurofan_half 11
+    3300008: eurofan_half 12
+    3300010: eurofan_half 13
+    3300012: eurofan_half 14
+    3300014: eurofan_half 15
+    3300016: eurofan_half 16
+    3300018: eurofan_half 17
+    3300020: eurofan_half 18
+    3300022: eurofan_half 19
+    3300024: eurofan_half 2
+    3300026: eurofan_half 20
+    3300028: eurofan_half 21
+    3300030: eurofan_half 22
+    3300032: eurofan_half 23
+    3300034: eurofan_half 24
+    3300036: eurofan_half 25
+    3300038: eurofan_half 26
+    3300040: eurofan_half 27
+    3300042: eurofan_half 28
+    3300044: eurofan_half 29
+    3300046: eurofan_half 3
+    3300048: eurofan_half 30
+    3300050: eurofan_half 31
+    3300052: eurofan_half 32
+    3300054: eurofan_half 33
+    3300056: eurofan_half 34
+    3300058: eurofan_half 35
+    3300060: eurofan_half 36
+    3300062: eurofan_half 37
+    3300064: eurofan_half 38
+    3300066: eurofan_half 39
+    3300068: eurofan_half 4
+    3300070: eurofan_half 40
+    3300072: eurofan_half 41
+    3300074: eurofan_half 42
+    3300076: eurofan_half 43
+    3300078: eurofan_half 44
+    3300080: eurofan_half 45
+    3300082: eurofan_half 5
+    3300084: eurofan_half 6
+    3300086: eurofan_half 7
+    3300088: eurofan_half 8
+    3300090: eurofan_half 9
+    3300092: EurofanPalm_stem
+    3300094: EurofanPalm_stem 1
+    3300096: EurofanPalm_stem 10
+    3300098: EurofanPalm_stem 11
+    3300100: EurofanPalm_stem 12
+    3300102: EurofanPalm_stem 13
+    3300104: EurofanPalm_stem 14
+    3300106: EurofanPalm_stem 15
+    3300108: EurofanPalm_stem 16
+    3300110: EurofanPalm_stem 17
+    3300112: EurofanPalm_stem 18
+    3300114: EurofanPalm_stem 19
+    3300116: EurofanPalm_stem 2
+    3300118: EurofanPalm_stem 20
+    3300120: EurofanPalm_stem 21
+    3300122: EurofanPalm_stem 22
+    3300124: EurofanPalm_stem 3
+    3300126: EurofanPalm_stem 4
+    3300128: EurofanPalm_stem 5
+    3300130: EurofanPalm_stem 6
+    3300132: EurofanPalm_stem 7
+    3300134: EurofanPalm_stem 8
+    3300136: EurofanPalm_stem 9
+    3300138: euroneck
+    3300140: euroStump
+    3300142: ID79
+    4300000: eurofan_half
+    4300002: eurofan_half
+    4300004: EurofanPalm_stem
+    4300006: euroneck
+    4300008: ID79
+    4300010: euroStump
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

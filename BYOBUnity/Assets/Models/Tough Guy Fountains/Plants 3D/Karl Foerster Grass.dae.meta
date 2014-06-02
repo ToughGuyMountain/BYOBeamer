@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: ce2e3a4f8853846e9b6fa60cb8a7dc5f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: image_0
+    100002: image_0 1
+    100004: image_0 2
+    100006: image_0 3
+    100008: image_0 4
+    100010: image_0 5
+    100012: image_0 6
+    100014: image_0 7
+    100016: image_0 8
+    100018: image_0 9
+    100020: instance_0
+    100022: instance_1
+    100024: //RootNode
+    100026: Karl_Foerster
+    100028: Karl_Foerster_grass
+    100030: Karl_Foerster_grass 1
+    100032: Karl_Foerster_grass 2
+    100034: Karl_Foerster_grass 3
+    100036: Karl_Foerster_grass 4
+    100038: Karl_Foerster_grass 5
+    100040: Karl_Foerster_grass 6
+    100042: Karl_Foerster_grass 7
+    100044: Karl_Foerster_grass 8
+    100046: Karl_Foerster_grass 9
+    100048: Karl_Foerster_grass_copy_001
+    100050: Karl_Foerster_grass_copy_002
+    100052: Karl_Foerster_grass_copy_003
+    100054: Karl_Foerster_grass_copy_004
+    100056: Karl_Foerster_grass_copy_005
+    100058: Karl_Foerster_grass_copy_006
+    100060: Karl_Foerster_grass_copy_007
+    100062: Karl_Foerster_grass_copy_008
+    100064: Karl_Foerster_grass_copy_009
+    400000: image_0
+    400002: image_0 1
+    400004: image_0 2
+    400006: image_0 3
+    400008: image_0 4
+    400010: image_0 5
+    400012: image_0 6
+    400014: image_0 7
+    400016: image_0 8
+    400018: image_0 9
+    400020: instance_0
+    400022: instance_1
+    400024: //RootNode
+    400026: Karl_Foerster
+    400028: Karl_Foerster_grass
+    400030: Karl_Foerster_grass 1
+    400032: Karl_Foerster_grass 2
+    400034: Karl_Foerster_grass 3
+    400036: Karl_Foerster_grass 4
+    400038: Karl_Foerster_grass 5
+    400040: Karl_Foerster_grass 6
+    400042: Karl_Foerster_grass 7
+    400044: Karl_Foerster_grass 8
+    400046: Karl_Foerster_grass 9
+    400048: Karl_Foerster_grass_copy_001
+    400050: Karl_Foerster_grass_copy_002
+    400052: Karl_Foerster_grass_copy_003
+    400054: Karl_Foerster_grass_copy_004
+    400056: Karl_Foerster_grass_copy_005
+    400058: Karl_Foerster_grass_copy_006
+    400060: Karl_Foerster_grass_copy_007
+    400062: Karl_Foerster_grass_copy_008
+    400064: Karl_Foerster_grass_copy_009
+    2300000: image_0
+    2300002: image_0 1
+    2300004: image_0 2
+    2300006: image_0 3
+    2300008: image_0 4
+    2300010: image_0 5
+    2300012: image_0 6
+    2300014: image_0 7
+    2300016: image_0 8
+    2300018: image_0 9
+    3300000: image_0
+    3300002: image_0 1
+    3300004: image_0 2
+    3300006: image_0 3
+    3300008: image_0 4
+    3300010: image_0 5
+    3300012: image_0 6
+    3300014: image_0 7
+    3300016: image_0 8
+    3300018: image_0 9
+    4300000: image_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

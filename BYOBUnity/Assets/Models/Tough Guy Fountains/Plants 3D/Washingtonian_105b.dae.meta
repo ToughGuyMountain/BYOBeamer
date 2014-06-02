@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: c628164a3bc1247aca09d5b995f00971
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Beard2
+    100002: BeardPatch20
+    100004: BeardPatch20 1
+    100006: BeardPatch20 10
+    100008: BeardPatch20 11
+    100010: BeardPatch20 2
+    100012: BeardPatch20 3
+    100014: BeardPatch20 4
+    100016: BeardPatch20 5
+    100018: BeardPatch20 6
+    100020: BeardPatch20 7
+    100022: BeardPatch20 8
+    100024: BeardPatch20 9
+    100026: cabbage_stemq1
+    100028: cabbage_stemq1 1
+    100030: cabbage_stemq1 10
+    100032: cabbage_stemq1 11
+    100034: cabbage_stemq1 12
+    100036: cabbage_stemq1 13
+    100038: cabbage_stemq1 14
+    100040: cabbage_stemq1 15
+    100042: cabbage_stemq1 16
+    100044: cabbage_stemq1 17
+    100046: cabbage_stemq1 18
+    100048: cabbage_stemq1 19
+    100050: cabbage_stemq1 2
+    100052: cabbage_stemq1 20
+    100054: cabbage_stemq1 21
+    100056: cabbage_stemq1 22
+    100058: cabbage_stemq1 3
+    100060: cabbage_stemq1 4
+    100062: cabbage_stemq1 5
+    100064: cabbage_stemq1 6
+    100066: cabbage_stemq1 7
+    100068: cabbage_stemq1 8
+    100070: cabbage_stemq1 9
+    100072: group_0
+    100074: group_1
+    100076: group_2
+    100078: ID20
+    100080: instance_0
+    100082: instance_1
+    100084: instance_10
+    100086: instance_11
+    100088: instance_12
+    100090: instance_13
+    100092: instance_14
+    100094: instance_15
+    100096: instance_16
+    100098: instance_17
+    100100: instance_18
+    100102: instance_19
+    100104: instance_2
+    100106: instance_20
+    100108: instance_21
+    100110: instance_22
+    100112: instance_23
+    100114: instance_24
+    100116: instance_25
+    100118: instance_26
+    100120: instance_27
+    100122: instance_28
+    100124: instance_29
+    100126: instance_3
+    100128: instance_3 1
+    100130: instance_3 10
+    100132: instance_3 11
+    100134: instance_3 12
+    100136: instance_3 13
+    100138: instance_3 14
+    100140: instance_3 15
+    100142: instance_3 16
+    100144: instance_3 17
+    100146: instance_3 18
+    100148: instance_3 19
+    100150: instance_3 2
+    100152: instance_3 20
+    100154: instance_3 21
+    100156: instance_3 22
+    100158: instance_3 3
+    100160: instance_3 4
+    100162: instance_3 5
+    100164: instance_3 6
+    100166: instance_3 7
+    100168: instance_3 8
+    100170: instance_3 9
+    100172: instance_30
+    100174: instance_31
+    100176: instance_32
+    100178: instance_33
+    100180: instance_34
+    100182: instance_35
+    100184: instance_36
+    100186: instance_37
+    100188: instance_38
+    100190: instance_39
+    100192: instance_4
+    100194: instance_4 1
+    100196: instance_4 10
+    100198: instance_4 11
+    100200: instance_4 12
+    100202: instance_4 13
+    100204: instance_4 14
+    100206: instance_4 15
+    100208: instance_4 16
+    100210: instance_4 17
+    100212: instance_4 18
+    100214: instance_4 19
+    100216: instance_4 2
+    100218: instance_4 20
+    100220: instance_4 21
+    100222: instance_4 22
+    100224: instance_4 3
+    100226: instance_4 4
+    100228: instance_4 5
+    100230: instance_4 6
+    100232: instance_4 7
+    100234: instance_4 8
+    100236: instance_4 9
+    100238: instance_40
+    100240: instance_41
+    100242: instance_5
+    100244: instance_5 1
+    100246: instance_5 10
+    100248: instance_5 11
+    100250: instance_5 12
+    100252: instance_5 13
+    100254: instance_5 14
+    100256: instance_5 15
+    100258: instance_5 16
+    100260: instance_5 17
+    100262: instance_5 18
+    100264: instance_5 19
+    100266: instance_5 2
+    100268: instance_5 20
+    100270: instance_5 21
+    100272: instance_5 22
+    100274: instance_5 3
+    100276: instance_5 4
+    100278: instance_5 5
+    100280: instance_5 6
+    100282: instance_5 7
+    100284: instance_5 8
+    100286: instance_5 9
+    100288: instance_6
+    100290: instance_6 1
+    100292: instance_6 10
+    100294: instance_6 11
+    100296: instance_6 12
+    100298: instance_6 13
+    100300: instance_6 14
+    100302: instance_6 15
+    100304: instance_6 16
+    100306: instance_6 17
+    100308: instance_6 18
+    100310: instance_6 19
+    100312: instance_6 2
+    100314: instance_6 20
+    100316: instance_6 21
+    100318: instance_6 22
+    100320: instance_6 3
+    100322: instance_6 4
+    100324: instance_6 5
+    100326: instance_6 6
+    100328: instance_6 7
+    100330: instance_6 8
+    100332: instance_6 9
+    100334: instance_7
+    100336: instance_8
+    100338: instance_9
+    100340: wash105_phron_stem
+    100342: wash105_phron_stem 1
+    100344: wash105_phron_stem 10
+    100346: wash105_phron_stem 11
+    100348: wash105_phron_stem 12
+    100350: wash105_phron_stem 13
+    100352: wash105_phron_stem 14
+    100354: wash105_phron_stem 15
+    100356: wash105_phron_stem 16
+    100358: wash105_phron_stem 17
+    100360: wash105_phron_stem 18
+    100362: wash105_phron_stem 19
+    100364: wash105_phron_stem 2
+    100366: wash105_phron_stem 20
+    100368: wash105_phron_stem 21
+    100370: wash105_phron_stem 22
+    100372: wash105_phron_stem 3
+    100374: wash105_phron_stem 4
+    100376: wash105_phron_stem 5
+    100378: wash105_phron_stem 6
+    100380: wash105_phron_stem 7
+    100382: wash105_phron_stem 8
+    100384: wash105_phron_stem 9
+    100386: wash_105_half
+    100388: wash_105_half 1
+    100390: wash_105_half 10
+    100392: wash_105_half 11
+    100394: wash_105_half 12
+    100396: wash_105_half 13
+    100398: wash_105_half 14
+    100400: wash_105_half 15
+    100402: wash_105_half 16
+    100404: wash_105_half 17
+    100406: wash_105_half 18
+    100408: wash_105_half 19
+    100410: wash_105_half 2
+    100412: wash_105_half 20
+    100414: wash_105_half 21
+    100416: wash_105_half 22
+    100418: wash_105_half 23
+    100420: wash_105_half 24
+    100422: wash_105_half 25
+    100424: wash_105_half 26
+    100426: wash_105_half 27
+    100428: wash_105_half 28
+    100430: wash_105_half 29
+    100432: wash_105_half 3
+    100434: wash_105_half 30
+    100436: wash_105_half 31
+    100438: wash_105_half 32
+    100440: wash_105_half 33
+    100442: wash_105_half 34
+    100444: wash_105_half 35
+    100446: wash_105_half 36
+    100448: wash_105_half 37
+    100450: wash_105_half 38
+    100452: wash_105_half 39
+    100454: wash_105_half 4
+    100456: wash_105_half 40
+    100458: wash_105_half 41
+    100460: wash_105_half 42
+    100462: wash_105_half 43
+    100464: wash_105_half 44
+    100466: wash_105_half 45
+    100468: wash_105_half 5
+    100470: wash_105_half 6
+    100472: wash_105_half 7
+    100474: wash_105_half 8
+    100476: wash_105_half 9
+    100478: wash_105_whole
+    100480: wash_105_whole 1
+    100482: wash_105_whole 10
+    100484: wash_105_whole 11
+    100486: wash_105_whole 12
+    100488: wash_105_whole 13
+    100490: wash_105_whole 14
+    100492: wash_105_whole 15
+    100494: wash_105_whole 16
+    100496: wash_105_whole 17
+    100498: wash_105_whole 18
+    100500: wash_105_whole 19
+    100502: wash_105_whole 2
+    100504: wash_105_whole 20
+    100506: wash_105_whole 21
+    100508: wash_105_whole 22
+    100510: wash_105_whole 3
+    100512: wash_105_whole 4
+    100514: wash_105_whole 5
+    100516: wash_105_whole 6
+    100518: wash_105_whole 7
+    100520: wash_105_whole 8
+    100522: wash_105_whole 9
+    100524: wash_trunck
+    100526: //RootNode
+    100528: washingtonianHead
+    400000: Beard2
+    400002: BeardPatch20
+    400004: BeardPatch20 1
+    400006: BeardPatch20 10
+    400008: BeardPatch20 11
+    400010: BeardPatch20 2
+    400012: BeardPatch20 3
+    400014: BeardPatch20 4
+    400016: BeardPatch20 5
+    400018: BeardPatch20 6
+    400020: BeardPatch20 7
+    400022: BeardPatch20 8
+    400024: BeardPatch20 9
+    400026: cabbage_stemq1
+    400028: cabbage_stemq1 1
+    400030: cabbage_stemq1 10
+    400032: cabbage_stemq1 11
+    400034: cabbage_stemq1 12
+    400036: cabbage_stemq1 13
+    400038: cabbage_stemq1 14
+    400040: cabbage_stemq1 15
+    400042: cabbage_stemq1 16
+    400044: cabbage_stemq1 17
+    400046: cabbage_stemq1 18
+    400048: cabbage_stemq1 19
+    400050: cabbage_stemq1 2
+    400052: cabbage_stemq1 20
+    400054: cabbage_stemq1 21
+    400056: cabbage_stemq1 22
+    400058: cabbage_stemq1 3
+    400060: cabbage_stemq1 4
+    400062: cabbage_stemq1 5
+    400064: cabbage_stemq1 6
+    400066: cabbage_stemq1 7
+    400068: cabbage_stemq1 8
+    400070: cabbage_stemq1 9
+    400072: group_0
+    400074: group_1
+    400076: group_2
+    400078: ID20
+    400080: instance_0
+    400082: instance_1
+    400084: instance_10
+    400086: instance_11
+    400088: instance_12
+    400090: instance_13
+    400092: instance_14
+    400094: instance_15
+    400096: instance_16
+    400098: instance_17
+    400100: instance_18
+    400102: instance_19
+    400104: instance_2
+    400106: instance_20
+    400108: instance_21
+    400110: instance_22
+    400112: instance_23
+    400114: instance_24
+    400116: instance_25
+    400118: instance_26
+    400120: instance_27
+    400122: instance_28
+    400124: instance_29
+    400126: instance_3
+    400128: instance_3 1
+    400130: instance_3 10
+    400132: instance_3 11
+    400134: instance_3 12
+    400136: instance_3 13
+    400138: instance_3 14
+    400140: instance_3 15
+    400142: instance_3 16
+    400144: instance_3 17
+    400146: instance_3 18
+    400148: instance_3 19
+    400150: instance_3 2
+    400152: instance_3 20
+    400154: instance_3 21
+    400156: instance_3 22
+    400158: instance_3 3
+    400160: instance_3 4
+    400162: instance_3 5
+    400164: instance_3 6
+    400166: instance_3 7
+    400168: instance_3 8
+    400170: instance_3 9
+    400172: instance_30
+    400174: instance_31
+    400176: instance_32
+    400178: instance_33
+    400180: instance_34
+    400182: instance_35
+    400184: instance_36
+    400186: instance_37
+    400188: instance_38
+    400190: instance_39
+    400192: instance_4
+    400194: instance_4 1
+    400196: instance_4 10
+    400198: instance_4 11
+    400200: instance_4 12
+    400202: instance_4 13
+    400204: instance_4 14
+    400206: instance_4 15
+    400208: instance_4 16
+    400210: instance_4 17
+    400212: instance_4 18
+    400214: instance_4 19
+    400216: instance_4 2
+    400218: instance_4 20
+    400220: instance_4 21
+    400222: instance_4 22
+    400224: instance_4 3
+    400226: instance_4 4
+    400228: instance_4 5
+    400230: instance_4 6
+    400232: instance_4 7
+    400234: instance_4 8
+    400236: instance_4 9
+    400238: instance_40
+    400240: instance_41
+    400242: instance_5
+    400244: instance_5 1
+    400246: instance_5 10
+    400248: instance_5 11
+    400250: instance_5 12
+    400252: instance_5 13
+    400254: instance_5 14
+    400256: instance_5 15
+    400258: instance_5 16
+    400260: instance_5 17
+    400262: instance_5 18
+    400264: instance_5 19
+    400266: instance_5 2
+    400268: instance_5 20
+    400270: instance_5 21
+    400272: instance_5 22
+    400274: instance_5 3
+    400276: instance_5 4
+    400278: instance_5 5
+    400280: instance_5 6
+    400282: instance_5 7
+    400284: instance_5 8
+    400286: instance_5 9
+    400288: instance_6
+    400290: instance_6 1
+    400292: instance_6 10
+    400294: instance_6 11
+    400296: instance_6 12
+    400298: instance_6 13
+    400300: instance_6 14
+    400302: instance_6 15
+    400304: instance_6 16
+    400306: instance_6 17
+    400308: instance_6 18
+    400310: instance_6 19
+    400312: instance_6 2
+    400314: instance_6 20
+    400316: instance_6 21
+    400318: instance_6 22
+    400320: instance_6 3
+    400322: instance_6 4
+    400324: instance_6 5
+    400326: instance_6 6
+    400328: instance_6 7
+    400330: instance_6 8
+    400332: instance_6 9
+    400334: instance_7
+    400336: instance_8
+    400338: instance_9
+    400340: wash105_phron_stem
+    400342: wash105_phron_stem 1
+    400344: wash105_phron_stem 10
+    400346: wash105_phron_stem 11
+    400348: wash105_phron_stem 12
+    400350: wash105_phron_stem 13
+    400352: wash105_phron_stem 14
+    400354: wash105_phron_stem 15
+    400356: wash105_phron_stem 16
+    400358: wash105_phron_stem 17
+    400360: wash105_phron_stem 18
+    400362: wash105_phron_stem 19
+    400364: wash105_phron_stem 2
+    400366: wash105_phron_stem 20
+    400368: wash105_phron_stem 21
+    400370: wash105_phron_stem 22
+    400372: wash105_phron_stem 3
+    400374: wash105_phron_stem 4
+    400376: wash105_phron_stem 5
+    400378: wash105_phron_stem 6
+    400380: wash105_phron_stem 7
+    400382: wash105_phron_stem 8
+    400384: wash105_phron_stem 9
+    400386: wash_105_half
+    400388: wash_105_half 1
+    400390: wash_105_half 10
+    400392: wash_105_half 11
+    400394: wash_105_half 12
+    400396: wash_105_half 13
+    400398: wash_105_half 14
+    400400: wash_105_half 15
+    400402: wash_105_half 16
+    400404: wash_105_half 17
+    400406: wash_105_half 18
+    400408: wash_105_half 19
+    400410: wash_105_half 2
+    400412: wash_105_half 20
+    400414: wash_105_half 21
+    400416: wash_105_half 22
+    400418: wash_105_half 23
+    400420: wash_105_half 24
+    400422: wash_105_half 25
+    400424: wash_105_half 26
+    400426: wash_105_half 27
+    400428: wash_105_half 28
+    400430: wash_105_half 29
+    400432: wash_105_half 3
+    400434: wash_105_half 30
+    400436: wash_105_half 31
+    400438: wash_105_half 32
+    400440: wash_105_half 33
+    400442: wash_105_half 34
+    400444: wash_105_half 35
+    400446: wash_105_half 36
+    400448: wash_105_half 37
+    400450: wash_105_half 38
+    400452: wash_105_half 39
+    400454: wash_105_half 4
+    400456: wash_105_half 40
+    400458: wash_105_half 41
+    400460: wash_105_half 42
+    400462: wash_105_half 43
+    400464: wash_105_half 44
+    400466: wash_105_half 45
+    400468: wash_105_half 5
+    400470: wash_105_half 6
+    400472: wash_105_half 7
+    400474: wash_105_half 8
+    400476: wash_105_half 9
+    400478: wash_105_whole
+    400480: wash_105_whole 1
+    400482: wash_105_whole 10
+    400484: wash_105_whole 11
+    400486: wash_105_whole 12
+    400488: wash_105_whole 13
+    400490: wash_105_whole 14
+    400492: wash_105_whole 15
+    400494: wash_105_whole 16
+    400496: wash_105_whole 17
+    400498: wash_105_whole 18
+    400500: wash_105_whole 19
+    400502: wash_105_whole 2
+    400504: wash_105_whole 20
+    400506: wash_105_whole 21
+    400508: wash_105_whole 22
+    400510: wash_105_whole 3
+    400512: wash_105_whole 4
+    400514: wash_105_whole 5
+    400516: wash_105_whole 6
+    400518: wash_105_whole 7
+    400520: wash_105_whole 8
+    400522: wash_105_whole 9
+    400524: wash_trunck
+    400526: //RootNode
+    400528: washingtonianHead
+    2300000: BeardPatch20
+    2300002: BeardPatch20 1
+    2300004: BeardPatch20 10
+    2300006: BeardPatch20 11
+    2300008: BeardPatch20 2
+    2300010: BeardPatch20 3
+    2300012: BeardPatch20 4
+    2300014: BeardPatch20 5
+    2300016: BeardPatch20 6
+    2300018: BeardPatch20 7
+    2300020: BeardPatch20 8
+    2300022: BeardPatch20 9
+    2300024: cabbage_stemq1
+    2300026: cabbage_stemq1 1
+    2300028: cabbage_stemq1 10
+    2300030: cabbage_stemq1 11
+    2300032: cabbage_stemq1 12
+    2300034: cabbage_stemq1 13
+    2300036: cabbage_stemq1 14
+    2300038: cabbage_stemq1 15
+    2300040: cabbage_stemq1 16
+    2300042: cabbage_stemq1 17
+    2300044: cabbage_stemq1 18
+    2300046: cabbage_stemq1 19
+    2300048: cabbage_stemq1 2
+    2300050: cabbage_stemq1 20
+    2300052: cabbage_stemq1 21
+    2300054: cabbage_stemq1 22
+    2300056: cabbage_stemq1 3
+    2300058: cabbage_stemq1 4
+    2300060: cabbage_stemq1 5
+    2300062: cabbage_stemq1 6
+    2300064: cabbage_stemq1 7
+    2300066: cabbage_stemq1 8
+    2300068: cabbage_stemq1 9
+    2300070: ID20
+    2300072: wash_105_half
+    2300074: wash_105_half 1
+    2300076: wash_105_half 10
+    2300078: wash_105_half 11
+    2300080: wash_105_half 12
+    2300082: wash_105_half 13
+    2300084: wash_105_half 14
+    2300086: wash_105_half 15
+    2300088: wash_105_half 16
+    2300090: wash_105_half 17
+    2300092: wash_105_half 18
+    2300094: wash_105_half 19
+    2300096: wash_105_half 2
+    2300098: wash_105_half 20
+    2300100: wash_105_half 21
+    2300102: wash_105_half 22
+    2300104: wash_105_half 23
+    2300106: wash_105_half 24
+    2300108: wash_105_half 25
+    2300110: wash_105_half 26
+    2300112: wash_105_half 27
+    2300114: wash_105_half 28
+    2300116: wash_105_half 29
+    2300118: wash_105_half 3
+    2300120: wash_105_half 30
+    2300122: wash_105_half 31
+    2300124: wash_105_half 32
+    2300126: wash_105_half 33
+    2300128: wash_105_half 34
+    2300130: wash_105_half 35
+    2300132: wash_105_half 36
+    2300134: wash_105_half 37
+    2300136: wash_105_half 38
+    2300138: wash_105_half 39
+    2300140: wash_105_half 4
+    2300142: wash_105_half 40
+    2300144: wash_105_half 41
+    2300146: wash_105_half 42
+    2300148: wash_105_half 43
+    2300150: wash_105_half 44
+    2300152: wash_105_half 45
+    2300154: wash_105_half 5
+    2300156: wash_105_half 6
+    2300158: wash_105_half 7
+    2300160: wash_105_half 8
+    2300162: wash_105_half 9
+    2300164: wash_trunck
+    2300166: washingtonianHead
+    3300000: BeardPatch20
+    3300002: BeardPatch20 1
+    3300004: BeardPatch20 10
+    3300006: BeardPatch20 11
+    3300008: BeardPatch20 2
+    3300010: BeardPatch20 3
+    3300012: BeardPatch20 4
+    3300014: BeardPatch20 5
+    3300016: BeardPatch20 6
+    3300018: BeardPatch20 7
+    3300020: BeardPatch20 8
+    3300022: BeardPatch20 9
+    3300024: cabbage_stemq1
+    3300026: cabbage_stemq1 1
+    3300028: cabbage_stemq1 10
+    3300030: cabbage_stemq1 11
+    3300032: cabbage_stemq1 12
+    3300034: cabbage_stemq1 13
+    3300036: cabbage_stemq1 14
+    3300038: cabbage_stemq1 15
+    3300040: cabbage_stemq1 16
+    3300042: cabbage_stemq1 17
+    3300044: cabbage_stemq1 18
+    3300046: cabbage_stemq1 19
+    3300048: cabbage_stemq1 2
+    3300050: cabbage_stemq1 20
+    3300052: cabbage_stemq1 21
+    3300054: cabbage_stemq1 22
+    3300056: cabbage_stemq1 3
+    3300058: cabbage_stemq1 4
+    3300060: cabbage_stemq1 5
+    3300062: cabbage_stemq1 6
+    3300064: cabbage_stemq1 7
+    3300066: cabbage_stemq1 8
+    3300068: cabbage_stemq1 9
+    3300070: ID20
+    3300072: wash_105_half
+    3300074: wash_105_half 1
+    3300076: wash_105_half 10
+    3300078: wash_105_half 11
+    3300080: wash_105_half 12
+    3300082: wash_105_half 13
+    3300084: wash_105_half 14
+    3300086: wash_105_half 15
+    3300088: wash_105_half 16
+    3300090: wash_105_half 17
+    3300092: wash_105_half 18
+    3300094: wash_105_half 19
+    3300096: wash_105_half 2
+    3300098: wash_105_half 20
+    3300100: wash_105_half 21
+    3300102: wash_105_half 22
+    3300104: wash_105_half 23
+    3300106: wash_105_half 24
+    3300108: wash_105_half 25
+    3300110: wash_105_half 26
+    3300112: wash_105_half 27
+    3300114: wash_105_half 28
+    3300116: wash_105_half 29
+    3300118: wash_105_half 3
+    3300120: wash_105_half 30
+    3300122: wash_105_half 31
+    3300124: wash_105_half 32
+    3300126: wash_105_half 33
+    3300128: wash_105_half 34
+    3300130: wash_105_half 35
+    3300132: wash_105_half 36
+    3300134: wash_105_half 37
+    3300136: wash_105_half 38
+    3300138: wash_105_half 39
+    3300140: wash_105_half 4
+    3300142: wash_105_half 40
+    3300144: wash_105_half 41
+    3300146: wash_105_half 42
+    3300148: wash_105_half 43
+    3300150: wash_105_half 44
+    3300152: wash_105_half 45
+    3300154: wash_105_half 5
+    3300156: wash_105_half 6
+    3300158: wash_105_half 7
+    3300160: wash_105_half 8
+    3300162: wash_105_half 9
+    3300164: wash_trunck
+    3300166: washingtonianHead
+    4300000: washingtonianHead
+    4300002: ID20
+    4300004: wash_trunck
+    4300006: wash_105_half
+    4300008: wash_105_half
+    4300010: cabbage_stemq1
+    4300012: BeardPatch20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

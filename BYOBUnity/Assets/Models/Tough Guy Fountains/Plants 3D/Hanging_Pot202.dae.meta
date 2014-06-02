@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: fe71d77ae35724bfeaf0b98ad970052e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: group_2
+    100010: group_3
+    100012: group_4
+    100014: group_5
+    100016: group_6
+    100018: group_7
+    100020: group_8
+    100022: group_9
+    100024: hanging_pot
+    100026: //RootNode
+    100028: ID211
+    100030: ID211 1
+    100032: ID211 2
+    100034: ID217
+    100036: ID217 1
+    100038: ID217 2
+    100040: ID268
+    100042: ID274
+    100044: instance_0
+    100046: instance_0 1
+    100048: instance_1
+    100050: instance_1 1
+    100052: instance_10
+    100054: instance_11
+    100056: instance_12
+    100058: instance_13
+    100060: instance_14
+    100062: instance_15
+    100064: instance_15 1
+    100066: instance_15 2
+    100068: instance_15 3
+    100070: instance_15 4
+    100072: instance_16
+    100074: instance_16 1
+    100076: instance_16 10
+    100078: instance_16 11
+    100080: instance_16 12
+    100082: instance_16 13
+    100084: instance_16 14
+    100086: instance_16 15
+    100088: instance_16 16
+    100090: instance_16 17
+    100092: instance_16 18
+    100094: instance_16 19
+    100096: instance_16 2
+    100098: instance_16 20
+    100100: instance_16 21
+    100102: instance_16 22
+    100104: instance_16 3
+    100106: instance_16 4
+    100108: instance_16 5
+    100110: instance_16 6
+    100112: instance_16 7
+    100114: instance_16 8
+    100116: instance_16 9
+    100118: instance_17
+    100120: instance_17 1
+    100122: instance_17 2
+    100124: instance_17 3
+    100126: instance_17 4
+    100128: instance_18
+    100130: instance_18 1
+    100132: instance_18 10
+    100134: instance_18 11
+    100136: instance_18 12
+    100138: instance_18 13
+    100140: instance_18 14
+    100142: instance_18 2
+    100144: instance_18 3
+    100146: instance_18 4
+    100148: instance_18 5
+    100150: instance_18 6
+    100152: instance_18 7
+    100154: instance_18 8
+    100156: instance_18 9
+    100158: instance_19
+    100160: instance_19 1
+    100162: instance_19 2
+    100164: instance_19 3
+    100166: instance_19 4
+    100168: instance_2
+    100170: instance_2 1
+    100172: instance_20
+    100174: instance_20 1
+    100176: instance_20 2
+    100178: instance_20 3
+    100180: instance_20 4
+    100182: instance_21
+    100184: instance_21 1
+    100186: instance_22
+    100188: instance_22 1
+    100190: instance_23
+    100192: instance_23 1
+    100194: instance_24
+    100196: instance_24 1
+    100198: instance_25
+    100200: instance_25 1
+    100202: instance_26
+    100204: instance_26 1
+    100206: instance_27
+    100208: instance_27 1
+    100210: instance_28
+    100212: instance_28 1
+    100214: instance_29
+    100216: instance_29 1
+    100218: instance_3
+    100220: instance_3 1
+    100222: instance_30
+    100224: instance_31
+    100226: instance_32
+    100228: instance_33
+    100230: instance_34
+    100232: instance_35
+    100234: instance_36
+    100236: instance_37
+    100238: instance_38
+    100240: instance_39
+    100242: instance_4
+    100244: instance_4 1
+    100246: instance_40
+    100248: instance_41
+    100250: instance_42
+    100252: instance_43
+    100254: instance_44
+    100256: instance_45
+    100258: instance_46
+    100260: instance_47
+    100262: instance_48
+    100264: instance_5
+    100266: instance_5 1
+    100268: instance_6
+    100270: instance_6 1
+    100272: instance_7
+    100274: instance_7 1
+    100276: instance_8
+    100278: instance_8 1
+    100280: instance_9
+    100282: instance_9 1
+    100284: leaf1a
+    100286: leaf1a 1
+    100288: leaf1a 10
+    100290: leaf1a 11
+    100292: leaf1a 12
+    100294: leaf1a 13
+    100296: leaf1a 14
+    100298: leaf1a 15
+    100300: leaf1a 16
+    100302: leaf1a 17
+    100304: leaf1a 18
+    100306: leaf1a 19
+    100308: leaf1a 2
+    100310: leaf1a 20
+    100312: leaf1a 21
+    100314: leaf1a 22
+    100316: leaf1a 23
+    100318: leaf1a 24
+    100320: leaf1a 25
+    100322: leaf1a 26
+    100324: leaf1a 27
+    100326: leaf1a 28
+    100328: leaf1a 29
+    100330: leaf1a 3
+    100332: leaf1a 30
+    100334: leaf1a 31
+    100336: leaf1a 32
+    100338: leaf1a 33
+    100340: leaf1a 34
+    100342: leaf1a 4
+    100344: leaf1a 5
+    100346: leaf1a 6
+    100348: leaf1a 7
+    100350: leaf1a 8
+    100352: leaf1a 9
+    100354: leaf2a
+    100356: leaf2a 1
+    100358: leaf2a 10
+    100360: leaf2a 11
+    100362: leaf2a 12
+    100364: leaf2a 13
+    100366: leaf2a 14
+    100368: leaf2a 15
+    100370: leaf2a 16
+    100372: leaf2a 17
+    100374: leaf2a 18
+    100376: leaf2a 19
+    100378: leaf2a 2
+    100380: leaf2a 20
+    100382: leaf2a 21
+    100384: leaf2a 22
+    100386: leaf2a 23
+    100388: leaf2a 24
+    100390: leaf2a 25
+    100392: leaf2a 26
+    100394: leaf2a 27
+    100396: leaf2a 28
+    100398: leaf2a 29
+    100400: leaf2a 3
+    100402: leaf2a 30
+    100404: leaf2a 31
+    100406: leaf2a 32
+    100408: leaf2a 33
+    100410: leaf2a 34
+    100412: leaf2a 35
+    100414: leaf2a 36
+    100416: leaf2a 37
+    100418: leaf2a 38
+    100420: leaf2a 39
+    100422: leaf2a 4
+    100424: leaf2a 40
+    100426: leaf2a 41
+    100428: leaf2a 42
+    100430: leaf2a 5
+    100432: leaf2a 6
+    100434: leaf2a 7
+    100436: leaf2a 8
+    100438: leaf2a 9
+    100440: leaf_a
+    100442: leaf_a 1
+    100444: leaf_a 10
+    100446: leaf_a 11
+    100448: leaf_a 12
+    100450: leaf_a 13
+    100452: leaf_a 14
+    100454: leaf_a 15
+    100456: leaf_a 16
+    100458: leaf_a 17
+    100460: leaf_a 18
+    100462: leaf_a 19
+    100464: leaf_a 2
+    100466: leaf_a 20
+    100468: leaf_a 21
+    100470: leaf_a 22
+    100472: leaf_a 3
+    100474: leaf_a 4
+    100476: leaf_a 5
+    100478: leaf_a 6
+    100480: leaf_a 7
+    100482: leaf_a 8
+    100484: leaf_a 9
+    100486: leaf_b
+    100488: leaf_b 1
+    100490: leaf_b 10
+    100492: leaf_b 11
+    100494: leaf_b 12
+    100496: leaf_b 13
+    100498: leaf_b 14
+    100500: leaf_b 2
+    100502: leaf_b 3
+    100504: leaf_b 4
+    100506: leaf_b 5
+    100508: leaf_b 6
+    100510: leaf_b 7
+    100512: leaf_b 8
+    100514: leaf_b 9
+    100516: zulurope
+    100518: zulurope 1
+    100520: zulurope 2
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: group_2
+    400010: group_3
+    400012: group_4
+    400014: group_5
+    400016: group_6
+    400018: group_7
+    400020: group_8
+    400022: group_9
+    400024: hanging_pot
+    400026: //RootNode
+    400028: ID211
+    400030: ID211 1
+    400032: ID211 2
+    400034: ID217
+    400036: ID217 1
+    400038: ID217 2
+    400040: ID268
+    400042: ID274
+    400044: instance_0
+    400046: instance_0 1
+    400048: instance_1
+    400050: instance_1 1
+    400052: instance_10
+    400054: instance_11
+    400056: instance_12
+    400058: instance_13
+    400060: instance_14
+    400062: instance_15
+    400064: instance_15 1
+    400066: instance_15 2
+    400068: instance_15 3
+    400070: instance_15 4
+    400072: instance_16
+    400074: instance_16 1
+    400076: instance_16 10
+    400078: instance_16 11
+    400080: instance_16 12
+    400082: instance_16 13
+    400084: instance_16 14
+    400086: instance_16 15
+    400088: instance_16 16
+    400090: instance_16 17
+    400092: instance_16 18
+    400094: instance_16 19
+    400096: instance_16 2
+    400098: instance_16 20
+    400100: instance_16 21
+    400102: instance_16 22
+    400104: instance_16 3
+    400106: instance_16 4
+    400108: instance_16 5
+    400110: instance_16 6
+    400112: instance_16 7
+    400114: instance_16 8
+    400116: instance_16 9
+    400118: instance_17
+    400120: instance_17 1
+    400122: instance_17 2
+    400124: instance_17 3
+    400126: instance_17 4
+    400128: instance_18
+    400130: instance_18 1
+    400132: instance_18 10
+    400134: instance_18 11
+    400136: instance_18 12
+    400138: instance_18 13
+    400140: instance_18 14
+    400142: instance_18 2
+    400144: instance_18 3
+    400146: instance_18 4
+    400148: instance_18 5
+    400150: instance_18 6
+    400152: instance_18 7
+    400154: instance_18 8
+    400156: instance_18 9
+    400158: instance_19
+    400160: instance_19 1
+    400162: instance_19 2
+    400164: instance_19 3
+    400166: instance_19 4
+    400168: instance_2
+    400170: instance_2 1
+    400172: instance_20
+    400174: instance_20 1
+    400176: instance_20 2
+    400178: instance_20 3
+    400180: instance_20 4
+    400182: instance_21
+    400184: instance_21 1
+    400186: instance_22
+    400188: instance_22 1
+    400190: instance_23
+    400192: instance_23 1
+    400194: instance_24
+    400196: instance_24 1
+    400198: instance_25
+    400200: instance_25 1
+    400202: instance_26
+    400204: instance_26 1
+    400206: instance_27
+    400208: instance_27 1
+    400210: instance_28
+    400212: instance_28 1
+    400214: instance_29
+    400216: instance_29 1
+    400218: instance_3
+    400220: instance_3 1
+    400222: instance_30
+    400224: instance_31
+    400226: instance_32
+    400228: instance_33
+    400230: instance_34
+    400232: instance_35
+    400234: instance_36
+    400236: instance_37
+    400238: instance_38
+    400240: instance_39
+    400242: instance_4
+    400244: instance_4 1
+    400246: instance_40
+    400248: instance_41
+    400250: instance_42
+    400252: instance_43
+    400254: instance_44
+    400256: instance_45
+    400258: instance_46
+    400260: instance_47
+    400262: instance_48
+    400264: instance_5
+    400266: instance_5 1
+    400268: instance_6
+    400270: instance_6 1
+    400272: instance_7
+    400274: instance_7 1
+    400276: instance_8
+    400278: instance_8 1
+    400280: instance_9
+    400282: instance_9 1
+    400284: leaf1a
+    400286: leaf1a 1
+    400288: leaf1a 10
+    400290: leaf1a 11
+    400292: leaf1a 12
+    400294: leaf1a 13
+    400296: leaf1a 14
+    400298: leaf1a 15
+    400300: leaf1a 16
+    400302: leaf1a 17
+    400304: leaf1a 18
+    400306: leaf1a 19
+    400308: leaf1a 2
+    400310: leaf1a 20
+    400312: leaf1a 21
+    400314: leaf1a 22
+    400316: leaf1a 23
+    400318: leaf1a 24
+    400320: leaf1a 25
+    400322: leaf1a 26
+    400324: leaf1a 27
+    400326: leaf1a 28
+    400328: leaf1a 29
+    400330: leaf1a 3
+    400332: leaf1a 30
+    400334: leaf1a 31
+    400336: leaf1a 32
+    400338: leaf1a 33
+    400340: leaf1a 34
+    400342: leaf1a 4
+    400344: leaf1a 5
+    400346: leaf1a 6
+    400348: leaf1a 7
+    400350: leaf1a 8
+    400352: leaf1a 9
+    400354: leaf2a
+    400356: leaf2a 1
+    400358: leaf2a 10
+    400360: leaf2a 11
+    400362: leaf2a 12
+    400364: leaf2a 13
+    400366: leaf2a 14
+    400368: leaf2a 15
+    400370: leaf2a 16
+    400372: leaf2a 17
+    400374: leaf2a 18
+    400376: leaf2a 19
+    400378: leaf2a 2
+    400380: leaf2a 20
+    400382: leaf2a 21
+    400384: leaf2a 22
+    400386: leaf2a 23
+    400388: leaf2a 24
+    400390: leaf2a 25
+    400392: leaf2a 26
+    400394: leaf2a 27
+    400396: leaf2a 28
+    400398: leaf2a 29
+    400400: leaf2a 3
+    400402: leaf2a 30
+    400404: leaf2a 31
+    400406: leaf2a 32
+    400408: leaf2a 33
+    400410: leaf2a 34
+    400412: leaf2a 35
+    400414: leaf2a 36
+    400416: leaf2a 37
+    400418: leaf2a 38
+    400420: leaf2a 39
+    400422: leaf2a 4
+    400424: leaf2a 40
+    400426: leaf2a 41
+    400428: leaf2a 42
+    400430: leaf2a 5
+    400432: leaf2a 6
+    400434: leaf2a 7
+    400436: leaf2a 8
+    400438: leaf2a 9
+    400440: leaf_a
+    400442: leaf_a 1
+    400444: leaf_a 10
+    400446: leaf_a 11
+    400448: leaf_a 12
+    400450: leaf_a 13
+    400452: leaf_a 14
+    400454: leaf_a 15
+    400456: leaf_a 16
+    400458: leaf_a 17
+    400460: leaf_a 18
+    400462: leaf_a 19
+    400464: leaf_a 2
+    400466: leaf_a 20
+    400468: leaf_a 21
+    400470: leaf_a 22
+    400472: leaf_a 3
+    400474: leaf_a 4
+    400476: leaf_a 5
+    400478: leaf_a 6
+    400480: leaf_a 7
+    400482: leaf_a 8
+    400484: leaf_a 9
+    400486: leaf_b
+    400488: leaf_b 1
+    400490: leaf_b 10
+    400492: leaf_b 11
+    400494: leaf_b 12
+    400496: leaf_b 13
+    400498: leaf_b 14
+    400500: leaf_b 2
+    400502: leaf_b 3
+    400504: leaf_b 4
+    400506: leaf_b 5
+    400508: leaf_b 6
+    400510: leaf_b 7
+    400512: leaf_b 8
+    400514: leaf_b 9
+    400516: zulurope
+    400518: zulurope 1
+    400520: zulurope 2
+    2300000: group_10
+    2300002: group_11
+    2300004: group_5
+    2300006: group_6
+    2300008: group_7
+    2300010: group_8
+    2300012: group_9
+    2300014: hanging_pot
+    2300016: //RootNode
+    2300018: ID211
+    2300020: ID211 1
+    2300022: ID211 2
+    2300024: ID217
+    2300026: ID217 1
+    2300028: ID217 2
+    2300030: ID268
+    2300032: ID274
+    2300034: leaf1a
+    2300036: leaf1a 1
+    2300038: leaf1a 10
+    2300040: leaf1a 11
+    2300042: leaf1a 12
+    2300044: leaf1a 13
+    2300046: leaf1a 14
+    2300048: leaf1a 15
+    2300050: leaf1a 16
+    2300052: leaf1a 17
+    2300054: leaf1a 18
+    2300056: leaf1a 19
+    2300058: leaf1a 2
+    2300060: leaf1a 20
+    2300062: leaf1a 21
+    2300064: leaf1a 22
+    2300066: leaf1a 23
+    2300068: leaf1a 24
+    2300070: leaf1a 25
+    2300072: leaf1a 26
+    2300074: leaf1a 27
+    2300076: leaf1a 28
+    2300078: leaf1a 29
+    2300080: leaf1a 3
+    2300082: leaf1a 30
+    2300084: leaf1a 31
+    2300086: leaf1a 32
+    2300088: leaf1a 33
+    2300090: leaf1a 34
+    2300092: leaf1a 4
+    2300094: leaf1a 5
+    2300096: leaf1a 6
+    2300098: leaf1a 7
+    2300100: leaf1a 8
+    2300102: leaf1a 9
+    2300104: leaf2a
+    2300106: leaf2a 1
+    2300108: leaf2a 10
+    2300110: leaf2a 11
+    2300112: leaf2a 12
+    2300114: leaf2a 13
+    2300116: leaf2a 14
+    2300118: leaf2a 15
+    2300120: leaf2a 16
+    2300122: leaf2a 17
+    2300124: leaf2a 18
+    2300126: leaf2a 19
+    2300128: leaf2a 2
+    2300130: leaf2a 20
+    2300132: leaf2a 21
+    2300134: leaf2a 22
+    2300136: leaf2a 23
+    2300138: leaf2a 24
+    2300140: leaf2a 25
+    2300142: leaf2a 26
+    2300144: leaf2a 27
+    2300146: leaf2a 28
+    2300148: leaf2a 29
+    2300150: leaf2a 3
+    2300152: leaf2a 30
+    2300154: leaf2a 31
+    2300156: leaf2a 32
+    2300158: leaf2a 33
+    2300160: leaf2a 34
+    2300162: leaf2a 35
+    2300164: leaf2a 36
+    2300166: leaf2a 37
+    2300168: leaf2a 38
+    2300170: leaf2a 39
+    2300172: leaf2a 4
+    2300174: leaf2a 40
+    2300176: leaf2a 41
+    2300178: leaf2a 42
+    2300180: leaf2a 5
+    2300182: leaf2a 6
+    2300184: leaf2a 7
+    2300186: leaf2a 8
+    2300188: leaf2a 9
+    2300190: leaf_a
+    2300192: leaf_a 1
+    2300194: leaf_a 10
+    2300196: leaf_a 11
+    2300198: leaf_a 12
+    2300200: leaf_a 13
+    2300202: leaf_a 14
+    2300204: leaf_a 15
+    2300206: leaf_a 16
+    2300208: leaf_a 17
+    2300210: leaf_a 18
+    2300212: leaf_a 19
+    2300214: leaf_a 2
+    2300216: leaf_a 20
+    2300218: leaf_a 21
+    2300220: leaf_a 22
+    2300222: leaf_a 3
+    2300224: leaf_a 4
+    2300226: leaf_a 5
+    2300228: leaf_a 6
+    2300230: leaf_a 7
+    2300232: leaf_a 8
+    2300234: leaf_a 9
+    2300236: leaf_b
+    2300238: leaf_b 1
+    2300240: leaf_b 10
+    2300242: leaf_b 11
+    2300244: leaf_b 12
+    2300246: leaf_b 13
+    2300248: leaf_b 14
+    2300250: leaf_b 2
+    2300252: leaf_b 3
+    2300254: leaf_b 4
+    2300256: leaf_b 5
+    2300258: leaf_b 6
+    2300260: leaf_b 7
+    2300262: leaf_b 8
+    2300264: leaf_b 9
+    2300266: zulurope
+    2300268: zulurope 1
+    2300270: zulurope 2
+    3300000: group_10
+    3300002: group_11
+    3300004: group_5
+    3300006: group_6
+    3300008: group_7
+    3300010: group_8
+    3300012: group_9
+    3300014: hanging_pot
+    3300016: //RootNode
+    3300018: ID211
+    3300020: ID211 1
+    3300022: ID211 2
+    3300024: ID217
+    3300026: ID217 1
+    3300028: ID217 2
+    3300030: ID268
+    3300032: ID274
+    3300034: leaf1a
+    3300036: leaf1a 1
+    3300038: leaf1a 10
+    3300040: leaf1a 11
+    3300042: leaf1a 12
+    3300044: leaf1a 13
+    3300046: leaf1a 14
+    3300048: leaf1a 15
+    3300050: leaf1a 16
+    3300052: leaf1a 17
+    3300054: leaf1a 18
+    3300056: leaf1a 19
+    3300058: leaf1a 2
+    3300060: leaf1a 20
+    3300062: leaf1a 21
+    3300064: leaf1a 22
+    3300066: leaf1a 23
+    3300068: leaf1a 24
+    3300070: leaf1a 25
+    3300072: leaf1a 26
+    3300074: leaf1a 27
+    3300076: leaf1a 28
+    3300078: leaf1a 29
+    3300080: leaf1a 3
+    3300082: leaf1a 30
+    3300084: leaf1a 31
+    3300086: leaf1a 32
+    3300088: leaf1a 33
+    3300090: leaf1a 34
+    3300092: leaf1a 4
+    3300094: leaf1a 5
+    3300096: leaf1a 6
+    3300098: leaf1a 7
+    3300100: leaf1a 8
+    3300102: leaf1a 9
+    3300104: leaf2a
+    3300106: leaf2a 1
+    3300108: leaf2a 10
+    3300110: leaf2a 11
+    3300112: leaf2a 12
+    3300114: leaf2a 13
+    3300116: leaf2a 14
+    3300118: leaf2a 15
+    3300120: leaf2a 16
+    3300122: leaf2a 17
+    3300124: leaf2a 18
+    3300126: leaf2a 19
+    3300128: leaf2a 2
+    3300130: leaf2a 20
+    3300132: leaf2a 21
+    3300134: leaf2a 22
+    3300136: leaf2a 23
+    3300138: leaf2a 24
+    3300140: leaf2a 25
+    3300142: leaf2a 26
+    3300144: leaf2a 27
+    3300146: leaf2a 28
+    3300148: leaf2a 29
+    3300150: leaf2a 3
+    3300152: leaf2a 30
+    3300154: leaf2a 31
+    3300156: leaf2a 32
+    3300158: leaf2a 33
+    3300160: leaf2a 34
+    3300162: leaf2a 35
+    3300164: leaf2a 36
+    3300166: leaf2a 37
+    3300168: leaf2a 38
+    3300170: leaf2a 39
+    3300172: leaf2a 4
+    3300174: leaf2a 40
+    3300176: leaf2a 41
+    3300178: leaf2a 42
+    3300180: leaf2a 5
+    3300182: leaf2a 6
+    3300184: leaf2a 7
+    3300186: leaf2a 8
+    3300188: leaf2a 9
+    3300190: leaf_a
+    3300192: leaf_a 1
+    3300194: leaf_a 10
+    3300196: leaf_a 11
+    3300198: leaf_a 12
+    3300200: leaf_a 13
+    3300202: leaf_a 14
+    3300204: leaf_a 15
+    3300206: leaf_a 16
+    3300208: leaf_a 17
+    3300210: leaf_a 18
+    3300212: leaf_a 19
+    3300214: leaf_a 2
+    3300216: leaf_a 20
+    3300218: leaf_a 21
+    3300220: leaf_a 22
+    3300222: leaf_a 3
+    3300224: leaf_a 4
+    3300226: leaf_a 5
+    3300228: leaf_a 6
+    3300230: leaf_a 7
+    3300232: leaf_a 8
+    3300234: leaf_a 9
+    3300236: leaf_b
+    3300238: leaf_b 1
+    3300240: leaf_b 10
+    3300242: leaf_b 11
+    3300244: leaf_b 12
+    3300246: leaf_b 13
+    3300248: leaf_b 14
+    3300250: leaf_b 2
+    3300252: leaf_b 3
+    3300254: leaf_b 4
+    3300256: leaf_b 5
+    3300258: leaf_b 6
+    3300260: leaf_b 7
+    3300262: leaf_b 8
+    3300264: leaf_b 9
+    3300266: zulurope
+    3300268: zulurope 1
+    3300270: zulurope 2
+    4300000: SketchUp
+    4300002: ID268
+    4300004: ID274
+    4300006: leaf2a
+    4300008: leaf1a
+    4300010: group_5
+    4300012: leaf_a
+    4300014: leaf2a
+    4300016: leaf_b
+    4300018: leaf1a
+    4300020: group_6
+    4300022: group_7
+    4300024: leaf_a
+    4300026: leaf_b
+    4300028: group_8
+    4300030: group_9
+    4300032: group_10
+    4300034: group_11
+    4300036: zulurope
+    4300038: ID211
+    4300040: ID217
+    4300042: hanging_pot
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

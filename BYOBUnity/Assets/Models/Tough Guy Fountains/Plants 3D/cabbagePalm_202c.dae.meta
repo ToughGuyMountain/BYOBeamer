@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: aace6946ee3794121aab73e7bfea1ef9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cabbage_half
+    100002: cabbage_half 1
+    100004: cabbage_half 10
+    100006: cabbage_half 11
+    100008: cabbage_half 12
+    100010: cabbage_half 13
+    100012: cabbage_half 14
+    100014: cabbage_half 15
+    100016: cabbage_half 16
+    100018: cabbage_half 17
+    100020: cabbage_half 18
+    100022: cabbage_half 19
+    100024: cabbage_half 2
+    100026: cabbage_half 20
+    100028: cabbage_half 21
+    100030: cabbage_half 22
+    100032: cabbage_half 23
+    100034: cabbage_half 24
+    100036: cabbage_half 25
+    100038: cabbage_half 26
+    100040: cabbage_half 27
+    100042: cabbage_half 28
+    100044: cabbage_half 29
+    100046: cabbage_half 3
+    100048: cabbage_half 30
+    100050: cabbage_half 31
+    100052: cabbage_half 32
+    100054: cabbage_half 33
+    100056: cabbage_half 34
+    100058: cabbage_half 35
+    100060: cabbage_half 36
+    100062: cabbage_half 37
+    100064: cabbage_half 38
+    100066: cabbage_half 39
+    100068: cabbage_half 4
+    100070: cabbage_half 40
+    100072: cabbage_half 41
+    100074: cabbage_half 42
+    100076: cabbage_half 43
+    100078: cabbage_half 44
+    100080: cabbage_half 45
+    100082: cabbage_half 46
+    100084: cabbage_half 47
+    100086: cabbage_half 48
+    100088: cabbage_half 49
+    100090: cabbage_half 5
+    100092: cabbage_half 50
+    100094: cabbage_half 51
+    100096: cabbage_half 52
+    100098: cabbage_half 53
+    100100: cabbage_half 54
+    100102: cabbage_half 55
+    100104: cabbage_half 6
+    100106: cabbage_half 7
+    100108: cabbage_half 8
+    100110: cabbage_half 9
+    100112: cabbage_leaf202c
+    100114: cabbage_leaf202c 1
+    100116: cabbage_leaf202c 10
+    100118: cabbage_leaf202c 11
+    100120: cabbage_leaf202c 12
+    100122: cabbage_leaf202c 13
+    100124: cabbage_leaf202c 14
+    100126: cabbage_leaf202c 15
+    100128: cabbage_leaf202c 16
+    100130: cabbage_leaf202c 17
+    100132: cabbage_leaf202c 18
+    100134: cabbage_leaf202c 19
+    100136: cabbage_leaf202c 2
+    100138: cabbage_leaf202c 20
+    100140: cabbage_leaf202c 21
+    100142: cabbage_leaf202c 22
+    100144: cabbage_leaf202c 23
+    100146: cabbage_leaf202c 24
+    100148: cabbage_leaf202c 25
+    100150: cabbage_leaf202c 26
+    100152: cabbage_leaf202c 27
+    100154: cabbage_leaf202c 3
+    100156: cabbage_leaf202c 4
+    100158: cabbage_leaf202c 5
+    100160: cabbage_leaf202c 6
+    100162: cabbage_leaf202c 7
+    100164: cabbage_leaf202c 8
+    100166: cabbage_leaf202c 9
+    100168: cabbage_stemq1
+    100170: cabbage_stemq1 1
+    100172: cabbage_stemq1 10
+    100174: cabbage_stemq1 11
+    100176: cabbage_stemq1 12
+    100178: cabbage_stemq1 13
+    100180: cabbage_stemq1 14
+    100182: cabbage_stemq1 15
+    100184: cabbage_stemq1 16
+    100186: cabbage_stemq1 17
+    100188: cabbage_stemq1 18
+    100190: cabbage_stemq1 19
+    100192: cabbage_stemq1 2
+    100194: cabbage_stemq1 20
+    100196: cabbage_stemq1 21
+    100198: cabbage_stemq1 22
+    100200: cabbage_stemq1 23
+    100202: cabbage_stemq1 24
+    100204: cabbage_stemq1 25
+    100206: cabbage_stemq1 26
+    100208: cabbage_stemq1 27
+    100210: cabbage_stemq1 3
+    100212: cabbage_stemq1 4
+    100214: cabbage_stemq1 5
+    100216: cabbage_stemq1 6
+    100218: cabbage_stemq1 7
+    100220: cabbage_stemq1 8
+    100222: cabbage_stemq1 9
+    100224: //RootNode
+    100226: cabbagePhron
+    100228: cabbagePhron 1
+    100230: cabbagePhron 10
+    100232: cabbagePhron 11
+    100234: cabbagePhron 12
+    100236: cabbagePhron 13
+    100238: cabbagePhron 14
+    100240: cabbagePhron 15
+    100242: cabbagePhron 16
+    100244: cabbagePhron 17
+    100246: cabbagePhron 18
+    100248: cabbagePhron 19
+    100250: cabbagePhron 2
+    100252: cabbagePhron 20
+    100254: cabbagePhron 21
+    100256: cabbagePhron 22
+    100258: cabbagePhron 23
+    100260: cabbagePhron 24
+    100262: cabbagePhron 25
+    100264: cabbagePhron 26
+    100266: cabbagePhron 27
+    100268: cabbagePhron 3
+    100270: cabbagePhron 4
+    100272: cabbagePhron 5
+    100274: cabbagePhron 6
+    100276: cabbagePhron 7
+    100278: cabbagePhron 8
+    100280: cabbagePhron 9
+    100282: cabbagetrunk2
+    100284: cabbagetrunktop1
+    100286: ID86
+    100288: ID86 1
+    100290: ID86 10
+    100292: ID86 11
+    100294: ID86 12
+    100296: ID86 13
+    100298: ID86 14
+    100300: ID86 15
+    100302: ID86 16
+    100304: ID86 17
+    100306: ID86 18
+    100308: ID86 19
+    100310: ID86 2
+    100312: ID86 20
+    100314: ID86 21
+    100316: ID86 22
+    100318: ID86 23
+    100320: ID86 24
+    100322: ID86 25
+    100324: ID86 26
+    100326: ID86 27
+    100328: ID86 3
+    100330: ID86 4
+    100332: ID86 5
+    100334: ID86 6
+    100336: ID86 7
+    100338: ID86 8
+    100340: ID86 9
+    100342: instance_0
+    100344: instance_1
+    100346: instance_10
+    100348: instance_11
+    100350: instance_12
+    100352: instance_13
+    100354: instance_14
+    100356: instance_15
+    100358: instance_16
+    100360: instance_17
+    100362: instance_18
+    100364: instance_19
+    100366: instance_2
+    100368: instance_20
+    100370: instance_21
+    100372: instance_22
+    100374: instance_23
+    100376: instance_24
+    100378: instance_25
+    100380: instance_26
+    100382: instance_27
+    100384: instance_28
+    100386: instance_29
+    100388: instance_3
+    100390: instance_3 1
+    100392: instance_3 10
+    100394: instance_3 11
+    100396: instance_3 12
+    100398: instance_3 13
+    100400: instance_3 14
+    100402: instance_3 15
+    100404: instance_3 16
+    100406: instance_3 17
+    100408: instance_3 18
+    100410: instance_3 19
+    100412: instance_3 2
+    100414: instance_3 20
+    100416: instance_3 21
+    100418: instance_3 22
+    100420: instance_3 23
+    100422: instance_3 24
+    100424: instance_3 25
+    100426: instance_3 26
+    100428: instance_3 27
+    100430: instance_3 3
+    100432: instance_3 4
+    100434: instance_3 5
+    100436: instance_3 6
+    100438: instance_3 7
+    100440: instance_3 8
+    100442: instance_3 9
+    100444: instance_30
+    100446: instance_31
+    100448: instance_32
+    100450: instance_33
+    100452: instance_4
+    100454: instance_4 1
+    100456: instance_4 10
+    100458: instance_4 11
+    100460: instance_4 12
+    100462: instance_4 13
+    100464: instance_4 14
+    100466: instance_4 15
+    100468: instance_4 16
+    100470: instance_4 17
+    100472: instance_4 18
+    100474: instance_4 19
+    100476: instance_4 2
+    100478: instance_4 20
+    100480: instance_4 21
+    100482: instance_4 22
+    100484: instance_4 23
+    100486: instance_4 24
+    100488: instance_4 25
+    100490: instance_4 26
+    100492: instance_4 27
+    100494: instance_4 3
+    100496: instance_4 4
+    100498: instance_4 5
+    100500: instance_4 6
+    100502: instance_4 7
+    100504: instance_4 8
+    100506: instance_4 9
+    100508: instance_5
+    100510: instance_5 1
+    100512: instance_5 10
+    100514: instance_5 11
+    100516: instance_5 12
+    100518: instance_5 13
+    100520: instance_5 14
+    100522: instance_5 15
+    100524: instance_5 16
+    100526: instance_5 17
+    100528: instance_5 18
+    100530: instance_5 19
+    100532: instance_5 2
+    100534: instance_5 20
+    100536: instance_5 21
+    100538: instance_5 22
+    100540: instance_5 23
+    100542: instance_5 24
+    100544: instance_5 25
+    100546: instance_5 26
+    100548: instance_5 27
+    100550: instance_5 3
+    100552: instance_5 4
+    100554: instance_5 5
+    100556: instance_5 6
+    100558: instance_5 7
+    100560: instance_5 8
+    100562: instance_5 9
+    100564: instance_6
+    100566: instance_6 1
+    100568: instance_6 10
+    100570: instance_6 11
+    100572: instance_6 12
+    100574: instance_6 13
+    100576: instance_6 14
+    100578: instance_6 15
+    100580: instance_6 16
+    100582: instance_6 17
+    100584: instance_6 18
+    100586: instance_6 19
+    100588: instance_6 2
+    100590: instance_6 20
+    100592: instance_6 21
+    100594: instance_6 22
+    100596: instance_6 23
+    100598: instance_6 24
+    100600: instance_6 25
+    100602: instance_6 26
+    100604: instance_6 27
+    100606: instance_6 3
+    100608: instance_6 4
+    100610: instance_6 5
+    100612: instance_6 6
+    100614: instance_6 7
+    100616: instance_6 8
+    100618: instance_6 9
+    100620: instance_7
+    100622: instance_8
+    100624: instance_9
+    400000: cabbage_half
+    400002: cabbage_half 1
+    400004: cabbage_half 10
+    400006: cabbage_half 11
+    400008: cabbage_half 12
+    400010: cabbage_half 13
+    400012: cabbage_half 14
+    400014: cabbage_half 15
+    400016: cabbage_half 16
+    400018: cabbage_half 17
+    400020: cabbage_half 18
+    400022: cabbage_half 19
+    400024: cabbage_half 2
+    400026: cabbage_half 20
+    400028: cabbage_half 21
+    400030: cabbage_half 22
+    400032: cabbage_half 23
+    400034: cabbage_half 24
+    400036: cabbage_half 25
+    400038: cabbage_half 26
+    400040: cabbage_half 27
+    400042: cabbage_half 28
+    400044: cabbage_half 29
+    400046: cabbage_half 3
+    400048: cabbage_half 30
+    400050: cabbage_half 31
+    400052: cabbage_half 32
+    400054: cabbage_half 33
+    400056: cabbage_half 34
+    400058: cabbage_half 35
+    400060: cabbage_half 36
+    400062: cabbage_half 37
+    400064: cabbage_half 38
+    400066: cabbage_half 39
+    400068: cabbage_half 4
+    400070: cabbage_half 40
+    400072: cabbage_half 41
+    400074: cabbage_half 42
+    400076: cabbage_half 43
+    400078: cabbage_half 44
+    400080: cabbage_half 45
+    400082: cabbage_half 46
+    400084: cabbage_half 47
+    400086: cabbage_half 48
+    400088: cabbage_half 49
+    400090: cabbage_half 5
+    400092: cabbage_half 50
+    400094: cabbage_half 51
+    400096: cabbage_half 52
+    400098: cabbage_half 53
+    400100: cabbage_half 54
+    400102: cabbage_half 55
+    400104: cabbage_half 6
+    400106: cabbage_half 7
+    400108: cabbage_half 8
+    400110: cabbage_half 9
+    400112: cabbage_leaf202c
+    400114: cabbage_leaf202c 1
+    400116: cabbage_leaf202c 10
+    400118: cabbage_leaf202c 11
+    400120: cabbage_leaf202c 12
+    400122: cabbage_leaf202c 13
+    400124: cabbage_leaf202c 14
+    400126: cabbage_leaf202c 15
+    400128: cabbage_leaf202c 16
+    400130: cabbage_leaf202c 17
+    400132: cabbage_leaf202c 18
+    400134: cabbage_leaf202c 19
+    400136: cabbage_leaf202c 2
+    400138: cabbage_leaf202c 20
+    400140: cabbage_leaf202c 21
+    400142: cabbage_leaf202c 22
+    400144: cabbage_leaf202c 23
+    400146: cabbage_leaf202c 24
+    400148: cabbage_leaf202c 25
+    400150: cabbage_leaf202c 26
+    400152: cabbage_leaf202c 27
+    400154: cabbage_leaf202c 3
+    400156: cabbage_leaf202c 4
+    400158: cabbage_leaf202c 5
+    400160: cabbage_leaf202c 6
+    400162: cabbage_leaf202c 7
+    400164: cabbage_leaf202c 8
+    400166: cabbage_leaf202c 9
+    400168: cabbage_stemq1
+    400170: cabbage_stemq1 1
+    400172: cabbage_stemq1 10
+    400174: cabbage_stemq1 11
+    400176: cabbage_stemq1 12
+    400178: cabbage_stemq1 13
+    400180: cabbage_stemq1 14
+    400182: cabbage_stemq1 15
+    400184: cabbage_stemq1 16
+    400186: cabbage_stemq1 17
+    400188: cabbage_stemq1 18
+    400190: cabbage_stemq1 19
+    400192: cabbage_stemq1 2
+    400194: cabbage_stemq1 20
+    400196: cabbage_stemq1 21
+    400198: cabbage_stemq1 22
+    400200: cabbage_stemq1 23
+    400202: cabbage_stemq1 24
+    400204: cabbage_stemq1 25
+    400206: cabbage_stemq1 26
+    400208: cabbage_stemq1 27
+    400210: cabbage_stemq1 3
+    400212: cabbage_stemq1 4
+    400214: cabbage_stemq1 5
+    400216: cabbage_stemq1 6
+    400218: cabbage_stemq1 7
+    400220: cabbage_stemq1 8
+    400222: cabbage_stemq1 9
+    400224: //RootNode
+    400226: cabbagePhron
+    400228: cabbagePhron 1
+    400230: cabbagePhron 10
+    400232: cabbagePhron 11
+    400234: cabbagePhron 12
+    400236: cabbagePhron 13
+    400238: cabbagePhron 14
+    400240: cabbagePhron 15
+    400242: cabbagePhron 16
+    400244: cabbagePhron 17
+    400246: cabbagePhron 18
+    400248: cabbagePhron 19
+    400250: cabbagePhron 2
+    400252: cabbagePhron 20
+    400254: cabbagePhron 21
+    400256: cabbagePhron 22
+    400258: cabbagePhron 23
+    400260: cabbagePhron 24
+    400262: cabbagePhron 25
+    400264: cabbagePhron 26
+    400266: cabbagePhron 27
+    400268: cabbagePhron 3
+    400270: cabbagePhron 4
+    400272: cabbagePhron 5
+    400274: cabbagePhron 6
+    400276: cabbagePhron 7
+    400278: cabbagePhron 8
+    400280: cabbagePhron 9
+    400282: cabbagetrunk2
+    400284: cabbagetrunktop1
+    400286: ID86
+    400288: ID86 1
+    400290: ID86 10
+    400292: ID86 11
+    400294: ID86 12
+    400296: ID86 13
+    400298: ID86 14
+    400300: ID86 15
+    400302: ID86 16
+    400304: ID86 17
+    400306: ID86 18
+    400308: ID86 19
+    400310: ID86 2
+    400312: ID86 20
+    400314: ID86 21
+    400316: ID86 22
+    400318: ID86 23
+    400320: ID86 24
+    400322: ID86 25
+    400324: ID86 26
+    400326: ID86 27
+    400328: ID86 3
+    400330: ID86 4
+    400332: ID86 5
+    400334: ID86 6
+    400336: ID86 7
+    400338: ID86 8
+    400340: ID86 9
+    400342: instance_0
+    400344: instance_1
+    400346: instance_10
+    400348: instance_11
+    400350: instance_12
+    400352: instance_13
+    400354: instance_14
+    400356: instance_15
+    400358: instance_16
+    400360: instance_17
+    400362: instance_18
+    400364: instance_19
+    400366: instance_2
+    400368: instance_20
+    400370: instance_21
+    400372: instance_22
+    400374: instance_23
+    400376: instance_24
+    400378: instance_25
+    400380: instance_26
+    400382: instance_27
+    400384: instance_28
+    400386: instance_29
+    400388: instance_3
+    400390: instance_3 1
+    400392: instance_3 10
+    400394: instance_3 11
+    400396: instance_3 12
+    400398: instance_3 13
+    400400: instance_3 14
+    400402: instance_3 15
+    400404: instance_3 16
+    400406: instance_3 17
+    400408: instance_3 18
+    400410: instance_3 19
+    400412: instance_3 2
+    400414: instance_3 20
+    400416: instance_3 21
+    400418: instance_3 22
+    400420: instance_3 23
+    400422: instance_3 24
+    400424: instance_3 25
+    400426: instance_3 26
+    400428: instance_3 27
+    400430: instance_3 3
+    400432: instance_3 4
+    400434: instance_3 5
+    400436: instance_3 6
+    400438: instance_3 7
+    400440: instance_3 8
+    400442: instance_3 9
+    400444: instance_30
+    400446: instance_31
+    400448: instance_32
+    400450: instance_33
+    400452: instance_4
+    400454: instance_4 1
+    400456: instance_4 10
+    400458: instance_4 11
+    400460: instance_4 12
+    400462: instance_4 13
+    400464: instance_4 14
+    400466: instance_4 15
+    400468: instance_4 16
+    400470: instance_4 17
+    400472: instance_4 18
+    400474: instance_4 19
+    400476: instance_4 2
+    400478: instance_4 20
+    400480: instance_4 21
+    400482: instance_4 22
+    400484: instance_4 23
+    400486: instance_4 24
+    400488: instance_4 25
+    400490: instance_4 26
+    400492: instance_4 27
+    400494: instance_4 3
+    400496: instance_4 4
+    400498: instance_4 5
+    400500: instance_4 6
+    400502: instance_4 7
+    400504: instance_4 8
+    400506: instance_4 9
+    400508: instance_5
+    400510: instance_5 1
+    400512: instance_5 10
+    400514: instance_5 11
+    400516: instance_5 12
+    400518: instance_5 13
+    400520: instance_5 14
+    400522: instance_5 15
+    400524: instance_5 16
+    400526: instance_5 17
+    400528: instance_5 18
+    400530: instance_5 19
+    400532: instance_5 2
+    400534: instance_5 20
+    400536: instance_5 21
+    400538: instance_5 22
+    400540: instance_5 23
+    400542: instance_5 24
+    400544: instance_5 25
+    400546: instance_5 26
+    400548: instance_5 27
+    400550: instance_5 3
+    400552: instance_5 4
+    400554: instance_5 5
+    400556: instance_5 6
+    400558: instance_5 7
+    400560: instance_5 8
+    400562: instance_5 9
+    400564: instance_6
+    400566: instance_6 1
+    400568: instance_6 10
+    400570: instance_6 11
+    400572: instance_6 12
+    400574: instance_6 13
+    400576: instance_6 14
+    400578: instance_6 15
+    400580: instance_6 16
+    400582: instance_6 17
+    400584: instance_6 18
+    400586: instance_6 19
+    400588: instance_6 2
+    400590: instance_6 20
+    400592: instance_6 21
+    400594: instance_6 22
+    400596: instance_6 23
+    400598: instance_6 24
+    400600: instance_6 25
+    400602: instance_6 26
+    400604: instance_6 27
+    400606: instance_6 3
+    400608: instance_6 4
+    400610: instance_6 5
+    400612: instance_6 6
+    400614: instance_6 7
+    400616: instance_6 8
+    400618: instance_6 9
+    400620: instance_7
+    400622: instance_8
+    400624: instance_9
+    2300000: cabbage_half
+    2300002: cabbage_half 1
+    2300004: cabbage_half 10
+    2300006: cabbage_half 11
+    2300008: cabbage_half 12
+    2300010: cabbage_half 13
+    2300012: cabbage_half 14
+    2300014: cabbage_half 15
+    2300016: cabbage_half 16
+    2300018: cabbage_half 17
+    2300020: cabbage_half 18
+    2300022: cabbage_half 19
+    2300024: cabbage_half 2
+    2300026: cabbage_half 20
+    2300028: cabbage_half 21
+    2300030: cabbage_half 22
+    2300032: cabbage_half 23
+    2300034: cabbage_half 24
+    2300036: cabbage_half 25
+    2300038: cabbage_half 26
+    2300040: cabbage_half 27
+    2300042: cabbage_half 28
+    2300044: cabbage_half 29
+    2300046: cabbage_half 3
+    2300048: cabbage_half 30
+    2300050: cabbage_half 31
+    2300052: cabbage_half 32
+    2300054: cabbage_half 33
+    2300056: cabbage_half 34
+    2300058: cabbage_half 35
+    2300060: cabbage_half 36
+    2300062: cabbage_half 37
+    2300064: cabbage_half 38
+    2300066: cabbage_half 39
+    2300068: cabbage_half 4
+    2300070: cabbage_half 40
+    2300072: cabbage_half 41
+    2300074: cabbage_half 42
+    2300076: cabbage_half 43
+    2300078: cabbage_half 44
+    2300080: cabbage_half 45
+    2300082: cabbage_half 46
+    2300084: cabbage_half 47
+    2300086: cabbage_half 48
+    2300088: cabbage_half 49
+    2300090: cabbage_half 5
+    2300092: cabbage_half 50
+    2300094: cabbage_half 51
+    2300096: cabbage_half 52
+    2300098: cabbage_half 53
+    2300100: cabbage_half 54
+    2300102: cabbage_half 55
+    2300104: cabbage_half 6
+    2300106: cabbage_half 7
+    2300108: cabbage_half 8
+    2300110: cabbage_half 9
+    2300112: cabbage_leaf202c
+    2300114: cabbage_leaf202c 1
+    2300116: cabbage_leaf202c 10
+    2300118: cabbage_leaf202c 11
+    2300120: cabbage_leaf202c 12
+    2300122: cabbage_leaf202c 13
+    2300124: cabbage_leaf202c 14
+    2300126: cabbage_leaf202c 15
+    2300128: cabbage_leaf202c 16
+    2300130: cabbage_leaf202c 17
+    2300132: cabbage_leaf202c 18
+    2300134: cabbage_leaf202c 19
+    2300136: cabbage_leaf202c 2
+    2300138: cabbage_leaf202c 20
+    2300140: cabbage_leaf202c 21
+    2300142: cabbage_leaf202c 22
+    2300144: cabbage_leaf202c 23
+    2300146: cabbage_leaf202c 24
+    2300148: cabbage_leaf202c 25
+    2300150: cabbage_leaf202c 26
+    2300152: cabbage_leaf202c 27
+    2300154: cabbage_leaf202c 3
+    2300156: cabbage_leaf202c 4
+    2300158: cabbage_leaf202c 5
+    2300160: cabbage_leaf202c 6
+    2300162: cabbage_leaf202c 7
+    2300164: cabbage_leaf202c 8
+    2300166: cabbage_leaf202c 9
+    2300168: cabbage_stemq1
+    2300170: cabbage_stemq1 1
+    2300172: cabbage_stemq1 10
+    2300174: cabbage_stemq1 11
+    2300176: cabbage_stemq1 12
+    2300178: cabbage_stemq1 13
+    2300180: cabbage_stemq1 14
+    2300182: cabbage_stemq1 15
+    2300184: cabbage_stemq1 16
+    2300186: cabbage_stemq1 17
+    2300188: cabbage_stemq1 18
+    2300190: cabbage_stemq1 19
+    2300192: cabbage_stemq1 2
+    2300194: cabbage_stemq1 20
+    2300196: cabbage_stemq1 21
+    2300198: cabbage_stemq1 22
+    2300200: cabbage_stemq1 23
+    2300202: cabbage_stemq1 24
+    2300204: cabbage_stemq1 25
+    2300206: cabbage_stemq1 26
+    2300208: cabbage_stemq1 27
+    2300210: cabbage_stemq1 3
+    2300212: cabbage_stemq1 4
+    2300214: cabbage_stemq1 5
+    2300216: cabbage_stemq1 6
+    2300218: cabbage_stemq1 7
+    2300220: cabbage_stemq1 8
+    2300222: cabbage_stemq1 9
+    2300224: cabbagetrunk2
+    2300226: cabbagetrunktop1
+    2300228: ID86
+    2300230: ID86 1
+    2300232: ID86 10
+    2300234: ID86 11
+    2300236: ID86 12
+    2300238: ID86 13
+    2300240: ID86 14
+    2300242: ID86 15
+    2300244: ID86 16
+    2300246: ID86 17
+    2300248: ID86 18
+    2300250: ID86 19
+    2300252: ID86 2
+    2300254: ID86 20
+    2300256: ID86 21
+    2300258: ID86 22
+    2300260: ID86 23
+    2300262: ID86 24
+    2300264: ID86 25
+    2300266: ID86 26
+    2300268: ID86 27
+    2300270: ID86 3
+    2300272: ID86 4
+    2300274: ID86 5
+    2300276: ID86 6
+    2300278: ID86 7
+    2300280: ID86 8
+    2300282: ID86 9
+    3300000: cabbage_half
+    3300002: cabbage_half 1
+    3300004: cabbage_half 10
+    3300006: cabbage_half 11
+    3300008: cabbage_half 12
+    3300010: cabbage_half 13
+    3300012: cabbage_half 14
+    3300014: cabbage_half 15
+    3300016: cabbage_half 16
+    3300018: cabbage_half 17
+    3300020: cabbage_half 18
+    3300022: cabbage_half 19
+    3300024: cabbage_half 2
+    3300026: cabbage_half 20
+    3300028: cabbage_half 21
+    3300030: cabbage_half 22
+    3300032: cabbage_half 23
+    3300034: cabbage_half 24
+    3300036: cabbage_half 25
+    3300038: cabbage_half 26
+    3300040: cabbage_half 27
+    3300042: cabbage_half 28
+    3300044: cabbage_half 29
+    3300046: cabbage_half 3
+    3300048: cabbage_half 30
+    3300050: cabbage_half 31
+    3300052: cabbage_half 32
+    3300054: cabbage_half 33
+    3300056: cabbage_half 34
+    3300058: cabbage_half 35
+    3300060: cabbage_half 36
+    3300062: cabbage_half 37
+    3300064: cabbage_half 38
+    3300066: cabbage_half 39
+    3300068: cabbage_half 4
+    3300070: cabbage_half 40
+    3300072: cabbage_half 41
+    3300074: cabbage_half 42
+    3300076: cabbage_half 43
+    3300078: cabbage_half 44
+    3300080: cabbage_half 45
+    3300082: cabbage_half 46
+    3300084: cabbage_half 47
+    3300086: cabbage_half 48
+    3300088: cabbage_half 49
+    3300090: cabbage_half 5
+    3300092: cabbage_half 50
+    3300094: cabbage_half 51
+    3300096: cabbage_half 52
+    3300098: cabbage_half 53
+    3300100: cabbage_half 54
+    3300102: cabbage_half 55
+    3300104: cabbage_half 6
+    3300106: cabbage_half 7
+    3300108: cabbage_half 8
+    3300110: cabbage_half 9
+    3300112: cabbage_leaf202c
+    3300114: cabbage_leaf202c 1
+    3300116: cabbage_leaf202c 10
+    3300118: cabbage_leaf202c 11
+    3300120: cabbage_leaf202c 12
+    3300122: cabbage_leaf202c 13
+    3300124: cabbage_leaf202c 14
+    3300126: cabbage_leaf202c 15
+    3300128: cabbage_leaf202c 16
+    3300130: cabbage_leaf202c 17
+    3300132: cabbage_leaf202c 18
+    3300134: cabbage_leaf202c 19
+    3300136: cabbage_leaf202c 2
+    3300138: cabbage_leaf202c 20
+    3300140: cabbage_leaf202c 21
+    3300142: cabbage_leaf202c 22
+    3300144: cabbage_leaf202c 23
+    3300146: cabbage_leaf202c 24
+    3300148: cabbage_leaf202c 25
+    3300150: cabbage_leaf202c 26
+    3300152: cabbage_leaf202c 27
+    3300154: cabbage_leaf202c 3
+    3300156: cabbage_leaf202c 4
+    3300158: cabbage_leaf202c 5
+    3300160: cabbage_leaf202c 6
+    3300162: cabbage_leaf202c 7
+    3300164: cabbage_leaf202c 8
+    3300166: cabbage_leaf202c 9
+    3300168: cabbage_stemq1
+    3300170: cabbage_stemq1 1
+    3300172: cabbage_stemq1 10
+    3300174: cabbage_stemq1 11
+    3300176: cabbage_stemq1 12
+    3300178: cabbage_stemq1 13
+    3300180: cabbage_stemq1 14
+    3300182: cabbage_stemq1 15
+    3300184: cabbage_stemq1 16
+    3300186: cabbage_stemq1 17
+    3300188: cabbage_stemq1 18
+    3300190: cabbage_stemq1 19
+    3300192: cabbage_stemq1 2
+    3300194: cabbage_stemq1 20
+    3300196: cabbage_stemq1 21
+    3300198: cabbage_stemq1 22
+    3300200: cabbage_stemq1 23
+    3300202: cabbage_stemq1 24
+    3300204: cabbage_stemq1 25
+    3300206: cabbage_stemq1 26
+    3300208: cabbage_stemq1 27
+    3300210: cabbage_stemq1 3
+    3300212: cabbage_stemq1 4
+    3300214: cabbage_stemq1 5
+    3300216: cabbage_stemq1 6
+    3300218: cabbage_stemq1 7
+    3300220: cabbage_stemq1 8
+    3300222: cabbage_stemq1 9
+    3300224: cabbagetrunk2
+    3300226: cabbagetrunktop1
+    3300228: ID86
+    3300230: ID86 1
+    3300232: ID86 10
+    3300234: ID86 11
+    3300236: ID86 12
+    3300238: ID86 13
+    3300240: ID86 14
+    3300242: ID86 15
+    3300244: ID86 16
+    3300246: ID86 17
+    3300248: ID86 18
+    3300250: ID86 19
+    3300252: ID86 2
+    3300254: ID86 20
+    3300256: ID86 21
+    3300258: ID86 22
+    3300260: ID86 23
+    3300262: ID86 24
+    3300264: ID86 25
+    3300266: ID86 26
+    3300268: ID86 27
+    3300270: ID86 3
+    3300272: ID86 4
+    3300274: ID86 5
+    3300276: ID86 6
+    3300278: ID86 7
+    3300280: ID86 8
+    3300282: ID86 9
+    4300000: cabbagetrunk2
+    4300002: cabbagetrunktop1
+    4300004: cabbage_leaf202c
+    4300006: ID86
+    4300008: cabbage_half
+    4300010: cabbage_half
+    4300012: cabbage_stemq1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

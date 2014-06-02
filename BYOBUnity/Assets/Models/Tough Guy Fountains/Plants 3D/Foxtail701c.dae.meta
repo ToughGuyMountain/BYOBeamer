@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 5f84a46c3f5c741dbb8ba983ae1e1254
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: foxtail701_half
+    100002: foxtail701_half 1
+    100004: foxtail701_half 10
+    100006: foxtail701_half 11
+    100008: foxtail701_half 12
+    100010: foxtail701_half 13
+    100012: foxtail701_half 14
+    100014: foxtail701_half 15
+    100016: foxtail701_half 16
+    100018: foxtail701_half 17
+    100020: foxtail701_half 18
+    100022: foxtail701_half 19
+    100024: foxtail701_half 2
+    100026: foxtail701_half 20
+    100028: foxtail701_half 21
+    100030: foxtail701_half 3
+    100032: foxtail701_half 4
+    100034: foxtail701_half 5
+    100036: foxtail701_half 6
+    100038: foxtail701_half 7
+    100040: foxtail701_half 8
+    100042: foxtail701_half 9
+    100044: foxtail701_phron1
+    100046: foxtail701_phron1 1
+    100048: foxtail701_phron1 10
+    100050: foxtail701_phron1 2
+    100052: foxtail701_phron1 3
+    100054: foxtail701_phron1 4
+    100056: foxtail701_phron1 5
+    100058: foxtail701_phron1 6
+    100060: foxtail701_phron1 7
+    100062: foxtail701_phron1 8
+    100064: foxtail701_phron1 9
+    100066: //RootNode
+    100068: foxtail_phron701
+    100070: foxtail_phron701 1
+    100072: foxtail_phron701 10
+    100074: foxtail_phron701 2
+    100076: foxtail_phron701 3
+    100078: foxtail_phron701 4
+    100080: foxtail_phron701 5
+    100082: foxtail_phron701 6
+    100084: foxtail_phron701 7
+    100086: foxtail_phron701 8
+    100088: foxtail_phron701 9
+    100090: foxtail_phron701a
+    100092: foxtail_phron701a 1
+    100094: foxtail_phron701a 10
+    100096: foxtail_phron701a 2
+    100098: foxtail_phron701a 3
+    100100: foxtail_phron701a 4
+    100102: foxtail_phron701a 5
+    100104: foxtail_phron701a 6
+    100106: foxtail_phron701a 7
+    100108: foxtail_phron701a 8
+    100110: foxtail_phron701a 9
+    100112: foxtail_stem
+    100114: foxtail_stem 1
+    100116: foxtail_stem 10
+    100118: foxtail_stem 2
+    100120: foxtail_stem 3
+    100122: foxtail_stem 4
+    100124: foxtail_stem 5
+    100126: foxtail_stem 6
+    100128: foxtail_stem 7
+    100130: foxtail_stem 8
+    100132: foxtail_stem 9
+    100134: foxtail_stem_half
+    100136: foxtail_stem_half 1
+    100138: foxtail_stem_half 10
+    100140: foxtail_stem_half 11
+    100142: foxtail_stem_half 12
+    100144: foxtail_stem_half 13
+    100146: foxtail_stem_half 14
+    100148: foxtail_stem_half 15
+    100150: foxtail_stem_half 16
+    100152: foxtail_stem_half 17
+    100154: foxtail_stem_half 18
+    100156: foxtail_stem_half 19
+    100158: foxtail_stem_half 2
+    100160: foxtail_stem_half 20
+    100162: foxtail_stem_half 21
+    100164: foxtail_stem_half 22
+    100166: foxtail_stem_half 23
+    100168: foxtail_stem_half 24
+    100170: foxtail_stem_half 25
+    100172: foxtail_stem_half 26
+    100174: foxtail_stem_half 27
+    100176: foxtail_stem_half 28
+    100178: foxtail_stem_half 29
+    100180: foxtail_stem_half 3
+    100182: foxtail_stem_half 30
+    100184: foxtail_stem_half 31
+    100186: foxtail_stem_half 32
+    100188: foxtail_stem_half 4
+    100190: foxtail_stem_half 5
+    100192: foxtail_stem_half 6
+    100194: foxtail_stem_half 7
+    100196: foxtail_stem_half 8
+    100198: foxtail_stem_half 9
+    100200: Foxtail_trunk
+    100202: ID107
+    100204: ID78
+    100206: ID91
+    100208: ID99
+    100210: instance_0
+    100212: instance_1
+    100214: instance_1 1
+    100216: instance_1 10
+    100218: instance_1 2
+    100220: instance_1 3
+    100222: instance_1 4
+    100224: instance_1 5
+    100226: instance_1 6
+    100228: instance_1 7
+    100230: instance_1 8
+    100232: instance_1 9
+    100234: instance_10
+    100236: instance_11
+    100238: instance_12
+    100240: instance_13
+    100242: instance_14
+    100244: instance_15
+    100246: instance_16
+    100248: instance_17
+    100250: instance_18
+    100252: instance_19
+    100254: instance_2
+    100256: instance_2 1
+    100258: instance_2 10
+    100260: instance_2 2
+    100262: instance_2 3
+    100264: instance_2 4
+    100266: instance_2 5
+    100268: instance_2 6
+    100270: instance_2 7
+    100272: instance_2 8
+    100274: instance_2 9
+    100276: instance_3
+    100278: instance_3 1
+    100280: instance_3 10
+    100282: instance_3 2
+    100284: instance_3 3
+    100286: instance_3 4
+    100288: instance_3 5
+    100290: instance_3 6
+    100292: instance_3 7
+    100294: instance_3 8
+    100296: instance_3 9
+    100298: instance_4
+    100300: instance_4 1
+    100302: instance_4 10
+    100304: instance_4 2
+    100306: instance_4 3
+    100308: instance_4 4
+    100310: instance_4 5
+    100312: instance_4 6
+    100314: instance_4 7
+    100316: instance_4 8
+    100318: instance_4 9
+    100320: instance_5
+    100322: instance_5 1
+    100324: instance_5 10
+    100326: instance_5 2
+    100328: instance_5 3
+    100330: instance_5 4
+    100332: instance_5 5
+    100334: instance_5 6
+    100336: instance_5 7
+    100338: instance_5 8
+    100340: instance_5 9
+    100342: instance_6
+    100344: instance_6 1
+    100346: instance_6 10
+    100348: instance_6 2
+    100350: instance_6 3
+    100352: instance_6 4
+    100354: instance_6 5
+    100356: instance_6 6
+    100358: instance_6 7
+    100360: instance_6 8
+    100362: instance_6 9
+    100364: instance_7
+    100366: instance_7 1
+    100368: instance_7 10
+    100370: instance_7 2
+    100372: instance_7 3
+    100374: instance_7 4
+    100376: instance_7 5
+    100378: instance_7 6
+    100380: instance_7 7
+    100382: instance_7 8
+    100384: instance_7 9
+    100386: instance_8
+    100388: instance_8 1
+    100390: instance_8 10
+    100392: instance_8 2
+    100394: instance_8 3
+    100396: instance_8 4
+    100398: instance_8 5
+    100400: instance_8 6
+    100402: instance_8 7
+    100404: instance_8 8
+    100406: instance_8 9
+    100408: instance_9
+    400000: foxtail701_half
+    400002: foxtail701_half 1
+    400004: foxtail701_half 10
+    400006: foxtail701_half 11
+    400008: foxtail701_half 12
+    400010: foxtail701_half 13
+    400012: foxtail701_half 14
+    400014: foxtail701_half 15
+    400016: foxtail701_half 16
+    400018: foxtail701_half 17
+    400020: foxtail701_half 18
+    400022: foxtail701_half 19
+    400024: foxtail701_half 2
+    400026: foxtail701_half 20
+    400028: foxtail701_half 21
+    400030: foxtail701_half 3
+    400032: foxtail701_half 4
+    400034: foxtail701_half 5
+    400036: foxtail701_half 6
+    400038: foxtail701_half 7
+    400040: foxtail701_half 8
+    400042: foxtail701_half 9
+    400044: foxtail701_phron1
+    400046: foxtail701_phron1 1
+    400048: foxtail701_phron1 10
+    400050: foxtail701_phron1 2
+    400052: foxtail701_phron1 3
+    400054: foxtail701_phron1 4
+    400056: foxtail701_phron1 5
+    400058: foxtail701_phron1 6
+    400060: foxtail701_phron1 7
+    400062: foxtail701_phron1 8
+    400064: foxtail701_phron1 9
+    400066: //RootNode
+    400068: foxtail_phron701
+    400070: foxtail_phron701 1
+    400072: foxtail_phron701 10
+    400074: foxtail_phron701 2
+    400076: foxtail_phron701 3
+    400078: foxtail_phron701 4
+    400080: foxtail_phron701 5
+    400082: foxtail_phron701 6
+    400084: foxtail_phron701 7
+    400086: foxtail_phron701 8
+    400088: foxtail_phron701 9
+    400090: foxtail_phron701a
+    400092: foxtail_phron701a 1
+    400094: foxtail_phron701a 10
+    400096: foxtail_phron701a 2
+    400098: foxtail_phron701a 3
+    400100: foxtail_phron701a 4
+    400102: foxtail_phron701a 5
+    400104: foxtail_phron701a 6
+    400106: foxtail_phron701a 7
+    400108: foxtail_phron701a 8
+    400110: foxtail_phron701a 9
+    400112: foxtail_stem
+    400114: foxtail_stem 1
+    400116: foxtail_stem 10
+    400118: foxtail_stem 2
+    400120: foxtail_stem 3
+    400122: foxtail_stem 4
+    400124: foxtail_stem 5
+    400126: foxtail_stem 6
+    400128: foxtail_stem 7
+    400130: foxtail_stem 8
+    400132: foxtail_stem 9
+    400134: foxtail_stem_half
+    400136: foxtail_stem_half 1
+    400138: foxtail_stem_half 10
+    400140: foxtail_stem_half 11
+    400142: foxtail_stem_half 12
+    400144: foxtail_stem_half 13
+    400146: foxtail_stem_half 14
+    400148: foxtail_stem_half 15
+    400150: foxtail_stem_half 16
+    400152: foxtail_stem_half 17
+    400154: foxtail_stem_half 18
+    400156: foxtail_stem_half 19
+    400158: foxtail_stem_half 2
+    400160: foxtail_stem_half 20
+    400162: foxtail_stem_half 21
+    400164: foxtail_stem_half 22
+    400166: foxtail_stem_half 23
+    400168: foxtail_stem_half 24
+    400170: foxtail_stem_half 25
+    400172: foxtail_stem_half 26
+    400174: foxtail_stem_half 27
+    400176: foxtail_stem_half 28
+    400178: foxtail_stem_half 29
+    400180: foxtail_stem_half 3
+    400182: foxtail_stem_half 30
+    400184: foxtail_stem_half 31
+    400186: foxtail_stem_half 32
+    400188: foxtail_stem_half 4
+    400190: foxtail_stem_half 5
+    400192: foxtail_stem_half 6
+    400194: foxtail_stem_half 7
+    400196: foxtail_stem_half 8
+    400198: foxtail_stem_half 9
+    400200: Foxtail_trunk
+    400202: ID107
+    400204: ID78
+    400206: ID91
+    400208: ID99
+    400210: instance_0
+    400212: instance_1
+    400214: instance_1 1
+    400216: instance_1 10
+    400218: instance_1 2
+    400220: instance_1 3
+    400222: instance_1 4
+    400224: instance_1 5
+    400226: instance_1 6
+    400228: instance_1 7
+    400230: instance_1 8
+    400232: instance_1 9
+    400234: instance_10
+    400236: instance_11
+    400238: instance_12
+    400240: instance_13
+    400242: instance_14
+    400244: instance_15
+    400246: instance_16
+    400248: instance_17
+    400250: instance_18
+    400252: instance_19
+    400254: instance_2
+    400256: instance_2 1
+    400258: instance_2 10
+    400260: instance_2 2
+    400262: instance_2 3
+    400264: instance_2 4
+    400266: instance_2 5
+    400268: instance_2 6
+    400270: instance_2 7
+    400272: instance_2 8
+    400274: instance_2 9
+    400276: instance_3
+    400278: instance_3 1
+    400280: instance_3 10
+    400282: instance_3 2
+    400284: instance_3 3
+    400286: instance_3 4
+    400288: instance_3 5
+    400290: instance_3 6
+    400292: instance_3 7
+    400294: instance_3 8
+    400296: instance_3 9
+    400298: instance_4
+    400300: instance_4 1
+    400302: instance_4 10
+    400304: instance_4 2
+    400306: instance_4 3
+    400308: instance_4 4
+    400310: instance_4 5
+    400312: instance_4 6
+    400314: instance_4 7
+    400316: instance_4 8
+    400318: instance_4 9
+    400320: instance_5
+    400322: instance_5 1
+    400324: instance_5 10
+    400326: instance_5 2
+    400328: instance_5 3
+    400330: instance_5 4
+    400332: instance_5 5
+    400334: instance_5 6
+    400336: instance_5 7
+    400338: instance_5 8
+    400340: instance_5 9
+    400342: instance_6
+    400344: instance_6 1
+    400346: instance_6 10
+    400348: instance_6 2
+    400350: instance_6 3
+    400352: instance_6 4
+    400354: instance_6 5
+    400356: instance_6 6
+    400358: instance_6 7
+    400360: instance_6 8
+    400362: instance_6 9
+    400364: instance_7
+    400366: instance_7 1
+    400368: instance_7 10
+    400370: instance_7 2
+    400372: instance_7 3
+    400374: instance_7 4
+    400376: instance_7 5
+    400378: instance_7 6
+    400380: instance_7 7
+    400382: instance_7 8
+    400384: instance_7 9
+    400386: instance_8
+    400388: instance_8 1
+    400390: instance_8 10
+    400392: instance_8 2
+    400394: instance_8 3
+    400396: instance_8 4
+    400398: instance_8 5
+    400400: instance_8 6
+    400402: instance_8 7
+    400404: instance_8 8
+    400406: instance_8 9
+    400408: instance_9
+    2300000: foxtail701_half
+    2300002: foxtail701_half 1
+    2300004: foxtail701_half 10
+    2300006: foxtail701_half 11
+    2300008: foxtail701_half 12
+    2300010: foxtail701_half 13
+    2300012: foxtail701_half 14
+    2300014: foxtail701_half 15
+    2300016: foxtail701_half 16
+    2300018: foxtail701_half 17
+    2300020: foxtail701_half 18
+    2300022: foxtail701_half 19
+    2300024: foxtail701_half 2
+    2300026: foxtail701_half 20
+    2300028: foxtail701_half 21
+    2300030: foxtail701_half 3
+    2300032: foxtail701_half 4
+    2300034: foxtail701_half 5
+    2300036: foxtail701_half 6
+    2300038: foxtail701_half 7
+    2300040: foxtail701_half 8
+    2300042: foxtail701_half 9
+    2300044: foxtail_stem_half
+    2300046: foxtail_stem_half 1
+    2300048: foxtail_stem_half 10
+    2300050: foxtail_stem_half 11
+    2300052: foxtail_stem_half 12
+    2300054: foxtail_stem_half 13
+    2300056: foxtail_stem_half 14
+    2300058: foxtail_stem_half 15
+    2300060: foxtail_stem_half 16
+    2300062: foxtail_stem_half 17
+    2300064: foxtail_stem_half 18
+    2300066: foxtail_stem_half 19
+    2300068: foxtail_stem_half 2
+    2300070: foxtail_stem_half 20
+    2300072: foxtail_stem_half 21
+    2300074: foxtail_stem_half 22
+    2300076: foxtail_stem_half 23
+    2300078: foxtail_stem_half 24
+    2300080: foxtail_stem_half 25
+    2300082: foxtail_stem_half 26
+    2300084: foxtail_stem_half 27
+    2300086: foxtail_stem_half 28
+    2300088: foxtail_stem_half 29
+    2300090: foxtail_stem_half 3
+    2300092: foxtail_stem_half 30
+    2300094: foxtail_stem_half 31
+    2300096: foxtail_stem_half 32
+    2300098: foxtail_stem_half 4
+    2300100: foxtail_stem_half 5
+    2300102: foxtail_stem_half 6
+    2300104: foxtail_stem_half 7
+    2300106: foxtail_stem_half 8
+    2300108: foxtail_stem_half 9
+    2300110: Foxtail_trunk
+    2300112: ID107
+    2300114: ID78
+    2300116: ID91
+    2300118: ID99
+    3300000: foxtail701_half
+    3300002: foxtail701_half 1
+    3300004: foxtail701_half 10
+    3300006: foxtail701_half 11
+    3300008: foxtail701_half 12
+    3300010: foxtail701_half 13
+    3300012: foxtail701_half 14
+    3300014: foxtail701_half 15
+    3300016: foxtail701_half 16
+    3300018: foxtail701_half 17
+    3300020: foxtail701_half 18
+    3300022: foxtail701_half 19
+    3300024: foxtail701_half 2
+    3300026: foxtail701_half 20
+    3300028: foxtail701_half 21
+    3300030: foxtail701_half 3
+    3300032: foxtail701_half 4
+    3300034: foxtail701_half 5
+    3300036: foxtail701_half 6
+    3300038: foxtail701_half 7
+    3300040: foxtail701_half 8
+    3300042: foxtail701_half 9
+    3300044: foxtail_stem_half
+    3300046: foxtail_stem_half 1
+    3300048: foxtail_stem_half 10
+    3300050: foxtail_stem_half 11
+    3300052: foxtail_stem_half 12
+    3300054: foxtail_stem_half 13
+    3300056: foxtail_stem_half 14
+    3300058: foxtail_stem_half 15
+    3300060: foxtail_stem_half 16
+    3300062: foxtail_stem_half 17
+    3300064: foxtail_stem_half 18
+    3300066: foxtail_stem_half 19
+    3300068: foxtail_stem_half 2
+    3300070: foxtail_stem_half 20
+    3300072: foxtail_stem_half 21
+    3300074: foxtail_stem_half 22
+    3300076: foxtail_stem_half 23
+    3300078: foxtail_stem_half 24
+    3300080: foxtail_stem_half 25
+    3300082: foxtail_stem_half 26
+    3300084: foxtail_stem_half 27
+    3300086: foxtail_stem_half 28
+    3300088: foxtail_stem_half 29
+    3300090: foxtail_stem_half 3
+    3300092: foxtail_stem_half 30
+    3300094: foxtail_stem_half 31
+    3300096: foxtail_stem_half 32
+    3300098: foxtail_stem_half 4
+    3300100: foxtail_stem_half 5
+    3300102: foxtail_stem_half 6
+    3300104: foxtail_stem_half 7
+    3300106: foxtail_stem_half 8
+    3300108: foxtail_stem_half 9
+    3300110: Foxtail_trunk
+    3300112: ID107
+    3300114: ID78
+    3300116: ID91
+    3300118: ID99
+    4300000: foxtail_stem_half
+    4300002: foxtail_stem_half
+    4300004: foxtail701_half
+    4300006: foxtail701_half
+    4300008: Foxtail_trunk
+    4300010: ID78
+    4300012: ID91
+    4300014: ID99
+    4300016: ID107
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

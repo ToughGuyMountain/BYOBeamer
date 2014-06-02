@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: 3483311d7d4564834825e1b14f37074c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: droplet1
+    100002: droplet1 1
+    100004: droplet1 10
+    100006: droplet1 11
+    100008: droplet1 12
+    100010: droplet1 13
+    100012: droplet1 14
+    100014: droplet1 15
+    100016: droplet1 2
+    100018: droplet1 3
+    100020: droplet1 4
+    100022: droplet1 5
+    100024: droplet1 6
+    100026: droplet1 7
+    100028: droplet1 8
+    100030: droplet1 9
+    100032: droplet2
+    100034: droplet2 1
+    100036: droplet2 10
+    100038: droplet2 11
+    100040: droplet2 12
+    100042: droplet2 13
+    100044: droplet2 14
+    100046: droplet2 15
+    100048: droplet2 16
+    100050: droplet2 17
+    100052: droplet2 18
+    100054: droplet2 19
+    100056: droplet2 2
+    100058: droplet2 20
+    100060: droplet2 21
+    100062: droplet2 22
+    100064: droplet2 23
+    100066: droplet2 3
+    100068: droplet2 4
+    100070: droplet2 5
+    100072: droplet2 6
+    100074: droplet2 7
+    100076: droplet2 8
+    100078: droplet2 9
+    100080: Fountain_Left
+    100082: Fountain_Left 1
+    100084: Fountain_Left 2
+    100086: Fountain_Left 3
+    100088: Fountain_Left 4
+    100090: ID132
+    100092: ID138
+    100094: ID144
+    100096: ID152
+    100098: ID158
+    100100: ID164
+    100102: ID17
+    100104: ID17 1
+    100106: ID17 2
+    100108: ID17 3
+    100110: ID17 4
+    100112: ID170
+    100114: ID176
+    100116: ID189
+    100118: ID197
+    100120: ID203
+    100122: ID216
+    100124: ID222
+    100126: ID226
+    100128: ID238
+    100130: ID246
+    100132: ID252
+    100134: ID258
+    100136: ID264
+    100138: ID270
+    100140: ID276
+    100142: ID282
+    100144: ID288
+    100146: ID294
+    100148: ID300
+    100150: ID306
+    100152: ID312
+    100154: ID318
+    100156: ID324
+    100158: ID330
+    100160: ID336
+    100162: ID342
+    100164: ID348
+    100166: ID354
+    100168: ID360
+    100170: ID366
+    100172: ID372
+    100174: ID378
+    100176: ID384
+    100178: ID390
+    100180: ID396
+    100182: ID402
+    100184: ID408
+    100186: ID414
+    100188: ID420
+    100190: ID426
+    100192: ID432
+    100194: ID438
+    100196: ID444
+    100198: ID450
+    100200: ID456
+    100202: ID462
+    100204: ID468
+    100206: ID474
+    100208: ID480
+    100210: ID486
+    100212: ID492
+    100214: ID498
+    100216: ID504
+    100218: ID510
+    100220: ID516
+    100222: ID522
+    100224: ID528
+    100226: ID534
+    100228: ID540
+    100230: ID546
+    100232: ID552
+    100234: ID558
+    100236: ID564
+    100238: ID570
+    100240: ID576
+    100242: ID582
+    100244: ID588
+    100246: ID594
+    100248: ID600
+    100250: ID606
+    100252: ID612
+    100254: ID618
+    100256: ID624
+    100258: ID630
+    100260: ID636
+    100262: ID642
+    100264: ID648
+    100266: ID654
+    100268: ID660
+    100270: ID664
+    100272: ID668
+    100274: ID672
+    100276: ID676
+    100278: ID680
+    100280: ID684
+    100282: ID688
+    100284: ID692
+    100286: ID696
+    100288: ID700
+    100290: ID704
+    100292: ID708
+    100294: ID712
+    100296: ID716
+    100298: ID720
+    100300: ID724
+    100302: ID728
+    100304: ID732
+    100306: ID736
+    100308: ID740
+    100310: ID744
+    100312: ID748
+    100314: ID752
+    100316: ID756
+    100318: ID760
+    100320: ID764
+    100322: ID768
+    100324: ID772
+    100326: ID776
+    100328: ID780
+    100330: ID784
+    100332: ID788
+    100334: ID792
+    100336: ID796
+    100338: ID800
+    100340: ID804
+    100342: ID808
+    100344: ID812
+    100346: ID816
+    100348: ID820
+    100350: ID824
+    100352: ID828
+    100354: ID832
+    100356: ID836
+    100358: ID840
+    100360: ID844
+    100362: ID848
+    100364: ID852
+    100366: ID856
+    100368: ID860
+    100370: ID864
+    100372: ID868
+    100374: ID872
+    100376: ID876
+    100378: ID880
+    100380: ID884
+    100382: ID888
+    100384: ID892
+    100386: ID896
+    100388: ID900
+    100390: ID904
+    100392: ID908
+    100394: ID912
+    100396: ID916
+    100398: ID920
+    100400: ID924
+    100402: ID928
+    100404: ID932
+    100406: ID936
+    100408: ID940
+    100410: ID944
+    100412: ID948
+    100414: instance_0
+    100416: instance_1
+    100418: instance_10
+    100420: instance_11
+    100422: instance_12
+    100424: instance_13
+    100426: instance_14
+    100428: instance_15
+    100430: instance_16
+    100432: instance_17
+    100434: instance_18
+    100436: instance_19
+    100438: instance_2
+    100440: instance_20
+    100442: instance_21
+    100444: instance_22
+    100446: instance_23
+    100448: instance_24
+    100450: instance_25
+    100452: instance_26
+    100454: instance_27
+    100456: instance_28
+    100458: instance_29
+    100460: instance_3
+    100462: instance_30
+    100464: instance_31
+    100466: instance_32
+    100468: instance_33
+    100470: instance_34
+    100472: instance_35
+    100474: instance_36
+    100476: instance_37
+    100478: instance_38
+    100480: instance_39
+    100482: instance_4
+    100484: instance_40
+    100486: instance_41
+    100488: instance_42
+    100490: instance_43
+    100492: instance_44
+    100494: instance_45
+    100496: instance_46
+    100498: instance_47
+    100500: instance_48
+    100502: instance_49
+    100504: instance_5
+    100506: instance_50
+    100508: instance_51
+    100510: instance_52
+    100512: instance_53
+    100514: instance_54
+    100516: instance_55
+    100518: instance_56
+    100520: instance_57
+    100522: instance_6
+    100524: instance_7
+    100526: instance_8
+    100528: instance_9
+    100530: mountainfountain
+    100532: splash
+    100534: splash 1
+    100536: splash 10
+    100538: splash 11
+    100540: splash 2
+    100542: splash 3
+    100544: splash 4
+    100546: splash 5
+    100548: splash 6
+    100550: splash 7
+    100552: splash 8
+    100554: splash 9
+    100556: //RootNode
+    400000: droplet1
+    400002: droplet1 1
+    400004: droplet1 10
+    400006: droplet1 11
+    400008: droplet1 12
+    400010: droplet1 13
+    400012: droplet1 14
+    400014: droplet1 15
+    400016: droplet1 2
+    400018: droplet1 3
+    400020: droplet1 4
+    400022: droplet1 5
+    400024: droplet1 6
+    400026: droplet1 7
+    400028: droplet1 8
+    400030: droplet1 9
+    400032: droplet2
+    400034: droplet2 1
+    400036: droplet2 10
+    400038: droplet2 11
+    400040: droplet2 12
+    400042: droplet2 13
+    400044: droplet2 14
+    400046: droplet2 15
+    400048: droplet2 16
+    400050: droplet2 17
+    400052: droplet2 18
+    400054: droplet2 19
+    400056: droplet2 2
+    400058: droplet2 20
+    400060: droplet2 21
+    400062: droplet2 22
+    400064: droplet2 23
+    400066: droplet2 3
+    400068: droplet2 4
+    400070: droplet2 5
+    400072: droplet2 6
+    400074: droplet2 7
+    400076: droplet2 8
+    400078: droplet2 9
+    400080: Fountain_Left
+    400082: Fountain_Left 1
+    400084: Fountain_Left 2
+    400086: Fountain_Left 3
+    400088: Fountain_Left 4
+    400090: ID132
+    400092: ID138
+    400094: ID144
+    400096: ID152
+    400098: ID158
+    400100: ID164
+    400102: ID17
+    400104: ID17 1
+    400106: ID17 2
+    400108: ID17 3
+    400110: ID17 4
+    400112: ID170
+    400114: ID176
+    400116: ID189
+    400118: ID197
+    400120: ID203
+    400122: ID216
+    400124: ID222
+    400126: ID226
+    400128: ID238
+    400130: ID246
+    400132: ID252
+    400134: ID258
+    400136: ID264
+    400138: ID270
+    400140: ID276
+    400142: ID282
+    400144: ID288
+    400146: ID294
+    400148: ID300
+    400150: ID306
+    400152: ID312
+    400154: ID318
+    400156: ID324
+    400158: ID330
+    400160: ID336
+    400162: ID342
+    400164: ID348
+    400166: ID354
+    400168: ID360
+    400170: ID366
+    400172: ID372
+    400174: ID378
+    400176: ID384
+    400178: ID390
+    400180: ID396
+    400182: ID402
+    400184: ID408
+    400186: ID414
+    400188: ID420
+    400190: ID426
+    400192: ID432
+    400194: ID438
+    400196: ID444
+    400198: ID450
+    400200: ID456
+    400202: ID462
+    400204: ID468
+    400206: ID474
+    400208: ID480
+    400210: ID486
+    400212: ID492
+    400214: ID498
+    400216: ID504
+    400218: ID510
+    400220: ID516
+    400222: ID522
+    400224: ID528
+    400226: ID534
+    400228: ID540
+    400230: ID546
+    400232: ID552
+    400234: ID558
+    400236: ID564
+    400238: ID570
+    400240: ID576
+    400242: ID582
+    400244: ID588
+    400246: ID594
+    400248: ID600
+    400250: ID606
+    400252: ID612
+    400254: ID618
+    400256: ID624
+    400258: ID630
+    400260: ID636
+    400262: ID642
+    400264: ID648
+    400266: ID654
+    400268: ID660
+    400270: ID664
+    400272: ID668
+    400274: ID672
+    400276: ID676
+    400278: ID680
+    400280: ID684
+    400282: ID688
+    400284: ID692
+    400286: ID696
+    400288: ID700
+    400290: ID704
+    400292: ID708
+    400294: ID712
+    400296: ID716
+    400298: ID720
+    400300: ID724
+    400302: ID728
+    400304: ID732
+    400306: ID736
+    400308: ID740
+    400310: ID744
+    400312: ID748
+    400314: ID752
+    400316: ID756
+    400318: ID760
+    400320: ID764
+    400322: ID768
+    400324: ID772
+    400326: ID776
+    400328: ID780
+    400330: ID784
+    400332: ID788
+    400334: ID792
+    400336: ID796
+    400338: ID800
+    400340: ID804
+    400342: ID808
+    400344: ID812
+    400346: ID816
+    400348: ID820
+    400350: ID824
+    400352: ID828
+    400354: ID832
+    400356: ID836
+    400358: ID840
+    400360: ID844
+    400362: ID848
+    400364: ID852
+    400366: ID856
+    400368: ID860
+    400370: ID864
+    400372: ID868
+    400374: ID872
+    400376: ID876
+    400378: ID880
+    400380: ID884
+    400382: ID888
+    400384: ID892
+    400386: ID896
+    400388: ID900
+    400390: ID904
+    400392: ID908
+    400394: ID912
+    400396: ID916
+    400398: ID920
+    400400: ID924
+    400402: ID928
+    400404: ID932
+    400406: ID936
+    400408: ID940
+    400410: ID944
+    400412: ID948
+    400414: instance_0
+    400416: instance_1
+    400418: instance_10
+    400420: instance_11
+    400422: instance_12
+    400424: instance_13
+    400426: instance_14
+    400428: instance_15
+    400430: instance_16
+    400432: instance_17
+    400434: instance_18
+    400436: instance_19
+    400438: instance_2
+    400440: instance_20
+    400442: instance_21
+    400444: instance_22
+    400446: instance_23
+    400448: instance_24
+    400450: instance_25
+    400452: instance_26
+    400454: instance_27
+    400456: instance_28
+    400458: instance_29
+    400460: instance_3
+    400462: instance_30
+    400464: instance_31
+    400466: instance_32
+    400468: instance_33
+    400470: instance_34
+    400472: instance_35
+    400474: instance_36
+    400476: instance_37
+    400478: instance_38
+    400480: instance_39
+    400482: instance_4
+    400484: instance_40
+    400486: instance_41
+    400488: instance_42
+    400490: instance_43
+    400492: instance_44
+    400494: instance_45
+    400496: instance_46
+    400498: instance_47
+    400500: instance_48
+    400502: instance_49
+    400504: instance_5
+    400506: instance_50
+    400508: instance_51
+    400510: instance_52
+    400512: instance_53
+    400514: instance_54
+    400516: instance_55
+    400518: instance_56
+    400520: instance_57
+    400522: instance_6
+    400524: instance_7
+    400526: instance_8
+    400528: instance_9
+    400530: mountainfountain
+    400532: splash
+    400534: splash 1
+    400536: splash 10
+    400538: splash 11
+    400540: splash 2
+    400542: splash 3
+    400544: splash 4
+    400546: splash 5
+    400548: splash 6
+    400550: splash 7
+    400552: splash 8
+    400554: splash 9
+    400556: //RootNode
+    2300000: droplet1
+    2300002: droplet1 1
+    2300004: droplet1 10
+    2300006: droplet1 11
+    2300008: droplet1 12
+    2300010: droplet1 13
+    2300012: droplet1 14
+    2300014: droplet1 15
+    2300016: droplet1 2
+    2300018: droplet1 3
+    2300020: droplet1 4
+    2300022: droplet1 5
+    2300024: droplet1 6
+    2300026: droplet1 7
+    2300028: droplet1 8
+    2300030: droplet1 9
+    2300032: droplet2
+    2300034: droplet2 1
+    2300036: droplet2 10
+    2300038: droplet2 11
+    2300040: droplet2 12
+    2300042: droplet2 13
+    2300044: droplet2 14
+    2300046: droplet2 15
+    2300048: droplet2 16
+    2300050: droplet2 17
+    2300052: droplet2 18
+    2300054: droplet2 19
+    2300056: droplet2 2
+    2300058: droplet2 20
+    2300060: droplet2 21
+    2300062: droplet2 22
+    2300064: droplet2 23
+    2300066: droplet2 3
+    2300068: droplet2 4
+    2300070: droplet2 5
+    2300072: droplet2 6
+    2300074: droplet2 7
+    2300076: droplet2 8
+    2300078: droplet2 9
+    2300080: Fountain_Left
+    2300082: Fountain_Left 1
+    2300084: Fountain_Left 2
+    2300086: Fountain_Left 3
+    2300088: Fountain_Left 4
+    2300090: ID132
+    2300092: ID138
+    2300094: ID144
+    2300096: ID152
+    2300098: ID158
+    2300100: ID164
+    2300102: ID17
+    2300104: ID17 1
+    2300106: ID17 2
+    2300108: ID17 3
+    2300110: ID17 4
+    2300112: ID170
+    2300114: ID176
+    2300116: ID189
+    2300118: ID197
+    2300120: ID203
+    2300122: ID238
+    2300124: ID246
+    2300126: ID252
+    2300128: ID258
+    2300130: ID264
+    2300132: ID270
+    2300134: ID276
+    2300136: ID282
+    2300138: ID288
+    2300140: ID294
+    2300142: ID300
+    2300144: ID306
+    2300146: ID312
+    2300148: ID318
+    2300150: ID324
+    2300152: ID330
+    2300154: ID336
+    2300156: ID342
+    2300158: ID348
+    2300160: ID354
+    2300162: ID360
+    2300164: ID366
+    2300166: ID372
+    2300168: ID378
+    2300170: ID384
+    2300172: ID390
+    2300174: ID396
+    2300176: ID402
+    2300178: ID408
+    2300180: ID414
+    2300182: ID420
+    2300184: ID426
+    2300186: ID432
+    2300188: ID438
+    2300190: ID444
+    2300192: ID450
+    2300194: ID456
+    2300196: ID462
+    2300198: ID468
+    2300200: ID474
+    2300202: ID480
+    2300204: ID486
+    2300206: ID492
+    2300208: ID498
+    2300210: ID504
+    2300212: ID510
+    2300214: ID516
+    2300216: ID522
+    2300218: ID528
+    2300220: ID534
+    2300222: ID540
+    2300224: ID546
+    2300226: ID552
+    2300228: ID558
+    2300230: ID564
+    2300232: ID570
+    2300234: ID576
+    2300236: ID582
+    2300238: ID588
+    2300240: ID594
+    2300242: ID600
+    2300244: ID606
+    2300246: ID612
+    2300248: ID618
+    2300250: ID624
+    2300252: ID630
+    2300254: ID636
+    2300256: ID642
+    2300258: ID648
+    2300260: mountainfountain
+    2300262: splash
+    2300264: splash 1
+    2300266: splash 10
+    2300268: splash 11
+    2300270: splash 2
+    2300272: splash 3
+    2300274: splash 4
+    2300276: splash 5
+    2300278: splash 6
+    2300280: splash 7
+    2300282: splash 8
+    2300284: splash 9
+    2300286: //RootNode
+    3300000: droplet1
+    3300002: droplet1 1
+    3300004: droplet1 10
+    3300006: droplet1 11
+    3300008: droplet1 12
+    3300010: droplet1 13
+    3300012: droplet1 14
+    3300014: droplet1 15
+    3300016: droplet1 2
+    3300018: droplet1 3
+    3300020: droplet1 4
+    3300022: droplet1 5
+    3300024: droplet1 6
+    3300026: droplet1 7
+    3300028: droplet1 8
+    3300030: droplet1 9
+    3300032: droplet2
+    3300034: droplet2 1
+    3300036: droplet2 10
+    3300038: droplet2 11
+    3300040: droplet2 12
+    3300042: droplet2 13
+    3300044: droplet2 14
+    3300046: droplet2 15
+    3300048: droplet2 16
+    3300050: droplet2 17
+    3300052: droplet2 18
+    3300054: droplet2 19
+    3300056: droplet2 2
+    3300058: droplet2 20
+    3300060: droplet2 21
+    3300062: droplet2 22
+    3300064: droplet2 23
+    3300066: droplet2 3
+    3300068: droplet2 4
+    3300070: droplet2 5
+    3300072: droplet2 6
+    3300074: droplet2 7
+    3300076: droplet2 8
+    3300078: droplet2 9
+    3300080: Fountain_Left
+    3300082: Fountain_Left 1
+    3300084: Fountain_Left 2
+    3300086: Fountain_Left 3
+    3300088: Fountain_Left 4
+    3300090: ID132
+    3300092: ID138
+    3300094: ID144
+    3300096: ID152
+    3300098: ID158
+    3300100: ID164
+    3300102: ID17
+    3300104: ID17 1
+    3300106: ID17 2
+    3300108: ID17 3
+    3300110: ID17 4
+    3300112: ID170
+    3300114: ID176
+    3300116: ID189
+    3300118: ID197
+    3300120: ID203
+    3300122: ID238
+    3300124: ID246
+    3300126: ID252
+    3300128: ID258
+    3300130: ID264
+    3300132: ID270
+    3300134: ID276
+    3300136: ID282
+    3300138: ID288
+    3300140: ID294
+    3300142: ID300
+    3300144: ID306
+    3300146: ID312
+    3300148: ID318
+    3300150: ID324
+    3300152: ID330
+    3300154: ID336
+    3300156: ID342
+    3300158: ID348
+    3300160: ID354
+    3300162: ID360
+    3300164: ID366
+    3300166: ID372
+    3300168: ID378
+    3300170: ID384
+    3300172: ID390
+    3300174: ID396
+    3300176: ID402
+    3300178: ID408
+    3300180: ID414
+    3300182: ID420
+    3300184: ID426
+    3300186: ID432
+    3300188: ID438
+    3300190: ID444
+    3300192: ID450
+    3300194: ID456
+    3300196: ID462
+    3300198: ID468
+    3300200: ID474
+    3300202: ID480
+    3300204: ID486
+    3300206: ID492
+    3300208: ID498
+    3300210: ID504
+    3300212: ID510
+    3300214: ID516
+    3300216: ID522
+    3300218: ID528
+    3300220: ID534
+    3300222: ID540
+    3300224: ID546
+    3300226: ID552
+    3300228: ID558
+    3300230: ID564
+    3300232: ID570
+    3300234: ID576
+    3300236: ID582
+    3300238: ID588
+    3300240: ID594
+    3300242: ID600
+    3300244: ID606
+    3300246: ID612
+    3300248: ID618
+    3300250: ID624
+    3300252: ID630
+    3300254: ID636
+    3300256: ID642
+    3300258: ID648
+    3300260: mountainfountain
+    3300262: splash
+    3300264: splash 1
+    3300266: splash 10
+    3300268: splash 11
+    3300270: splash 2
+    3300272: splash 3
+    3300274: splash 4
+    3300276: splash 5
+    3300278: splash 6
+    3300280: splash 7
+    3300282: splash 8
+    3300284: splash 9
+    3300286: //RootNode
+    4300000: SketchUp
+    4300002: ID238
+    4300004: ID246
+    4300006: ID252
+    4300008: ID258
+    4300010: ID264
+    4300012: ID270
+    4300014: ID276
+    4300016: ID282
+    4300018: ID288
+    4300020: ID294
+    4300022: ID300
+    4300024: ID306
+    4300026: ID312
+    4300028: ID318
+    4300030: ID324
+    4300032: ID330
+    4300034: ID336
+    4300036: ID342
+    4300038: ID348
+    4300040: ID354
+    4300042: ID360
+    4300044: ID366
+    4300046: ID372
+    4300048: ID378
+    4300050: ID384
+    4300052: ID390
+    4300054: ID396
+    4300056: ID402
+    4300058: ID408
+    4300060: ID414
+    4300062: ID420
+    4300064: ID426
+    4300066: ID432
+    4300068: ID438
+    4300070: ID444
+    4300072: ID450
+    4300074: ID456
+    4300076: ID462
+    4300078: ID468
+    4300080: ID474
+    4300082: ID480
+    4300084: ID486
+    4300086: ID492
+    4300088: ID498
+    4300090: ID504
+    4300092: ID510
+    4300094: ID516
+    4300096: ID522
+    4300098: ID528
+    4300100: ID534
+    4300102: ID540
+    4300104: ID546
+    4300106: ID552
+    4300108: ID558
+    4300110: ID564
+    4300112: ID570
+    4300114: ID576
+    4300116: ID582
+    4300118: ID588
+    4300120: ID594
+    4300122: ID600
+    4300124: ID606
+    4300126: ID612
+    4300128: ID618
+    4300130: ID624
+    4300132: ID630
+    4300134: ID636
+    4300136: ID642
+    4300138: ID648
+    4300140: Fountain_Left
+    4300142: ID17
+    4300144: droplet1
+    4300146: droplet2
+    4300148: splash
+    4300150: splash
+    4300152: mountainfountain
+    4300154: ID132
+    4300156: ID138
+    4300158: ID144
+    4300160: ID152
+    4300162: ID158
+    4300164: ID164
+    4300166: ID170
+    4300168: ID176
+    4300170: ID189
+    4300172: ID197
+    4300174: ID203
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
