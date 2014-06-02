@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: f775907e5b38d48d3af2ba4d79ee9ccc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Group_1
+    100002: Group_1 1
+    100004: Group_1 10
+    100006: Group_1 11
+    100008: Group_1 12
+    100010: Group_1 13
+    100012: Group_1 14
+    100014: Group_1 15
+    100016: Group_1 2
+    100018: Group_1 3
+    100020: Group_1 4
+    100022: Group_1 5
+    100024: Group_1 6
+    100026: Group_1 7
+    100028: Group_1 8
+    100030: Group_1 9
+    100032: Group_2
+    100034: Group_2 1
+    100036: Group_2 10
+    100038: Group_2 11
+    100040: Group_2 12
+    100042: Group_2 13
+    100044: Group_2 14
+    100046: Group_2 15
+    100048: Group_2 2
+    100050: Group_2 3
+    100052: Group_2 4
+    100054: Group_2 5
+    100056: Group_2 6
+    100058: Group_2 7
+    100060: Group_2 8
+    100062: Group_2 9
+    100064: ID16
+    100066: ID16 1
+    100068: ID16 10
+    100070: ID16 11
+    100072: ID16 12
+    100074: ID16 13
+    100076: ID16 14
+    100078: ID16 15
+    100080: ID16 2
+    100082: ID16 3
+    100084: ID16 4
+    100086: ID16 5
+    100088: ID16 6
+    100090: ID16 7
+    100092: ID16 8
+    100094: ID16 9
+    100096: ID30
+    100098: ID30 1
+    100100: ID30 10
+    100102: ID30 11
+    100104: ID30 12
+    100106: ID30 13
+    100108: ID30 14
+    100110: ID30 15
+    100112: ID30 2
+    100114: ID30 3
+    100116: ID30 4
+    100118: ID30 5
+    100120: ID30 6
+    100122: ID30 7
+    100124: ID30 8
+    100126: ID30 9
+    100128: ID36
+    100130: ID36 1
+    100132: ID36 10
+    100134: ID36 11
+    100136: ID36 12
+    100138: ID36 13
+    100140: ID36 14
+    100142: ID36 15
+    100144: ID36 2
+    100146: ID36 3
+    100148: ID36 4
+    100150: ID36 5
+    100152: ID36 6
+    100154: ID36 7
+    100156: ID36 8
+    100158: ID36 9
+    100160: instance_0
+    100162: instance_1
+    100164: instance_1 1
+    100166: instance_1 10
+    100168: instance_1 11
+    100170: instance_1 12
+    100172: instance_1 13
+    100174: instance_1 14
+    100176: instance_1 15
+    100178: instance_1 2
+    100180: instance_1 3
+    100182: instance_1 4
+    100184: instance_1 5
+    100186: instance_1 6
+    100188: instance_1 7
+    100190: instance_1 8
+    100192: instance_1 9
+    100194: instance_10
+    100196: instance_11
+    100198: instance_12
+    100200: instance_13
+    100202: instance_14
+    100204: instance_15
+    100206: instance_16
+    100208: instance_2
+    100210: instance_3
+    100212: instance_4
+    100214: instance_5
+    100216: instance_6
+    100218: instance_7
+    100220: instance_8
+    100222: instance_9
+    100224: //RootNode
+    400000: Group_1
+    400002: Group_1 1
+    400004: Group_1 10
+    400006: Group_1 11
+    400008: Group_1 12
+    400010: Group_1 13
+    400012: Group_1 14
+    400014: Group_1 15
+    400016: Group_1 2
+    400018: Group_1 3
+    400020: Group_1 4
+    400022: Group_1 5
+    400024: Group_1 6
+    400026: Group_1 7
+    400028: Group_1 8
+    400030: Group_1 9
+    400032: Group_2
+    400034: Group_2 1
+    400036: Group_2 10
+    400038: Group_2 11
+    400040: Group_2 12
+    400042: Group_2 13
+    400044: Group_2 14
+    400046: Group_2 15
+    400048: Group_2 2
+    400050: Group_2 3
+    400052: Group_2 4
+    400054: Group_2 5
+    400056: Group_2 6
+    400058: Group_2 7
+    400060: Group_2 8
+    400062: Group_2 9
+    400064: ID16
+    400066: ID16 1
+    400068: ID16 10
+    400070: ID16 11
+    400072: ID16 12
+    400074: ID16 13
+    400076: ID16 14
+    400078: ID16 15
+    400080: ID16 2
+    400082: ID16 3
+    400084: ID16 4
+    400086: ID16 5
+    400088: ID16 6
+    400090: ID16 7
+    400092: ID16 8
+    400094: ID16 9
+    400096: ID30
+    400098: ID30 1
+    400100: ID30 10
+    400102: ID30 11
+    400104: ID30 12
+    400106: ID30 13
+    400108: ID30 14
+    400110: ID30 15
+    400112: ID30 2
+    400114: ID30 3
+    400116: ID30 4
+    400118: ID30 5
+    400120: ID30 6
+    400122: ID30 7
+    400124: ID30 8
+    400126: ID30 9
+    400128: ID36
+    400130: ID36 1
+    400132: ID36 10
+    400134: ID36 11
+    400136: ID36 12
+    400138: ID36 13
+    400140: ID36 14
+    400142: ID36 15
+    400144: ID36 2
+    400146: ID36 3
+    400148: ID36 4
+    400150: ID36 5
+    400152: ID36 6
+    400154: ID36 7
+    400156: ID36 8
+    400158: ID36 9
+    400160: instance_0
+    400162: instance_1
+    400164: instance_1 1
+    400166: instance_1 10
+    400168: instance_1 11
+    400170: instance_1 12
+    400172: instance_1 13
+    400174: instance_1 14
+    400176: instance_1 15
+    400178: instance_1 2
+    400180: instance_1 3
+    400182: instance_1 4
+    400184: instance_1 5
+    400186: instance_1 6
+    400188: instance_1 7
+    400190: instance_1 8
+    400192: instance_1 9
+    400194: instance_10
+    400196: instance_11
+    400198: instance_12
+    400200: instance_13
+    400202: instance_14
+    400204: instance_15
+    400206: instance_16
+    400208: instance_2
+    400210: instance_3
+    400212: instance_4
+    400214: instance_5
+    400216: instance_6
+    400218: instance_7
+    400220: instance_8
+    400222: instance_9
+    400224: //RootNode
+    2300000: Group_1
+    2300002: Group_1 1
+    2300004: Group_1 10
+    2300006: Group_1 11
+    2300008: Group_1 12
+    2300010: Group_1 13
+    2300012: Group_1 14
+    2300014: Group_1 15
+    2300016: Group_1 2
+    2300018: Group_1 3
+    2300020: Group_1 4
+    2300022: Group_1 5
+    2300024: Group_1 6
+    2300026: Group_1 7
+    2300028: Group_1 8
+    2300030: Group_1 9
+    2300032: Group_2
+    2300034: Group_2 1
+    2300036: Group_2 10
+    2300038: Group_2 11
+    2300040: Group_2 12
+    2300042: Group_2 13
+    2300044: Group_2 14
+    2300046: Group_2 15
+    2300048: Group_2 2
+    2300050: Group_2 3
+    2300052: Group_2 4
+    2300054: Group_2 5
+    2300056: Group_2 6
+    2300058: Group_2 7
+    2300060: Group_2 8
+    2300062: Group_2 9
+    2300064: ID30
+    2300066: ID30 1
+    2300068: ID30 10
+    2300070: ID30 11
+    2300072: ID30 12
+    2300074: ID30 13
+    2300076: ID30 14
+    2300078: ID30 15
+    2300080: ID30 2
+    2300082: ID30 3
+    2300084: ID30 4
+    2300086: ID30 5
+    2300088: ID30 6
+    2300090: ID30 7
+    2300092: ID30 8
+    2300094: ID30 9
+    2300096: ID36
+    2300098: ID36 1
+    2300100: ID36 10
+    2300102: ID36 11
+    2300104: ID36 12
+    2300106: ID36 13
+    2300108: ID36 14
+    2300110: ID36 15
+    2300112: ID36 2
+    2300114: ID36 3
+    2300116: ID36 4
+    2300118: ID36 5
+    2300120: ID36 6
+    2300122: ID36 7
+    2300124: ID36 8
+    2300126: ID36 9
+    2300128: //RootNode
+    3300000: Group_1
+    3300002: Group_1 1
+    3300004: Group_1 10
+    3300006: Group_1 11
+    3300008: Group_1 12
+    3300010: Group_1 13
+    3300012: Group_1 14
+    3300014: Group_1 15
+    3300016: Group_1 2
+    3300018: Group_1 3
+    3300020: Group_1 4
+    3300022: Group_1 5
+    3300024: Group_1 6
+    3300026: Group_1 7
+    3300028: Group_1 8
+    3300030: Group_1 9
+    3300032: Group_2
+    3300034: Group_2 1
+    3300036: Group_2 10
+    3300038: Group_2 11
+    3300040: Group_2 12
+    3300042: Group_2 13
+    3300044: Group_2 14
+    3300046: Group_2 15
+    3300048: Group_2 2
+    3300050: Group_2 3
+    3300052: Group_2 4
+    3300054: Group_2 5
+    3300056: Group_2 6
+    3300058: Group_2 7
+    3300060: Group_2 8
+    3300062: Group_2 9
+    3300064: ID30
+    3300066: ID30 1
+    3300068: ID30 10
+    3300070: ID30 11
+    3300072: ID30 12
+    3300074: ID30 13
+    3300076: ID30 14
+    3300078: ID30 15
+    3300080: ID30 2
+    3300082: ID30 3
+    3300084: ID30 4
+    3300086: ID30 5
+    3300088: ID30 6
+    3300090: ID30 7
+    3300092: ID30 8
+    3300094: ID30 9
+    3300096: ID36
+    3300098: ID36 1
+    3300100: ID36 10
+    3300102: ID36 11
+    3300104: ID36 12
+    3300106: ID36 13
+    3300108: ID36 14
+    3300110: ID36 15
+    3300112: ID36 2
+    3300114: ID36 3
+    3300116: ID36 4
+    3300118: ID36 5
+    3300120: ID36 6
+    3300122: ID36 7
+    3300124: ID36 8
+    3300126: ID36 9
+    3300128: //RootNode
+    4300000: SketchUp
+    4300002: Group_1
+    4300004: ID30
+    4300006: ID36
+    4300008: Group_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
