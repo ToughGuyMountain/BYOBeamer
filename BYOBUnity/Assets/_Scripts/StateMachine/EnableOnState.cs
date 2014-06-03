@@ -12,9 +12,9 @@ public class EnableOnState : MonoBehaviour {
 		// give 'em a chance to start up
 		StartCoroutine(
 			Util.AfterOneFrame(
-			() => behaviour.enabled = false)
-		)
-		;
+				() => { if (!state.Active) behaviour.enabled = false; }
+			)
+		);
 	}
 	
 	void Enter() {

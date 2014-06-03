@@ -22,12 +22,6 @@ public class StateMachine : MonoBehaviour {
 		}
 	}
 	
-	void Start() {
-		if (State) {
-			State.OnEnter();
-		}
-	}
-	
 	[SerializeField] private bool _active = true;
 	public bool Active {
 		get { return _active; }
