@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Elevator : MonoBehaviour {
+public class ElevatorPlatform : MonoBehaviour {
 	public Transform[] floors;
 	int currentFloor;
 	
