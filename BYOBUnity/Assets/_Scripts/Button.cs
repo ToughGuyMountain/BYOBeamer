@@ -8,20 +8,21 @@ public class Button : MonoBehaviour {
 	public string message;
 	
 	void OnTriggerEnter(Collider other) {
-		Debug.Log (other);
 		if (other.gameObject.IsPlayer()) {
-			Debug.Log ("near");
 			playerNear = true;
 		}
 	}
 	
 	void OnTriggerExit(Collider other) {
+		
 		if (other.gameObject.IsPlayer()) {
-			playerNear = true;
+			Debug.Log ("exeunt");
+			playerNear = false;
 		}
 	}
 	
 	void Update() {
+		
 		var inputDevice = InputManager.ActiveDevice;
 	
 		if (playerNear && inputDevice.Action3) {

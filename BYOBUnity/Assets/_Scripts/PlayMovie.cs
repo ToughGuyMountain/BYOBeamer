@@ -27,5 +27,6 @@ public class PlayMovie : MonoBehaviour {
 	IEnumerator SignalWhenFinished() {
 		while(movTexture.isPlaying) { yield return null; }
 		if (onFinished != null) onFinished();
+		movTexture.Stop(); // required to rewind the movie
 	}
 }
