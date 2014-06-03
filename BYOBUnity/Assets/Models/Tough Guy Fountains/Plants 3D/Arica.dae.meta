@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: f07f03bdcf9f9447096e4d669da23b4c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID102
+    100004: ID108
+    100006: ID76
+    100008: ID89
+    100010: instance_0
+    100012: instance_1
+    100014: instance_1 1
+    100016: instance_1 2
+    100018: instance_1 3
+    100020: instance_1 4
+    100022: instance_1 5
+    100024: instance_1 6
+    100026: instance_10
+    100028: instance_11
+    100030: instance_12
+    100032: instance_13
+    100034: instance_2
+    100036: instance_2 1
+    100038: instance_2 2
+    100040: instance_2 3
+    100042: instance_2 4
+    100044: instance_2 5
+    100046: instance_2 6
+    100048: instance_3
+    100050: instance_3 1
+    100052: instance_3 2
+    100054: instance_3 3
+    100056: instance_3 4
+    100058: instance_3 5
+    100060: instance_3 6
+    100062: instance_4
+    100064: instance_4 1
+    100066: instance_4 2
+    100068: instance_4 3
+    100070: instance_4 4
+    100072: instance_4 5
+    100074: instance_4 6
+    100076: instance_5
+    100078: instance_5 1
+    100080: instance_5 2
+    100082: instance_5 3
+    100084: instance_5 4
+    100086: instance_5 5
+    100088: instance_5 6
+    100090: instance_6
+    100092: instance_6 1
+    100094: instance_6 2
+    100096: instance_6 3
+    100098: instance_6 4
+    100100: instance_6 5
+    100102: instance_6 6
+    100104: instance_7
+    100106: instance_7 1
+    100108: instance_7 2
+    100110: instance_7 3
+    100112: instance_7 4
+    100114: instance_7 5
+    100116: instance_7 6
+    100118: instance_8
+    100120: instance_9
+    100122: Palmleaf404
+    100124: Palmleaf404 1
+    100126: Palmleaf404 2
+    100128: Palmleaf404 3
+    100130: Palmleaf404 4
+    100132: Palmleaf404 5
+    100134: Palmleaf404 6
+    100136: Palmleaf_404
+    100138: Palmleaf_404 1
+    100140: Palmleaf_404 2
+    100142: Palmleaf_404 3
+    100144: Palmleaf_404 4
+    100146: Palmleaf_404 5
+    100148: Palmleaf_404 6
+    100150: palmleaf_404_half
+    100152: palmleaf_404_half 1
+    100154: palmleaf_404_half 10
+    100156: palmleaf_404_half 11
+    100158: palmleaf_404_half 12
+    100160: palmleaf_404_half 13
+    100162: palmleaf_404_half 2
+    100164: palmleaf_404_half 3
+    100166: palmleaf_404_half 4
+    100168: palmleaf_404_half 5
+    100170: palmleaf_404_half 6
+    100172: palmleaf_404_half 7
+    100174: palmleaf_404_half 8
+    100176: palmleaf_404_half 9
+    100178: palmleaf_404_stem
+    100180: palmleaf_404_stem 1
+    100182: palmleaf_404_stem 2
+    100184: palmleaf_404_stem 3
+    100186: palmleaf_404_stem 4
+    100188: palmleaf_404_stem 5
+    100190: palmleaf_404_stem 6
+    100192: Palmleaf_stem
+    100194: Palmleaf_stem 1
+    100196: Palmleaf_stem 2
+    100198: Palmleaf_stem 3
+    100200: Palmleaf_stem 4
+    100202: Palmleaf_stem 5
+    100204: Palmleaf_stem 6
+    100206: Palmleaf_stem_half
+    100208: Palmleaf_stem_half 1
+    100210: Palmleaf_stem_half 10
+    100212: Palmleaf_stem_half 11
+    100214: Palmleaf_stem_half 12
+    100216: Palmleaf_stem_half 13
+    100218: Palmleaf_stem_half 2
+    100220: Palmleaf_stem_half 3
+    100222: Palmleaf_stem_half 4
+    100224: Palmleaf_stem_half 5
+    100226: Palmleaf_stem_half 6
+    100228: Palmleaf_stem_half 7
+    100230: Palmleaf_stem_half 8
+    100232: Palmleaf_stem_half 9
+    400000: //RootNode
+    400002: ID102
+    400004: ID108
+    400006: ID76
+    400008: ID89
+    400010: instance_0
+    400012: instance_1
+    400014: instance_1 1
+    400016: instance_1 2
+    400018: instance_1 3
+    400020: instance_1 4
+    400022: instance_1 5
+    400024: instance_1 6
+    400026: instance_10
+    400028: instance_11
+    400030: instance_12
+    400032: instance_13
+    400034: instance_2
+    400036: instance_2 1
+    400038: instance_2 2
+    400040: instance_2 3
+    400042: instance_2 4
+    400044: instance_2 5
+    400046: instance_2 6
+    400048: instance_3
+    400050: instance_3 1
+    400052: instance_3 2
+    400054: instance_3 3
+    400056: instance_3 4
+    400058: instance_3 5
+    400060: instance_3 6
+    400062: instance_4
+    400064: instance_4 1
+    400066: instance_4 2
+    400068: instance_4 3
+    400070: instance_4 4
+    400072: instance_4 5
+    400074: instance_4 6
+    400076: instance_5
+    400078: instance_5 1
+    400080: instance_5 2
+    400082: instance_5 3
+    400084: instance_5 4
+    400086: instance_5 5
+    400088: instance_5 6
+    400090: instance_6
+    400092: instance_6 1
+    400094: instance_6 2
+    400096: instance_6 3
+    400098: instance_6 4
+    400100: instance_6 5
+    400102: instance_6 6
+    400104: instance_7
+    400106: instance_7 1
+    400108: instance_7 2
+    400110: instance_7 3
+    400112: instance_7 4
+    400114: instance_7 5
+    400116: instance_7 6
+    400118: instance_8
+    400120: instance_9
+    400122: Palmleaf404
+    400124: Palmleaf404 1
+    400126: Palmleaf404 2
+    400128: Palmleaf404 3
+    400130: Palmleaf404 4
+    400132: Palmleaf404 5
+    400134: Palmleaf404 6
+    400136: Palmleaf_404
+    400138: Palmleaf_404 1
+    400140: Palmleaf_404 2
+    400142: Palmleaf_404 3
+    400144: Palmleaf_404 4
+    400146: Palmleaf_404 5
+    400148: Palmleaf_404 6
+    400150: palmleaf_404_half
+    400152: palmleaf_404_half 1
+    400154: palmleaf_404_half 10
+    400156: palmleaf_404_half 11
+    400158: palmleaf_404_half 12
+    400160: palmleaf_404_half 13
+    400162: palmleaf_404_half 2
+    400164: palmleaf_404_half 3
+    400166: palmleaf_404_half 4
+    400168: palmleaf_404_half 5
+    400170: palmleaf_404_half 6
+    400172: palmleaf_404_half 7
+    400174: palmleaf_404_half 8
+    400176: palmleaf_404_half 9
+    400178: palmleaf_404_stem
+    400180: palmleaf_404_stem 1
+    400182: palmleaf_404_stem 2
+    400184: palmleaf_404_stem 3
+    400186: palmleaf_404_stem 4
+    400188: palmleaf_404_stem 5
+    400190: palmleaf_404_stem 6
+    400192: Palmleaf_stem
+    400194: Palmleaf_stem 1
+    400196: Palmleaf_stem 2
+    400198: Palmleaf_stem 3
+    400200: Palmleaf_stem 4
+    400202: Palmleaf_stem 5
+    400204: Palmleaf_stem 6
+    400206: Palmleaf_stem_half
+    400208: Palmleaf_stem_half 1
+    400210: Palmleaf_stem_half 10
+    400212: Palmleaf_stem_half 11
+    400214: Palmleaf_stem_half 12
+    400216: Palmleaf_stem_half 13
+    400218: Palmleaf_stem_half 2
+    400220: Palmleaf_stem_half 3
+    400222: Palmleaf_stem_half 4
+    400224: Palmleaf_stem_half 5
+    400226: Palmleaf_stem_half 6
+    400228: Palmleaf_stem_half 7
+    400230: Palmleaf_stem_half 8
+    400232: Palmleaf_stem_half 9
+    2300000: //RootNode
+    2300002: ID102
+    2300004: ID76
+    2300006: ID89
+    2300008: palmleaf_404_half
+    2300010: palmleaf_404_half 1
+    2300012: palmleaf_404_half 10
+    2300014: palmleaf_404_half 11
+    2300016: palmleaf_404_half 12
+    2300018: palmleaf_404_half 13
+    2300020: palmleaf_404_half 2
+    2300022: palmleaf_404_half 3
+    2300024: palmleaf_404_half 4
+    2300026: palmleaf_404_half 5
+    2300028: palmleaf_404_half 6
+    2300030: palmleaf_404_half 7
+    2300032: palmleaf_404_half 8
+    2300034: palmleaf_404_half 9
+    2300036: Palmleaf_stem_half
+    2300038: Palmleaf_stem_half 1
+    2300040: Palmleaf_stem_half 10
+    2300042: Palmleaf_stem_half 11
+    2300044: Palmleaf_stem_half 12
+    2300046: Palmleaf_stem_half 13
+    2300048: Palmleaf_stem_half 2
+    2300050: Palmleaf_stem_half 3
+    2300052: Palmleaf_stem_half 4
+    2300054: Palmleaf_stem_half 5
+    2300056: Palmleaf_stem_half 6
+    2300058: Palmleaf_stem_half 7
+    2300060: Palmleaf_stem_half 8
+    2300062: Palmleaf_stem_half 9
+    3300000: //RootNode
+    3300002: ID102
+    3300004: ID76
+    3300006: ID89
+    3300008: palmleaf_404_half
+    3300010: palmleaf_404_half 1
+    3300012: palmleaf_404_half 10
+    3300014: palmleaf_404_half 11
+    3300016: palmleaf_404_half 12
+    3300018: palmleaf_404_half 13
+    3300020: palmleaf_404_half 2
+    3300022: palmleaf_404_half 3
+    3300024: palmleaf_404_half 4
+    3300026: palmleaf_404_half 5
+    3300028: palmleaf_404_half 6
+    3300030: palmleaf_404_half 7
+    3300032: palmleaf_404_half 8
+    3300034: palmleaf_404_half 9
+    3300036: Palmleaf_stem_half
+    3300038: Palmleaf_stem_half 1
+    3300040: Palmleaf_stem_half 10
+    3300042: Palmleaf_stem_half 11
+    3300044: Palmleaf_stem_half 12
+    3300046: Palmleaf_stem_half 13
+    3300048: Palmleaf_stem_half 2
+    3300050: Palmleaf_stem_half 3
+    3300052: Palmleaf_stem_half 4
+    3300054: Palmleaf_stem_half 5
+    3300056: Palmleaf_stem_half 6
+    3300058: Palmleaf_stem_half 7
+    3300060: Palmleaf_stem_half 8
+    3300062: Palmleaf_stem_half 9
+    4300000: SketchUp
+    4300002: ID76
+    4300004: ID89
+    4300006: ID102
+    4300008: Palmleaf_stem_half
+    4300010: Palmleaf_stem_half
+    4300012: palmleaf_404_half
+    4300014: palmleaf_404_half
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
