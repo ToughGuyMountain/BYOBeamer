@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: cb757e4f3f5af40caa8dac97be84a36c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: group_12
+    100010: group_13
+    100012: group_14
+    100014: group_15
+    100016: group_16
+    100018: group_17
+    100020: group_18
+    100022: group_19
+    100024: group_2
+    100026: group_20
+    100028: group_21
+    100030: group_22
+    100032: group_23
+    100034: group_3
+    100036: group_4
+    100038: group_5
+    100040: group_6
+    100042: group_7
+    100044: group_8
+    100046: group_9
+    100048: ID121
+    100050: instance_0
+    100052: instance_1
+    100054: instance_1 1
+    100056: instance_1 10
+    100058: instance_1 11
+    100060: instance_1 12
+    100062: instance_1 13
+    100064: instance_1 14
+    100066: instance_1 15
+    100068: instance_1 16
+    100070: instance_1 17
+    100072: instance_1 18
+    100074: instance_1 19
+    100076: instance_1 2
+    100078: instance_1 20
+    100080: instance_1 21
+    100082: instance_1 22
+    100084: instance_1 23
+    100086: instance_1 3
+    100088: instance_1 4
+    100090: instance_1 5
+    100092: instance_1 6
+    100094: instance_1 7
+    100096: instance_1 8
+    100098: instance_1 9
+    100100: instance_10
+    100102: instance_11
+    100104: instance_12
+    100106: instance_13
+    100108: instance_14
+    100110: instance_15
+    100112: instance_15 1
+    100114: instance_16
+    100116: instance_16 1
+    100118: instance_17
+    100120: instance_18
+    100122: instance_19
+    100124: instance_19 1
+    100126: instance_2
+    100128: instance_20
+    100130: instance_20 1
+    100132: instance_21
+    100134: instance_22
+    100136: instance_23
+    100138: instance_23 1
+    100140: instance_24
+    100142: instance_24 1
+    100144: instance_25
+    100146: instance_26
+    100148: instance_27
+    100150: instance_27 1
+    100152: instance_27 2
+    100154: instance_28
+    100156: instance_28 1
+    100158: instance_28 2
+    100160: instance_29
+    100162: instance_3
+    100164: instance_30
+    100166: instance_31
+    100168: instance_32
+    100170: instance_33
+    100172: instance_34
+    100174: instance_35
+    100176: instance_36
+    100178: instance_37
+    100180: instance_38
+    100182: instance_39
+    100184: instance_4
+    100186: instance_5
+    100188: instance_6
+    100190: instance_7
+    100192: instance_8
+    100194: instance_9
+    100196: splitleaf500
+    100198: splitleaf500 1
+    100200: splitleaf500 10
+    100202: splitleaf500 11
+    100204: splitleaf500 12
+    100206: splitleaf500 13
+    100208: splitleaf500 14
+    100210: splitleaf500 15
+    100212: splitleaf500 16
+    100214: splitleaf500 17
+    100216: splitleaf500 18
+    100218: splitleaf500 19
+    100220: splitleaf500 2
+    100222: splitleaf500 20
+    100224: splitleaf500 21
+    100226: splitleaf500 22
+    100228: splitleaf500 23
+    100230: splitleaf500 3
+    100232: splitleaf500 4
+    100234: splitleaf500 5
+    100236: splitleaf500 6
+    100238: splitleaf500 7
+    100240: splitleaf500 8
+    100242: splitleaf500 9
+    100244: //RootNode
+    100246: SplitleafStem__a
+    100248: SplitleafStem__a 1
+    100250: SplitleafStem__a 10
+    100252: SplitleafStem__a 11
+    100254: SplitleafStem__a 12
+    100256: SplitleafStem__a 13
+    100258: SplitleafStem__a 14
+    100260: SplitleafStem__a 15
+    100262: SplitleafStem__a 16
+    100264: SplitleafStem__a 17
+    100266: SplitleafStem__a 18
+    100268: SplitleafStem__a 19
+    100270: SplitleafStem__a 2
+    100272: SplitleafStem__a 20
+    100274: SplitleafStem__a 21
+    100276: SplitleafStem__a 22
+    100278: SplitleafStem__a 23
+    100280: SplitleafStem__a 3
+    100282: SplitleafStem__a 4
+    100284: SplitleafStem__a 5
+    100286: SplitleafStem__a 6
+    100288: SplitleafStem__a 7
+    100290: SplitleafStem__a 8
+    100292: SplitleafStem__a 9
+    100294: SplitleafStem_a
+    100296: SplitleafStem_a 1
+    100298: SplitleafStem_a 10
+    100300: SplitleafStem_a 11
+    100302: SplitleafStem_a 12
+    100304: SplitleafStem_a 13
+    100306: SplitleafStem_a 14
+    100308: SplitleafStem_a 15
+    100310: SplitleafStem_a 16
+    100312: SplitleafStem_a 17
+    100314: SplitleafStem_a 18
+    100316: SplitleafStem_a 19
+    100318: SplitleafStem_a 2
+    100320: SplitleafStem_a 20
+    100322: SplitleafStem_a 21
+    100324: SplitleafStem_a 22
+    100326: SplitleafStem_a 23
+    100328: SplitleafStem_a 3
+    100330: SplitleafStem_a 4
+    100332: SplitleafStem_a 5
+    100334: SplitleafStem_a 6
+    100336: SplitleafStem_a 7
+    100338: SplitleafStem_a 8
+    100340: SplitleafStem_a 9
+    100342: SplitleafTruck2
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: group_12
+    400010: group_13
+    400012: group_14
+    400014: group_15
+    400016: group_16
+    400018: group_17
+    400020: group_18
+    400022: group_19
+    400024: group_2
+    400026: group_20
+    400028: group_21
+    400030: group_22
+    400032: group_23
+    400034: group_3
+    400036: group_4
+    400038: group_5
+    400040: group_6
+    400042: group_7
+    400044: group_8
+    400046: group_9
+    400048: ID121
+    400050: instance_0
+    400052: instance_1
+    400054: instance_1 1
+    400056: instance_1 10
+    400058: instance_1 11
+    400060: instance_1 12
+    400062: instance_1 13
+    400064: instance_1 14
+    400066: instance_1 15
+    400068: instance_1 16
+    400070: instance_1 17
+    400072: instance_1 18
+    400074: instance_1 19
+    400076: instance_1 2
+    400078: instance_1 20
+    400080: instance_1 21
+    400082: instance_1 22
+    400084: instance_1 23
+    400086: instance_1 3
+    400088: instance_1 4
+    400090: instance_1 5
+    400092: instance_1 6
+    400094: instance_1 7
+    400096: instance_1 8
+    400098: instance_1 9
+    400100: instance_10
+    400102: instance_11
+    400104: instance_12
+    400106: instance_13
+    400108: instance_14
+    400110: instance_15
+    400112: instance_15 1
+    400114: instance_16
+    400116: instance_16 1
+    400118: instance_17
+    400120: instance_18
+    400122: instance_19
+    400124: instance_19 1
+    400126: instance_2
+    400128: instance_20
+    400130: instance_20 1
+    400132: instance_21
+    400134: instance_22
+    400136: instance_23
+    400138: instance_23 1
+    400140: instance_24
+    400142: instance_24 1
+    400144: instance_25
+    400146: instance_26
+    400148: instance_27
+    400150: instance_27 1
+    400152: instance_27 2
+    400154: instance_28
+    400156: instance_28 1
+    400158: instance_28 2
+    400160: instance_29
+    400162: instance_3
+    400164: instance_30
+    400166: instance_31
+    400168: instance_32
+    400170: instance_33
+    400172: instance_34
+    400174: instance_35
+    400176: instance_36
+    400178: instance_37
+    400180: instance_38
+    400182: instance_39
+    400184: instance_4
+    400186: instance_5
+    400188: instance_6
+    400190: instance_7
+    400192: instance_8
+    400194: instance_9
+    400196: splitleaf500
+    400198: splitleaf500 1
+    400200: splitleaf500 10
+    400202: splitleaf500 11
+    400204: splitleaf500 12
+    400206: splitleaf500 13
+    400208: splitleaf500 14
+    400210: splitleaf500 15
+    400212: splitleaf500 16
+    400214: splitleaf500 17
+    400216: splitleaf500 18
+    400218: splitleaf500 19
+    400220: splitleaf500 2
+    400222: splitleaf500 20
+    400224: splitleaf500 21
+    400226: splitleaf500 22
+    400228: splitleaf500 23
+    400230: splitleaf500 3
+    400232: splitleaf500 4
+    400234: splitleaf500 5
+    400236: splitleaf500 6
+    400238: splitleaf500 7
+    400240: splitleaf500 8
+    400242: splitleaf500 9
+    400244: //RootNode
+    400246: SplitleafStem__a
+    400248: SplitleafStem__a 1
+    400250: SplitleafStem__a 10
+    400252: SplitleafStem__a 11
+    400254: SplitleafStem__a 12
+    400256: SplitleafStem__a 13
+    400258: SplitleafStem__a 14
+    400260: SplitleafStem__a 15
+    400262: SplitleafStem__a 16
+    400264: SplitleafStem__a 17
+    400266: SplitleafStem__a 18
+    400268: SplitleafStem__a 19
+    400270: SplitleafStem__a 2
+    400272: SplitleafStem__a 20
+    400274: SplitleafStem__a 21
+    400276: SplitleafStem__a 22
+    400278: SplitleafStem__a 23
+    400280: SplitleafStem__a 3
+    400282: SplitleafStem__a 4
+    400284: SplitleafStem__a 5
+    400286: SplitleafStem__a 6
+    400288: SplitleafStem__a 7
+    400290: SplitleafStem__a 8
+    400292: SplitleafStem__a 9
+    400294: SplitleafStem_a
+    400296: SplitleafStem_a 1
+    400298: SplitleafStem_a 10
+    400300: SplitleafStem_a 11
+    400302: SplitleafStem_a 12
+    400304: SplitleafStem_a 13
+    400306: SplitleafStem_a 14
+    400308: SplitleafStem_a 15
+    400310: SplitleafStem_a 16
+    400312: SplitleafStem_a 17
+    400314: SplitleafStem_a 18
+    400316: SplitleafStem_a 19
+    400318: SplitleafStem_a 2
+    400320: SplitleafStem_a 20
+    400322: SplitleafStem_a 21
+    400324: SplitleafStem_a 22
+    400326: SplitleafStem_a 23
+    400328: SplitleafStem_a 3
+    400330: SplitleafStem_a 4
+    400332: SplitleafStem_a 5
+    400334: SplitleafStem_a 6
+    400336: SplitleafStem_a 7
+    400338: SplitleafStem_a 8
+    400340: SplitleafStem_a 9
+    400342: SplitleafTruck2
+    2300000: ID121
+    2300002: splitleaf500
+    2300004: splitleaf500 1
+    2300006: splitleaf500 10
+    2300008: splitleaf500 11
+    2300010: splitleaf500 12
+    2300012: splitleaf500 13
+    2300014: splitleaf500 14
+    2300016: splitleaf500 15
+    2300018: splitleaf500 16
+    2300020: splitleaf500 17
+    2300022: splitleaf500 18
+    2300024: splitleaf500 19
+    2300026: splitleaf500 2
+    2300028: splitleaf500 20
+    2300030: splitleaf500 21
+    2300032: splitleaf500 22
+    2300034: splitleaf500 23
+    2300036: splitleaf500 3
+    2300038: splitleaf500 4
+    2300040: splitleaf500 5
+    2300042: splitleaf500 6
+    2300044: splitleaf500 7
+    2300046: splitleaf500 8
+    2300048: splitleaf500 9
+    2300050: SplitleafStem_a
+    2300052: SplitleafStem_a 1
+    2300054: SplitleafStem_a 10
+    2300056: SplitleafStem_a 11
+    2300058: SplitleafStem_a 12
+    2300060: SplitleafStem_a 13
+    2300062: SplitleafStem_a 14
+    2300064: SplitleafStem_a 15
+    2300066: SplitleafStem_a 16
+    2300068: SplitleafStem_a 17
+    2300070: SplitleafStem_a 18
+    2300072: SplitleafStem_a 19
+    2300074: SplitleafStem_a 2
+    2300076: SplitleafStem_a 20
+    2300078: SplitleafStem_a 21
+    2300080: SplitleafStem_a 22
+    2300082: SplitleafStem_a 23
+    2300084: SplitleafStem_a 3
+    2300086: SplitleafStem_a 4
+    2300088: SplitleafStem_a 5
+    2300090: SplitleafStem_a 6
+    2300092: SplitleafStem_a 7
+    2300094: SplitleafStem_a 8
+    2300096: SplitleafStem_a 9
+    2300098: SplitleafTruck2
+    3300000: ID121
+    3300002: splitleaf500
+    3300004: splitleaf500 1
+    3300006: splitleaf500 10
+    3300008: splitleaf500 11
+    3300010: splitleaf500 12
+    3300012: splitleaf500 13
+    3300014: splitleaf500 14
+    3300016: splitleaf500 15
+    3300018: splitleaf500 16
+    3300020: splitleaf500 17
+    3300022: splitleaf500 18
+    3300024: splitleaf500 19
+    3300026: splitleaf500 2
+    3300028: splitleaf500 20
+    3300030: splitleaf500 21
+    3300032: splitleaf500 22
+    3300034: splitleaf500 23
+    3300036: splitleaf500 3
+    3300038: splitleaf500 4
+    3300040: splitleaf500 5
+    3300042: splitleaf500 6
+    3300044: splitleaf500 7
+    3300046: splitleaf500 8
+    3300048: splitleaf500 9
+    3300050: SplitleafStem_a
+    3300052: SplitleafStem_a 1
+    3300054: SplitleafStem_a 10
+    3300056: SplitleafStem_a 11
+    3300058: SplitleafStem_a 12
+    3300060: SplitleafStem_a 13
+    3300062: SplitleafStem_a 14
+    3300064: SplitleafStem_a 15
+    3300066: SplitleafStem_a 16
+    3300068: SplitleafStem_a 17
+    3300070: SplitleafStem_a 18
+    3300072: SplitleafStem_a 19
+    3300074: SplitleafStem_a 2
+    3300076: SplitleafStem_a 20
+    3300078: SplitleafStem_a 21
+    3300080: SplitleafStem_a 22
+    3300082: SplitleafStem_a 23
+    3300084: SplitleafStem_a 3
+    3300086: SplitleafStem_a 4
+    3300088: SplitleafStem_a 5
+    3300090: SplitleafStem_a 6
+    3300092: SplitleafStem_a 7
+    3300094: SplitleafStem_a 8
+    3300096: SplitleafStem_a 9
+    3300098: SplitleafTruck2
+    4300000: SplitleafStem_a
+    4300002: splitleaf500
+    4300004: SplitleafTruck2
+    4300006: ID121
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
