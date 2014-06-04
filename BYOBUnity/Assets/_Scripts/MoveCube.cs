@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 
@@ -10,6 +10,7 @@ public class MoveCube : MonoBehaviour {
 
 	void Start () {
 
+		RandoPositio ();
 		RandomMovement ();
 
 		}
@@ -20,10 +21,8 @@ public class MoveCube : MonoBehaviour {
 
 		t += Time.deltaTime;
 
-		
-		transform.Rotate (new Vector3 (15, 0, 0) * Time.deltaTime);
 
-		// Move the object upward in world space 1 unit/second.
+
 		transform.Translate(x * Time.deltaTime, 0, y * Time.deltaTime, Space.World);
 
 
@@ -38,7 +37,21 @@ public class MoveCube : MonoBehaviour {
 
 	void RandomMovement ()
     { 
-		x = (Random.value - 0.5f) * (Random.value * 50);
-		y = (Random.value - 0.5f) * (Random.value * 50);
+		x = (Random.value - 0.5f) * (Random.value * 25);
+		y = (Random.value - 0.5f) * (Random.value * 25);
+
+		transform.Rotate(0, 90, 0, Space.World);
+
+	}
+
+	void OnCollisionEnter (Collision collision) {
+
+		RandoPositio ();
+
+	}
+
+	void RandoPositio () {
+
+		transform.position = new Vector3((UnityEngine.Random.value * 200 - 100), 93, (UnityEngine.Random.value * 200 - 100));
 	}
 }
