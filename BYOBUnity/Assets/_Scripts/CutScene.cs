@@ -6,13 +6,15 @@ public class CutScene : Singleton<CutScene> {
 	public Renderer screen;
 	PlayMovie movie;
 	StateMachineState state;
+	string nextLevel;
 
 	void Start() {
 		movie = screen.GetComponent<PlayMovie>();
 		state = GetComponent<StateMachineState>();
 	}
 
-	public void PlayElevatorScene() {
+	public void PlayElevatorScene(string floorName) {
+		nextLevel = floorName;
 		state.SwitchTo();
 		screen.material = elevatorMaterial;
 		movie.onFinished += EndElevatorScene;
@@ -22,5 +24,6 @@ public class CutScene : Singleton<CutScene> {
 	void EndElevatorScene() {
 		movie.onFinished -= EndElevatorScene;
 		state.SwitchFrom();
+		Application.LoadLevel(nextLevel);
 	}
 }
