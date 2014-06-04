@@ -1,0 +1,2125 @@
+fileFormatVersion: 2
+guid: 5f97f12ddc4ac44ccb68adbd6e5bde2b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _3D_Man_Seated_Leg_Crossed
+    100002: ID132
+    100004: ID132 1
+    100006: ID132 2
+    100008: ID132 3
+    100010: ID138
+    100012: ID138 1
+    100014: ID138 2
+    100016: ID138 3
+    100018: ID150
+    100020: ID150 1
+    100022: ID150 2
+    100024: ID150 3
+    100026: ID154
+    100028: ID154 1
+    100030: ID154 2
+    100032: ID154 3
+    100034: ID184
+    100036: ID190
+    100038: ID196
+    100040: ID202
+    100042: ID21
+    100044: ID21 1
+    100046: ID21 10
+    100048: ID21 11
+    100050: ID21 12
+    100052: ID21 13
+    100054: ID21 14
+    100056: ID21 15
+    100058: ID21 16
+    100060: ID21 17
+    100062: ID21 18
+    100064: ID21 19
+    100066: ID21 2
+    100068: ID21 20
+    100070: ID21 21
+    100072: ID21 22
+    100074: ID21 23
+    100076: ID21 24
+    100078: ID21 25
+    100080: ID21 26
+    100082: ID21 27
+    100084: ID21 28
+    100086: ID21 29
+    100088: ID21 3
+    100090: ID21 30
+    100092: ID21 31
+    100094: ID21 32
+    100096: ID21 33
+    100098: ID21 34
+    100100: ID21 35
+    100102: ID21 36
+    100104: ID21 37
+    100106: ID21 38
+    100108: ID21 39
+    100110: ID21 4
+    100112: ID21 40
+    100114: ID21 41
+    100116: ID21 42
+    100118: ID21 43
+    100120: ID21 44
+    100122: ID21 45
+    100124: ID21 46
+    100126: ID21 47
+    100128: ID21 48
+    100130: ID21 49
+    100132: ID21 5
+    100134: ID21 50
+    100136: ID21 51
+    100138: ID21 52
+    100140: ID21 53
+    100142: ID21 54
+    100144: ID21 55
+    100146: ID21 56
+    100148: ID21 57
+    100150: ID21 58
+    100152: ID21 59
+    100154: ID21 6
+    100156: ID21 60
+    100158: ID21 61
+    100160: ID21 62
+    100162: ID21 63
+    100164: ID21 64
+    100166: ID21 65
+    100168: ID21 66
+    100170: ID21 67
+    100172: ID21 68
+    100174: ID21 69
+    100176: ID21 7
+    100178: ID21 70
+    100180: ID21 71
+    100182: ID21 72
+    100184: ID21 73
+    100186: ID21 74
+    100188: ID21 75
+    100190: ID21 76
+    100192: ID21 77
+    100194: ID21 78
+    100196: ID21 79
+    100198: ID21 8
+    100200: ID21 80
+    100202: ID21 9
+    100204: ID221
+    100206: ID229
+    100208: ID237
+    100210: ID243
+    100212: ID251
+    100214: ID259
+    100216: ID265
+    100218: ID271
+    100220: ID284
+    100222: ID29
+    100224: ID29 1
+    100226: ID29 10
+    100228: ID29 11
+    100230: ID29 12
+    100232: ID29 13
+    100234: ID29 14
+    100236: ID29 15
+    100238: ID29 16
+    100240: ID29 17
+    100242: ID29 18
+    100244: ID29 19
+    100246: ID29 2
+    100248: ID29 20
+    100250: ID29 21
+    100252: ID29 22
+    100254: ID29 23
+    100256: ID29 24
+    100258: ID29 25
+    100260: ID29 26
+    100262: ID29 27
+    100264: ID29 28
+    100266: ID29 29
+    100268: ID29 3
+    100270: ID29 30
+    100272: ID29 31
+    100274: ID29 32
+    100276: ID29 33
+    100278: ID29 34
+    100280: ID29 35
+    100282: ID29 36
+    100284: ID29 37
+    100286: ID29 38
+    100288: ID29 39
+    100290: ID29 4
+    100292: ID29 40
+    100294: ID29 41
+    100296: ID29 42
+    100298: ID29 43
+    100300: ID29 44
+    100302: ID29 45
+    100304: ID29 46
+    100306: ID29 47
+    100308: ID29 48
+    100310: ID29 49
+    100312: ID29 5
+    100314: ID29 50
+    100316: ID29 51
+    100318: ID29 52
+    100320: ID29 53
+    100322: ID29 54
+    100324: ID29 55
+    100326: ID29 56
+    100328: ID29 57
+    100330: ID29 58
+    100332: ID29 59
+    100334: ID29 6
+    100336: ID29 60
+    100338: ID29 61
+    100340: ID29 62
+    100342: ID29 63
+    100344: ID29 64
+    100346: ID29 65
+    100348: ID29 66
+    100350: ID29 67
+    100352: ID29 68
+    100354: ID29 69
+    100356: ID29 7
+    100358: ID29 70
+    100360: ID29 71
+    100362: ID29 72
+    100364: ID29 73
+    100366: ID29 74
+    100368: ID29 75
+    100370: ID29 76
+    100372: ID29 77
+    100374: ID29 78
+    100376: ID29 79
+    100378: ID29 8
+    100380: ID29 80
+    100382: ID29 9
+    100384: ID292
+    100386: ID305
+    100388: ID313
+    100390: ID321
+    100392: ID329
+    100394: ID337
+    100396: ID345
+    100398: ID358
+    100400: ID366
+    100402: ID374
+    100404: ID382
+    100406: ID390
+    100408: ID398
+    100410: ID406
+    100412: ID414
+    100414: ID422
+    100416: ID43
+    100418: ID43 1
+    100420: ID43 10
+    100422: ID43 11
+    100424: ID43 12
+    100426: ID43 13
+    100428: ID43 14
+    100430: ID43 15
+    100432: ID43 16
+    100434: ID43 17
+    100436: ID43 18
+    100438: ID43 19
+    100440: ID43 2
+    100442: ID43 20
+    100444: ID43 21
+    100446: ID43 22
+    100448: ID43 23
+    100450: ID43 24
+    100452: ID43 25
+    100454: ID43 26
+    100456: ID43 27
+    100458: ID43 28
+    100460: ID43 29
+    100462: ID43 3
+    100464: ID43 30
+    100466: ID43 31
+    100468: ID43 32
+    100470: ID43 33
+    100472: ID43 34
+    100474: ID43 35
+    100476: ID43 36
+    100478: ID43 37
+    100480: ID43 38
+    100482: ID43 39
+    100484: ID43 4
+    100486: ID43 40
+    100488: ID43 41
+    100490: ID43 42
+    100492: ID43 43
+    100494: ID43 44
+    100496: ID43 45
+    100498: ID43 46
+    100500: ID43 47
+    100502: ID43 48
+    100504: ID43 49
+    100506: ID43 5
+    100508: ID43 50
+    100510: ID43 51
+    100512: ID43 52
+    100514: ID43 53
+    100516: ID43 54
+    100518: ID43 55
+    100520: ID43 56
+    100522: ID43 57
+    100524: ID43 58
+    100526: ID43 59
+    100528: ID43 6
+    100530: ID43 60
+    100532: ID43 61
+    100534: ID43 62
+    100536: ID43 63
+    100538: ID43 64
+    100540: ID43 65
+    100542: ID43 66
+    100544: ID43 67
+    100546: ID43 68
+    100548: ID43 69
+    100550: ID43 7
+    100552: ID43 70
+    100554: ID43 71
+    100556: ID43 72
+    100558: ID43 73
+    100560: ID43 74
+    100562: ID43 75
+    100564: ID43 76
+    100566: ID43 77
+    100568: ID43 78
+    100570: ID43 79
+    100572: ID43 8
+    100574: ID43 80
+    100576: ID43 9
+    100578: ID430
+    100580: ID438
+    100582: ID446
+    100584: ID450
+    100586: ID454
+    100588: ID458
+    100590: ID462
+    100592: ID466
+    100594: ID47
+    100596: ID47 1
+    100598: ID47 10
+    100600: ID47 11
+    100602: ID47 12
+    100604: ID47 13
+    100606: ID47 14
+    100608: ID47 15
+    100610: ID47 16
+    100612: ID47 17
+    100614: ID47 18
+    100616: ID47 19
+    100618: ID47 2
+    100620: ID47 20
+    100622: ID47 21
+    100624: ID47 22
+    100626: ID47 23
+    100628: ID47 24
+    100630: ID47 25
+    100632: ID47 26
+    100634: ID47 27
+    100636: ID47 28
+    100638: ID47 29
+    100640: ID47 3
+    100642: ID47 30
+    100644: ID47 31
+    100646: ID47 32
+    100648: ID47 33
+    100650: ID47 34
+    100652: ID47 35
+    100654: ID47 36
+    100656: ID47 37
+    100658: ID47 38
+    100660: ID47 39
+    100662: ID47 4
+    100664: ID47 40
+    100666: ID47 41
+    100668: ID47 42
+    100670: ID47 43
+    100672: ID47 44
+    100674: ID47 45
+    100676: ID47 46
+    100678: ID47 47
+    100680: ID47 48
+    100682: ID47 49
+    100684: ID47 5
+    100686: ID47 50
+    100688: ID47 51
+    100690: ID47 52
+    100692: ID47 53
+    100694: ID47 54
+    100696: ID47 55
+    100698: ID47 56
+    100700: ID47 57
+    100702: ID47 58
+    100704: ID47 59
+    100706: ID47 6
+    100708: ID47 60
+    100710: ID47 61
+    100712: ID47 62
+    100714: ID47 63
+    100716: ID47 64
+    100718: ID47 65
+    100720: ID47 66
+    100722: ID47 67
+    100724: ID47 68
+    100726: ID47 69
+    100728: ID47 7
+    100730: ID47 70
+    100732: ID47 71
+    100734: ID47 72
+    100736: ID47 73
+    100738: ID47 74
+    100740: ID47 75
+    100742: ID47 76
+    100744: ID47 77
+    100746: ID47 78
+    100748: ID47 79
+    100750: ID47 8
+    100752: ID47 80
+    100754: ID47 9
+    100756: ID470
+    100758: ID474
+    100760: ID482
+    100762: instance_0
+    100764: instance_1
+    100766: instance_10
+    100768: instance_11
+    100770: instance_12
+    100772: instance_13
+    100774: instance_14
+    100776: instance_15
+    100778: instance_16
+    100780: instance_17
+    100782: instance_18
+    100784: instance_19
+    100786: instance_2
+    100788: instance_2 1
+    100790: instance_2 10
+    100792: instance_2 11
+    100794: instance_2 12
+    100796: instance_2 13
+    100798: instance_2 14
+    100800: instance_2 15
+    100802: instance_2 16
+    100804: instance_2 17
+    100806: instance_2 18
+    100808: instance_2 19
+    100810: instance_2 2
+    100812: instance_2 20
+    100814: instance_2 21
+    100816: instance_2 22
+    100818: instance_2 23
+    100820: instance_2 24
+    100822: instance_2 25
+    100824: instance_2 26
+    100826: instance_2 27
+    100828: instance_2 28
+    100830: instance_2 29
+    100832: instance_2 3
+    100834: instance_2 30
+    100836: instance_2 31
+    100838: instance_2 32
+    100840: instance_2 33
+    100842: instance_2 34
+    100844: instance_2 35
+    100846: instance_2 36
+    100848: instance_2 37
+    100850: instance_2 38
+    100852: instance_2 39
+    100854: instance_2 4
+    100856: instance_2 40
+    100858: instance_2 41
+    100860: instance_2 42
+    100862: instance_2 43
+    100864: instance_2 44
+    100866: instance_2 45
+    100868: instance_2 46
+    100870: instance_2 47
+    100872: instance_2 48
+    100874: instance_2 49
+    100876: instance_2 5
+    100878: instance_2 50
+    100880: instance_2 51
+    100882: instance_2 52
+    100884: instance_2 53
+    100886: instance_2 54
+    100888: instance_2 55
+    100890: instance_2 56
+    100892: instance_2 57
+    100894: instance_2 58
+    100896: instance_2 59
+    100898: instance_2 6
+    100900: instance_2 60
+    100902: instance_2 61
+    100904: instance_2 62
+    100906: instance_2 63
+    100908: instance_2 64
+    100910: instance_2 65
+    100912: instance_2 66
+    100914: instance_2 67
+    100916: instance_2 68
+    100918: instance_2 69
+    100920: instance_2 7
+    100922: instance_2 70
+    100924: instance_2 71
+    100926: instance_2 72
+    100928: instance_2 73
+    100930: instance_2 74
+    100932: instance_2 75
+    100934: instance_2 76
+    100936: instance_2 77
+    100938: instance_2 78
+    100940: instance_2 79
+    100942: instance_2 8
+    100944: instance_2 80
+    100946: instance_2 81
+    100948: instance_2 82
+    100950: instance_2 83
+    100952: instance_2 84
+    100954: instance_2 9
+    100956: instance_20
+    100958: instance_21
+    100960: instance_22
+    100962: instance_23
+    100964: instance_24
+    100966: instance_25
+    100968: instance_26
+    100970: instance_27
+    100972: instance_28
+    100974: instance_29
+    100976: instance_3
+    100978: instance_30
+    100980: instance_31
+    100982: instance_32
+    100984: instance_33
+    100986: instance_34
+    100988: instance_35
+    100990: instance_36
+    100992: instance_37
+    100994: instance_38
+    100996: instance_39
+    100998: instance_4
+    101000: instance_40
+    101002: instance_41
+    101004: instance_42
+    101006: instance_43
+    101008: instance_44
+    101010: instance_45
+    101012: instance_46
+    101014: instance_47
+    101016: instance_48
+    101018: instance_49
+    101020: instance_5
+    101022: instance_50
+    101024: instance_51
+    101026: instance_52
+    101028: instance_53
+    101030: instance_54
+    101032: instance_55
+    101034: instance_56
+    101036: instance_57
+    101038: instance_58
+    101040: instance_59
+    101042: instance_6
+    101044: instance_60
+    101046: instance_61
+    101048: instance_62
+    101050: instance_63
+    101052: instance_64
+    101054: instance_65
+    101056: instance_66
+    101058: instance_67
+    101060: instance_68
+    101062: instance_69
+    101064: instance_7
+    101066: instance_70
+    101068: instance_71
+    101070: instance_72
+    101072: instance_73
+    101074: instance_74
+    101076: instance_75
+    101078: instance_76
+    101080: instance_77
+    101082: instance_78
+    101084: instance_79
+    101086: instance_8
+    101088: instance_80
+    101090: instance_81
+    101092: instance_82
+    101094: instance_83
+    101096: instance_84
+    101098: instance_85
+    101100: instance_86
+    101102: instance_87
+    101104: instance_9
+    101106: Komponente_2
+    101108: Komponente_2 1
+    101110: Komponente_2 10
+    101112: Komponente_2 11
+    101114: Komponente_2 12
+    101116: Komponente_2 13
+    101118: Komponente_2 14
+    101120: Komponente_2 15
+    101122: Komponente_2 16
+    101124: Komponente_2 17
+    101126: Komponente_2 18
+    101128: Komponente_2 19
+    101130: Komponente_2 2
+    101132: Komponente_2 20
+    101134: Komponente_2 21
+    101136: Komponente_2 22
+    101138: Komponente_2 23
+    101140: Komponente_2 24
+    101142: Komponente_2 25
+    101144: Komponente_2 26
+    101146: Komponente_2 27
+    101148: Komponente_2 28
+    101150: Komponente_2 29
+    101152: Komponente_2 3
+    101154: Komponente_2 30
+    101156: Komponente_2 31
+    101158: Komponente_2 32
+    101160: Komponente_2 33
+    101162: Komponente_2 34
+    101164: Komponente_2 35
+    101166: Komponente_2 36
+    101168: Komponente_2 37
+    101170: Komponente_2 38
+    101172: Komponente_2 39
+    101174: Komponente_2 4
+    101176: Komponente_2 40
+    101178: Komponente_2 41
+    101180: Komponente_2 42
+    101182: Komponente_2 43
+    101184: Komponente_2 44
+    101186: Komponente_2 45
+    101188: Komponente_2 46
+    101190: Komponente_2 47
+    101192: Komponente_2 48
+    101194: Komponente_2 49
+    101196: Komponente_2 5
+    101198: Komponente_2 50
+    101200: Komponente_2 51
+    101202: Komponente_2 52
+    101204: Komponente_2 53
+    101206: Komponente_2 54
+    101208: Komponente_2 55
+    101210: Komponente_2 56
+    101212: Komponente_2 57
+    101214: Komponente_2 58
+    101216: Komponente_2 59
+    101218: Komponente_2 6
+    101220: Komponente_2 60
+    101222: Komponente_2 61
+    101224: Komponente_2 62
+    101226: Komponente_2 63
+    101228: Komponente_2 64
+    101230: Komponente_2 65
+    101232: Komponente_2 66
+    101234: Komponente_2 67
+    101236: Komponente_2 68
+    101238: Komponente_2 69
+    101240: Komponente_2 7
+    101242: Komponente_2 70
+    101244: Komponente_2 71
+    101246: Komponente_2 72
+    101248: Komponente_2 73
+    101250: Komponente_2 74
+    101252: Komponente_2 75
+    101254: Komponente_2 76
+    101256: Komponente_2 77
+    101258: Komponente_2 78
+    101260: Komponente_2 79
+    101262: Komponente_2 8
+    101264: Komponente_2 80
+    101266: Komponente_2 81
+    101268: Komponente_2 82
+    101270: Komponente_2 83
+    101272: Komponente_2 84
+    101274: Komponente_2 9
+    101276: Komponente_3
+    101278: Komponente_3 1
+    101280: Komponente_3 10
+    101282: Komponente_3 11
+    101284: Komponente_3 12
+    101286: Komponente_3 13
+    101288: Komponente_3 14
+    101290: Komponente_3 15
+    101292: Komponente_3 16
+    101294: Komponente_3 17
+    101296: Komponente_3 18
+    101298: Komponente_3 19
+    101300: Komponente_3 2
+    101302: Komponente_3 20
+    101304: Komponente_3 21
+    101306: Komponente_3 22
+    101308: Komponente_3 23
+    101310: Komponente_3 24
+    101312: Komponente_3 25
+    101314: Komponente_3 26
+    101316: Komponente_3 27
+    101318: Komponente_3 28
+    101320: Komponente_3 29
+    101322: Komponente_3 3
+    101324: Komponente_3 30
+    101326: Komponente_3 31
+    101328: Komponente_3 32
+    101330: Komponente_3 33
+    101332: Komponente_3 34
+    101334: Komponente_3 35
+    101336: Komponente_3 36
+    101338: Komponente_3 37
+    101340: Komponente_3 38
+    101342: Komponente_3 39
+    101344: Komponente_3 4
+    101346: Komponente_3 40
+    101348: Komponente_3 41
+    101350: Komponente_3 42
+    101352: Komponente_3 43
+    101354: Komponente_3 44
+    101356: Komponente_3 45
+    101358: Komponente_3 46
+    101360: Komponente_3 47
+    101362: Komponente_3 48
+    101364: Komponente_3 49
+    101366: Komponente_3 5
+    101368: Komponente_3 50
+    101370: Komponente_3 51
+    101372: Komponente_3 52
+    101374: Komponente_3 53
+    101376: Komponente_3 54
+    101378: Komponente_3 55
+    101380: Komponente_3 56
+    101382: Komponente_3 57
+    101384: Komponente_3 58
+    101386: Komponente_3 59
+    101388: Komponente_3 6
+    101390: Komponente_3 60
+    101392: Komponente_3 61
+    101394: Komponente_3 62
+    101396: Komponente_3 63
+    101398: Komponente_3 64
+    101400: Komponente_3 65
+    101402: Komponente_3 66
+    101404: Komponente_3 67
+    101406: Komponente_3 68
+    101408: Komponente_3 69
+    101410: Komponente_3 7
+    101412: Komponente_3 70
+    101414: Komponente_3 71
+    101416: Komponente_3 72
+    101418: Komponente_3 73
+    101420: Komponente_3 74
+    101422: Komponente_3 75
+    101424: Komponente_3 76
+    101426: Komponente_3 77
+    101428: Komponente_3 78
+    101430: Komponente_3 79
+    101432: Komponente_3 8
+    101434: Komponente_3 80
+    101436: Komponente_3 81
+    101438: Komponente_3 82
+    101440: Komponente_3 83
+    101442: Komponente_3 84
+    101444: Komponente_3 9
+    101446: //RootNode
+    101448: Parthenon
+    400000: _3D_Man_Seated_Leg_Crossed
+    400002: ID132
+    400004: ID132 1
+    400006: ID132 2
+    400008: ID132 3
+    400010: ID138
+    400012: ID138 1
+    400014: ID138 2
+    400016: ID138 3
+    400018: ID150
+    400020: ID150 1
+    400022: ID150 2
+    400024: ID150 3
+    400026: ID154
+    400028: ID154 1
+    400030: ID154 2
+    400032: ID154 3
+    400034: ID184
+    400036: ID190
+    400038: ID196
+    400040: ID202
+    400042: ID21
+    400044: ID21 1
+    400046: ID21 10
+    400048: ID21 11
+    400050: ID21 12
+    400052: ID21 13
+    400054: ID21 14
+    400056: ID21 15
+    400058: ID21 16
+    400060: ID21 17
+    400062: ID21 18
+    400064: ID21 19
+    400066: ID21 2
+    400068: ID21 20
+    400070: ID21 21
+    400072: ID21 22
+    400074: ID21 23
+    400076: ID21 24
+    400078: ID21 25
+    400080: ID21 26
+    400082: ID21 27
+    400084: ID21 28
+    400086: ID21 29
+    400088: ID21 3
+    400090: ID21 30
+    400092: ID21 31
+    400094: ID21 32
+    400096: ID21 33
+    400098: ID21 34
+    400100: ID21 35
+    400102: ID21 36
+    400104: ID21 37
+    400106: ID21 38
+    400108: ID21 39
+    400110: ID21 4
+    400112: ID21 40
+    400114: ID21 41
+    400116: ID21 42
+    400118: ID21 43
+    400120: ID21 44
+    400122: ID21 45
+    400124: ID21 46
+    400126: ID21 47
+    400128: ID21 48
+    400130: ID21 49
+    400132: ID21 5
+    400134: ID21 50
+    400136: ID21 51
+    400138: ID21 52
+    400140: ID21 53
+    400142: ID21 54
+    400144: ID21 55
+    400146: ID21 56
+    400148: ID21 57
+    400150: ID21 58
+    400152: ID21 59
+    400154: ID21 6
+    400156: ID21 60
+    400158: ID21 61
+    400160: ID21 62
+    400162: ID21 63
+    400164: ID21 64
+    400166: ID21 65
+    400168: ID21 66
+    400170: ID21 67
+    400172: ID21 68
+    400174: ID21 69
+    400176: ID21 7
+    400178: ID21 70
+    400180: ID21 71
+    400182: ID21 72
+    400184: ID21 73
+    400186: ID21 74
+    400188: ID21 75
+    400190: ID21 76
+    400192: ID21 77
+    400194: ID21 78
+    400196: ID21 79
+    400198: ID21 8
+    400200: ID21 80
+    400202: ID21 9
+    400204: ID221
+    400206: ID229
+    400208: ID237
+    400210: ID243
+    400212: ID251
+    400214: ID259
+    400216: ID265
+    400218: ID271
+    400220: ID284
+    400222: ID29
+    400224: ID29 1
+    400226: ID29 10
+    400228: ID29 11
+    400230: ID29 12
+    400232: ID29 13
+    400234: ID29 14
+    400236: ID29 15
+    400238: ID29 16
+    400240: ID29 17
+    400242: ID29 18
+    400244: ID29 19
+    400246: ID29 2
+    400248: ID29 20
+    400250: ID29 21
+    400252: ID29 22
+    400254: ID29 23
+    400256: ID29 24
+    400258: ID29 25
+    400260: ID29 26
+    400262: ID29 27
+    400264: ID29 28
+    400266: ID29 29
+    400268: ID29 3
+    400270: ID29 30
+    400272: ID29 31
+    400274: ID29 32
+    400276: ID29 33
+    400278: ID29 34
+    400280: ID29 35
+    400282: ID29 36
+    400284: ID29 37
+    400286: ID29 38
+    400288: ID29 39
+    400290: ID29 4
+    400292: ID29 40
+    400294: ID29 41
+    400296: ID29 42
+    400298: ID29 43
+    400300: ID29 44
+    400302: ID29 45
+    400304: ID29 46
+    400306: ID29 47
+    400308: ID29 48
+    400310: ID29 49
+    400312: ID29 5
+    400314: ID29 50
+    400316: ID29 51
+    400318: ID29 52
+    400320: ID29 53
+    400322: ID29 54
+    400324: ID29 55
+    400326: ID29 56
+    400328: ID29 57
+    400330: ID29 58
+    400332: ID29 59
+    400334: ID29 6
+    400336: ID29 60
+    400338: ID29 61
+    400340: ID29 62
+    400342: ID29 63
+    400344: ID29 64
+    400346: ID29 65
+    400348: ID29 66
+    400350: ID29 67
+    400352: ID29 68
+    400354: ID29 69
+    400356: ID29 7
+    400358: ID29 70
+    400360: ID29 71
+    400362: ID29 72
+    400364: ID29 73
+    400366: ID29 74
+    400368: ID29 75
+    400370: ID29 76
+    400372: ID29 77
+    400374: ID29 78
+    400376: ID29 79
+    400378: ID29 8
+    400380: ID29 80
+    400382: ID29 9
+    400384: ID292
+    400386: ID305
+    400388: ID313
+    400390: ID321
+    400392: ID329
+    400394: ID337
+    400396: ID345
+    400398: ID358
+    400400: ID366
+    400402: ID374
+    400404: ID382
+    400406: ID390
+    400408: ID398
+    400410: ID406
+    400412: ID414
+    400414: ID422
+    400416: ID43
+    400418: ID43 1
+    400420: ID43 10
+    400422: ID43 11
+    400424: ID43 12
+    400426: ID43 13
+    400428: ID43 14
+    400430: ID43 15
+    400432: ID43 16
+    400434: ID43 17
+    400436: ID43 18
+    400438: ID43 19
+    400440: ID43 2
+    400442: ID43 20
+    400444: ID43 21
+    400446: ID43 22
+    400448: ID43 23
+    400450: ID43 24
+    400452: ID43 25
+    400454: ID43 26
+    400456: ID43 27
+    400458: ID43 28
+    400460: ID43 29
+    400462: ID43 3
+    400464: ID43 30
+    400466: ID43 31
+    400468: ID43 32
+    400470: ID43 33
+    400472: ID43 34
+    400474: ID43 35
+    400476: ID43 36
+    400478: ID43 37
+    400480: ID43 38
+    400482: ID43 39
+    400484: ID43 4
+    400486: ID43 40
+    400488: ID43 41
+    400490: ID43 42
+    400492: ID43 43
+    400494: ID43 44
+    400496: ID43 45
+    400498: ID43 46
+    400500: ID43 47
+    400502: ID43 48
+    400504: ID43 49
+    400506: ID43 5
+    400508: ID43 50
+    400510: ID43 51
+    400512: ID43 52
+    400514: ID43 53
+    400516: ID43 54
+    400518: ID43 55
+    400520: ID43 56
+    400522: ID43 57
+    400524: ID43 58
+    400526: ID43 59
+    400528: ID43 6
+    400530: ID43 60
+    400532: ID43 61
+    400534: ID43 62
+    400536: ID43 63
+    400538: ID43 64
+    400540: ID43 65
+    400542: ID43 66
+    400544: ID43 67
+    400546: ID43 68
+    400548: ID43 69
+    400550: ID43 7
+    400552: ID43 70
+    400554: ID43 71
+    400556: ID43 72
+    400558: ID43 73
+    400560: ID43 74
+    400562: ID43 75
+    400564: ID43 76
+    400566: ID43 77
+    400568: ID43 78
+    400570: ID43 79
+    400572: ID43 8
+    400574: ID43 80
+    400576: ID43 9
+    400578: ID430
+    400580: ID438
+    400582: ID446
+    400584: ID450
+    400586: ID454
+    400588: ID458
+    400590: ID462
+    400592: ID466
+    400594: ID47
+    400596: ID47 1
+    400598: ID47 10
+    400600: ID47 11
+    400602: ID47 12
+    400604: ID47 13
+    400606: ID47 14
+    400608: ID47 15
+    400610: ID47 16
+    400612: ID47 17
+    400614: ID47 18
+    400616: ID47 19
+    400618: ID47 2
+    400620: ID47 20
+    400622: ID47 21
+    400624: ID47 22
+    400626: ID47 23
+    400628: ID47 24
+    400630: ID47 25
+    400632: ID47 26
+    400634: ID47 27
+    400636: ID47 28
+    400638: ID47 29
+    400640: ID47 3
+    400642: ID47 30
+    400644: ID47 31
+    400646: ID47 32
+    400648: ID47 33
+    400650: ID47 34
+    400652: ID47 35
+    400654: ID47 36
+    400656: ID47 37
+    400658: ID47 38
+    400660: ID47 39
+    400662: ID47 4
+    400664: ID47 40
+    400666: ID47 41
+    400668: ID47 42
+    400670: ID47 43
+    400672: ID47 44
+    400674: ID47 45
+    400676: ID47 46
+    400678: ID47 47
+    400680: ID47 48
+    400682: ID47 49
+    400684: ID47 5
+    400686: ID47 50
+    400688: ID47 51
+    400690: ID47 52
+    400692: ID47 53
+    400694: ID47 54
+    400696: ID47 55
+    400698: ID47 56
+    400700: ID47 57
+    400702: ID47 58
+    400704: ID47 59
+    400706: ID47 6
+    400708: ID47 60
+    400710: ID47 61
+    400712: ID47 62
+    400714: ID47 63
+    400716: ID47 64
+    400718: ID47 65
+    400720: ID47 66
+    400722: ID47 67
+    400724: ID47 68
+    400726: ID47 69
+    400728: ID47 7
+    400730: ID47 70
+    400732: ID47 71
+    400734: ID47 72
+    400736: ID47 73
+    400738: ID47 74
+    400740: ID47 75
+    400742: ID47 76
+    400744: ID47 77
+    400746: ID47 78
+    400748: ID47 79
+    400750: ID47 8
+    400752: ID47 80
+    400754: ID47 9
+    400756: ID470
+    400758: ID474
+    400760: ID482
+    400762: instance_0
+    400764: instance_1
+    400766: instance_10
+    400768: instance_11
+    400770: instance_12
+    400772: instance_13
+    400774: instance_14
+    400776: instance_15
+    400778: instance_16
+    400780: instance_17
+    400782: instance_18
+    400784: instance_19
+    400786: instance_2
+    400788: instance_2 1
+    400790: instance_2 10
+    400792: instance_2 11
+    400794: instance_2 12
+    400796: instance_2 13
+    400798: instance_2 14
+    400800: instance_2 15
+    400802: instance_2 16
+    400804: instance_2 17
+    400806: instance_2 18
+    400808: instance_2 19
+    400810: instance_2 2
+    400812: instance_2 20
+    400814: instance_2 21
+    400816: instance_2 22
+    400818: instance_2 23
+    400820: instance_2 24
+    400822: instance_2 25
+    400824: instance_2 26
+    400826: instance_2 27
+    400828: instance_2 28
+    400830: instance_2 29
+    400832: instance_2 3
+    400834: instance_2 30
+    400836: instance_2 31
+    400838: instance_2 32
+    400840: instance_2 33
+    400842: instance_2 34
+    400844: instance_2 35
+    400846: instance_2 36
+    400848: instance_2 37
+    400850: instance_2 38
+    400852: instance_2 39
+    400854: instance_2 4
+    400856: instance_2 40
+    400858: instance_2 41
+    400860: instance_2 42
+    400862: instance_2 43
+    400864: instance_2 44
+    400866: instance_2 45
+    400868: instance_2 46
+    400870: instance_2 47
+    400872: instance_2 48
+    400874: instance_2 49
+    400876: instance_2 5
+    400878: instance_2 50
+    400880: instance_2 51
+    400882: instance_2 52
+    400884: instance_2 53
+    400886: instance_2 54
+    400888: instance_2 55
+    400890: instance_2 56
+    400892: instance_2 57
+    400894: instance_2 58
+    400896: instance_2 59
+    400898: instance_2 6
+    400900: instance_2 60
+    400902: instance_2 61
+    400904: instance_2 62
+    400906: instance_2 63
+    400908: instance_2 64
+    400910: instance_2 65
+    400912: instance_2 66
+    400914: instance_2 67
+    400916: instance_2 68
+    400918: instance_2 69
+    400920: instance_2 7
+    400922: instance_2 70
+    400924: instance_2 71
+    400926: instance_2 72
+    400928: instance_2 73
+    400930: instance_2 74
+    400932: instance_2 75
+    400934: instance_2 76
+    400936: instance_2 77
+    400938: instance_2 78
+    400940: instance_2 79
+    400942: instance_2 8
+    400944: instance_2 80
+    400946: instance_2 81
+    400948: instance_2 82
+    400950: instance_2 83
+    400952: instance_2 84
+    400954: instance_2 9
+    400956: instance_20
+    400958: instance_21
+    400960: instance_22
+    400962: instance_23
+    400964: instance_24
+    400966: instance_25
+    400968: instance_26
+    400970: instance_27
+    400972: instance_28
+    400974: instance_29
+    400976: instance_3
+    400978: instance_30
+    400980: instance_31
+    400982: instance_32
+    400984: instance_33
+    400986: instance_34
+    400988: instance_35
+    400990: instance_36
+    400992: instance_37
+    400994: instance_38
+    400996: instance_39
+    400998: instance_4
+    401000: instance_40
+    401002: instance_41
+    401004: instance_42
+    401006: instance_43
+    401008: instance_44
+    401010: instance_45
+    401012: instance_46
+    401014: instance_47
+    401016: instance_48
+    401018: instance_49
+    401020: instance_5
+    401022: instance_50
+    401024: instance_51
+    401026: instance_52
+    401028: instance_53
+    401030: instance_54
+    401032: instance_55
+    401034: instance_56
+    401036: instance_57
+    401038: instance_58
+    401040: instance_59
+    401042: instance_6
+    401044: instance_60
+    401046: instance_61
+    401048: instance_62
+    401050: instance_63
+    401052: instance_64
+    401054: instance_65
+    401056: instance_66
+    401058: instance_67
+    401060: instance_68
+    401062: instance_69
+    401064: instance_7
+    401066: instance_70
+    401068: instance_71
+    401070: instance_72
+    401072: instance_73
+    401074: instance_74
+    401076: instance_75
+    401078: instance_76
+    401080: instance_77
+    401082: instance_78
+    401084: instance_79
+    401086: instance_8
+    401088: instance_80
+    401090: instance_81
+    401092: instance_82
+    401094: instance_83
+    401096: instance_84
+    401098: instance_85
+    401100: instance_86
+    401102: instance_87
+    401104: instance_9
+    401106: Komponente_2
+    401108: Komponente_2 1
+    401110: Komponente_2 10
+    401112: Komponente_2 11
+    401114: Komponente_2 12
+    401116: Komponente_2 13
+    401118: Komponente_2 14
+    401120: Komponente_2 15
+    401122: Komponente_2 16
+    401124: Komponente_2 17
+    401126: Komponente_2 18
+    401128: Komponente_2 19
+    401130: Komponente_2 2
+    401132: Komponente_2 20
+    401134: Komponente_2 21
+    401136: Komponente_2 22
+    401138: Komponente_2 23
+    401140: Komponente_2 24
+    401142: Komponente_2 25
+    401144: Komponente_2 26
+    401146: Komponente_2 27
+    401148: Komponente_2 28
+    401150: Komponente_2 29
+    401152: Komponente_2 3
+    401154: Komponente_2 30
+    401156: Komponente_2 31
+    401158: Komponente_2 32
+    401160: Komponente_2 33
+    401162: Komponente_2 34
+    401164: Komponente_2 35
+    401166: Komponente_2 36
+    401168: Komponente_2 37
+    401170: Komponente_2 38
+    401172: Komponente_2 39
+    401174: Komponente_2 4
+    401176: Komponente_2 40
+    401178: Komponente_2 41
+    401180: Komponente_2 42
+    401182: Komponente_2 43
+    401184: Komponente_2 44
+    401186: Komponente_2 45
+    401188: Komponente_2 46
+    401190: Komponente_2 47
+    401192: Komponente_2 48
+    401194: Komponente_2 49
+    401196: Komponente_2 5
+    401198: Komponente_2 50
+    401200: Komponente_2 51
+    401202: Komponente_2 52
+    401204: Komponente_2 53
+    401206: Komponente_2 54
+    401208: Komponente_2 55
+    401210: Komponente_2 56
+    401212: Komponente_2 57
+    401214: Komponente_2 58
+    401216: Komponente_2 59
+    401218: Komponente_2 6
+    401220: Komponente_2 60
+    401222: Komponente_2 61
+    401224: Komponente_2 62
+    401226: Komponente_2 63
+    401228: Komponente_2 64
+    401230: Komponente_2 65
+    401232: Komponente_2 66
+    401234: Komponente_2 67
+    401236: Komponente_2 68
+    401238: Komponente_2 69
+    401240: Komponente_2 7
+    401242: Komponente_2 70
+    401244: Komponente_2 71
+    401246: Komponente_2 72
+    401248: Komponente_2 73
+    401250: Komponente_2 74
+    401252: Komponente_2 75
+    401254: Komponente_2 76
+    401256: Komponente_2 77
+    401258: Komponente_2 78
+    401260: Komponente_2 79
+    401262: Komponente_2 8
+    401264: Komponente_2 80
+    401266: Komponente_2 81
+    401268: Komponente_2 82
+    401270: Komponente_2 83
+    401272: Komponente_2 84
+    401274: Komponente_2 9
+    401276: Komponente_3
+    401278: Komponente_3 1
+    401280: Komponente_3 10
+    401282: Komponente_3 11
+    401284: Komponente_3 12
+    401286: Komponente_3 13
+    401288: Komponente_3 14
+    401290: Komponente_3 15
+    401292: Komponente_3 16
+    401294: Komponente_3 17
+    401296: Komponente_3 18
+    401298: Komponente_3 19
+    401300: Komponente_3 2
+    401302: Komponente_3 20
+    401304: Komponente_3 21
+    401306: Komponente_3 22
+    401308: Komponente_3 23
+    401310: Komponente_3 24
+    401312: Komponente_3 25
+    401314: Komponente_3 26
+    401316: Komponente_3 27
+    401318: Komponente_3 28
+    401320: Komponente_3 29
+    401322: Komponente_3 3
+    401324: Komponente_3 30
+    401326: Komponente_3 31
+    401328: Komponente_3 32
+    401330: Komponente_3 33
+    401332: Komponente_3 34
+    401334: Komponente_3 35
+    401336: Komponente_3 36
+    401338: Komponente_3 37
+    401340: Komponente_3 38
+    401342: Komponente_3 39
+    401344: Komponente_3 4
+    401346: Komponente_3 40
+    401348: Komponente_3 41
+    401350: Komponente_3 42
+    401352: Komponente_3 43
+    401354: Komponente_3 44
+    401356: Komponente_3 45
+    401358: Komponente_3 46
+    401360: Komponente_3 47
+    401362: Komponente_3 48
+    401364: Komponente_3 49
+    401366: Komponente_3 5
+    401368: Komponente_3 50
+    401370: Komponente_3 51
+    401372: Komponente_3 52
+    401374: Komponente_3 53
+    401376: Komponente_3 54
+    401378: Komponente_3 55
+    401380: Komponente_3 56
+    401382: Komponente_3 57
+    401384: Komponente_3 58
+    401386: Komponente_3 59
+    401388: Komponente_3 6
+    401390: Komponente_3 60
+    401392: Komponente_3 61
+    401394: Komponente_3 62
+    401396: Komponente_3 63
+    401398: Komponente_3 64
+    401400: Komponente_3 65
+    401402: Komponente_3 66
+    401404: Komponente_3 67
+    401406: Komponente_3 68
+    401408: Komponente_3 69
+    401410: Komponente_3 7
+    401412: Komponente_3 70
+    401414: Komponente_3 71
+    401416: Komponente_3 72
+    401418: Komponente_3 73
+    401420: Komponente_3 74
+    401422: Komponente_3 75
+    401424: Komponente_3 76
+    401426: Komponente_3 77
+    401428: Komponente_3 78
+    401430: Komponente_3 79
+    401432: Komponente_3 8
+    401434: Komponente_3 80
+    401436: Komponente_3 81
+    401438: Komponente_3 82
+    401440: Komponente_3 83
+    401442: Komponente_3 84
+    401444: Komponente_3 9
+    401446: //RootNode
+    401448: Parthenon
+    2300000: _3D_Man_Seated_Leg_Crossed
+    2300002: ID132
+    2300004: ID132 1
+    2300006: ID132 2
+    2300008: ID132 3
+    2300010: ID184
+    2300012: ID190
+    2300014: ID196
+    2300016: ID202
+    2300018: ID21
+    2300020: ID21 1
+    2300022: ID21 10
+    2300024: ID21 11
+    2300026: ID21 12
+    2300028: ID21 13
+    2300030: ID21 14
+    2300032: ID21 15
+    2300034: ID21 16
+    2300036: ID21 17
+    2300038: ID21 18
+    2300040: ID21 19
+    2300042: ID21 2
+    2300044: ID21 20
+    2300046: ID21 21
+    2300048: ID21 22
+    2300050: ID21 23
+    2300052: ID21 24
+    2300054: ID21 25
+    2300056: ID21 26
+    2300058: ID21 27
+    2300060: ID21 28
+    2300062: ID21 29
+    2300064: ID21 3
+    2300066: ID21 30
+    2300068: ID21 31
+    2300070: ID21 32
+    2300072: ID21 33
+    2300074: ID21 34
+    2300076: ID21 35
+    2300078: ID21 36
+    2300080: ID21 37
+    2300082: ID21 38
+    2300084: ID21 39
+    2300086: ID21 4
+    2300088: ID21 40
+    2300090: ID21 41
+    2300092: ID21 42
+    2300094: ID21 43
+    2300096: ID21 44
+    2300098: ID21 45
+    2300100: ID21 46
+    2300102: ID21 47
+    2300104: ID21 48
+    2300106: ID21 49
+    2300108: ID21 5
+    2300110: ID21 50
+    2300112: ID21 51
+    2300114: ID21 52
+    2300116: ID21 53
+    2300118: ID21 54
+    2300120: ID21 55
+    2300122: ID21 56
+    2300124: ID21 57
+    2300126: ID21 58
+    2300128: ID21 59
+    2300130: ID21 6
+    2300132: ID21 60
+    2300134: ID21 61
+    2300136: ID21 62
+    2300138: ID21 63
+    2300140: ID21 64
+    2300142: ID21 65
+    2300144: ID21 66
+    2300146: ID21 67
+    2300148: ID21 68
+    2300150: ID21 69
+    2300152: ID21 7
+    2300154: ID21 70
+    2300156: ID21 71
+    2300158: ID21 72
+    2300160: ID21 73
+    2300162: ID21 74
+    2300164: ID21 75
+    2300166: ID21 76
+    2300168: ID21 77
+    2300170: ID21 78
+    2300172: ID21 79
+    2300174: ID21 8
+    2300176: ID21 80
+    2300178: ID21 9
+    2300180: ID221
+    2300182: ID229
+    2300184: ID237
+    2300186: ID243
+    2300188: ID251
+    2300190: ID259
+    2300192: ID265
+    2300194: ID271
+    2300196: ID284
+    2300198: ID292
+    2300200: ID305
+    2300202: ID313
+    2300204: ID321
+    2300206: ID329
+    2300208: ID337
+    2300210: ID345
+    2300212: ID358
+    2300214: ID366
+    2300216: ID374
+    2300218: ID382
+    2300220: ID390
+    2300222: ID398
+    2300224: ID406
+    2300226: ID414
+    2300228: ID422
+    2300230: ID430
+    2300232: ID438
+    2300234: Komponente_2
+    2300236: Komponente_2 1
+    2300238: Komponente_2 10
+    2300240: Komponente_2 11
+    2300242: Komponente_2 12
+    2300244: Komponente_2 13
+    2300246: Komponente_2 14
+    2300248: Komponente_2 15
+    2300250: Komponente_2 16
+    2300252: Komponente_2 17
+    2300254: Komponente_2 18
+    2300256: Komponente_2 19
+    2300258: Komponente_2 2
+    2300260: Komponente_2 20
+    2300262: Komponente_2 21
+    2300264: Komponente_2 22
+    2300266: Komponente_2 23
+    2300268: Komponente_2 24
+    2300270: Komponente_2 25
+    2300272: Komponente_2 26
+    2300274: Komponente_2 27
+    2300276: Komponente_2 28
+    2300278: Komponente_2 29
+    2300280: Komponente_2 3
+    2300282: Komponente_2 30
+    2300284: Komponente_2 31
+    2300286: Komponente_2 32
+    2300288: Komponente_2 33
+    2300290: Komponente_2 34
+    2300292: Komponente_2 35
+    2300294: Komponente_2 36
+    2300296: Komponente_2 37
+    2300298: Komponente_2 38
+    2300300: Komponente_2 39
+    2300302: Komponente_2 4
+    2300304: Komponente_2 40
+    2300306: Komponente_2 41
+    2300308: Komponente_2 42
+    2300310: Komponente_2 43
+    2300312: Komponente_2 44
+    2300314: Komponente_2 45
+    2300316: Komponente_2 46
+    2300318: Komponente_2 47
+    2300320: Komponente_2 48
+    2300322: Komponente_2 49
+    2300324: Komponente_2 5
+    2300326: Komponente_2 50
+    2300328: Komponente_2 51
+    2300330: Komponente_2 52
+    2300332: Komponente_2 53
+    2300334: Komponente_2 54
+    2300336: Komponente_2 55
+    2300338: Komponente_2 56
+    2300340: Komponente_2 57
+    2300342: Komponente_2 58
+    2300344: Komponente_2 59
+    2300346: Komponente_2 6
+    2300348: Komponente_2 60
+    2300350: Komponente_2 61
+    2300352: Komponente_2 62
+    2300354: Komponente_2 63
+    2300356: Komponente_2 64
+    2300358: Komponente_2 65
+    2300360: Komponente_2 66
+    2300362: Komponente_2 67
+    2300364: Komponente_2 68
+    2300366: Komponente_2 69
+    2300368: Komponente_2 7
+    2300370: Komponente_2 70
+    2300372: Komponente_2 71
+    2300374: Komponente_2 72
+    2300376: Komponente_2 73
+    2300378: Komponente_2 74
+    2300380: Komponente_2 75
+    2300382: Komponente_2 76
+    2300384: Komponente_2 77
+    2300386: Komponente_2 78
+    2300388: Komponente_2 79
+    2300390: Komponente_2 8
+    2300392: Komponente_2 80
+    2300394: Komponente_2 81
+    2300396: Komponente_2 82
+    2300398: Komponente_2 83
+    2300400: Komponente_2 84
+    2300402: Komponente_2 9
+    2300404: Komponente_3
+    2300406: Komponente_3 1
+    2300408: Komponente_3 10
+    2300410: Komponente_3 11
+    2300412: Komponente_3 12
+    2300414: Komponente_3 13
+    2300416: Komponente_3 14
+    2300418: Komponente_3 15
+    2300420: Komponente_3 16
+    2300422: Komponente_3 17
+    2300424: Komponente_3 18
+    2300426: Komponente_3 19
+    2300428: Komponente_3 2
+    2300430: Komponente_3 20
+    2300432: Komponente_3 21
+    2300434: Komponente_3 22
+    2300436: Komponente_3 23
+    2300438: Komponente_3 24
+    2300440: Komponente_3 25
+    2300442: Komponente_3 26
+    2300444: Komponente_3 27
+    2300446: Komponente_3 28
+    2300448: Komponente_3 29
+    2300450: Komponente_3 3
+    2300452: Komponente_3 30
+    2300454: Komponente_3 31
+    2300456: Komponente_3 32
+    2300458: Komponente_3 33
+    2300460: Komponente_3 34
+    2300462: Komponente_3 35
+    2300464: Komponente_3 36
+    2300466: Komponente_3 37
+    2300468: Komponente_3 38
+    2300470: Komponente_3 39
+    2300472: Komponente_3 4
+    2300474: Komponente_3 40
+    2300476: Komponente_3 41
+    2300478: Komponente_3 42
+    2300480: Komponente_3 43
+    2300482: Komponente_3 44
+    2300484: Komponente_3 45
+    2300486: Komponente_3 46
+    2300488: Komponente_3 47
+    2300490: Komponente_3 48
+    2300492: Komponente_3 49
+    2300494: Komponente_3 5
+    2300496: Komponente_3 50
+    2300498: Komponente_3 51
+    2300500: Komponente_3 52
+    2300502: Komponente_3 53
+    2300504: Komponente_3 54
+    2300506: Komponente_3 55
+    2300508: Komponente_3 56
+    2300510: Komponente_3 57
+    2300512: Komponente_3 58
+    2300514: Komponente_3 59
+    2300516: Komponente_3 6
+    2300518: Komponente_3 60
+    2300520: Komponente_3 61
+    2300522: Komponente_3 62
+    2300524: Komponente_3 63
+    2300526: Komponente_3 64
+    2300528: Komponente_3 65
+    2300530: Komponente_3 66
+    2300532: Komponente_3 67
+    2300534: Komponente_3 68
+    2300536: Komponente_3 69
+    2300538: Komponente_3 7
+    2300540: Komponente_3 70
+    2300542: Komponente_3 71
+    2300544: Komponente_3 72
+    2300546: Komponente_3 73
+    2300548: Komponente_3 74
+    2300550: Komponente_3 75
+    2300552: Komponente_3 76
+    2300554: Komponente_3 77
+    2300556: Komponente_3 78
+    2300558: Komponente_3 79
+    2300560: Komponente_3 8
+    2300562: Komponente_3 80
+    2300564: Komponente_3 81
+    2300566: Komponente_3 82
+    2300568: Komponente_3 83
+    2300570: Komponente_3 84
+    2300572: Komponente_3 9
+    2300574: Parthenon
+    3300000: _3D_Man_Seated_Leg_Crossed
+    3300002: ID132
+    3300004: ID132 1
+    3300006: ID132 2
+    3300008: ID132 3
+    3300010: ID184
+    3300012: ID190
+    3300014: ID196
+    3300016: ID202
+    3300018: ID21
+    3300020: ID21 1
+    3300022: ID21 10
+    3300024: ID21 11
+    3300026: ID21 12
+    3300028: ID21 13
+    3300030: ID21 14
+    3300032: ID21 15
+    3300034: ID21 16
+    3300036: ID21 17
+    3300038: ID21 18
+    3300040: ID21 19
+    3300042: ID21 2
+    3300044: ID21 20
+    3300046: ID21 21
+    3300048: ID21 22
+    3300050: ID21 23
+    3300052: ID21 24
+    3300054: ID21 25
+    3300056: ID21 26
+    3300058: ID21 27
+    3300060: ID21 28
+    3300062: ID21 29
+    3300064: ID21 3
+    3300066: ID21 30
+    3300068: ID21 31
+    3300070: ID21 32
+    3300072: ID21 33
+    3300074: ID21 34
+    3300076: ID21 35
+    3300078: ID21 36
+    3300080: ID21 37
+    3300082: ID21 38
+    3300084: ID21 39
+    3300086: ID21 4
+    3300088: ID21 40
+    3300090: ID21 41
+    3300092: ID21 42
+    3300094: ID21 43
+    3300096: ID21 44
+    3300098: ID21 45
+    3300100: ID21 46
+    3300102: ID21 47
+    3300104: ID21 48
+    3300106: ID21 49
+    3300108: ID21 5
+    3300110: ID21 50
+    3300112: ID21 51
+    3300114: ID21 52
+    3300116: ID21 53
+    3300118: ID21 54
+    3300120: ID21 55
+    3300122: ID21 56
+    3300124: ID21 57
+    3300126: ID21 58
+    3300128: ID21 59
+    3300130: ID21 6
+    3300132: ID21 60
+    3300134: ID21 61
+    3300136: ID21 62
+    3300138: ID21 63
+    3300140: ID21 64
+    3300142: ID21 65
+    3300144: ID21 66
+    3300146: ID21 67
+    3300148: ID21 68
+    3300150: ID21 69
+    3300152: ID21 7
+    3300154: ID21 70
+    3300156: ID21 71
+    3300158: ID21 72
+    3300160: ID21 73
+    3300162: ID21 74
+    3300164: ID21 75
+    3300166: ID21 76
+    3300168: ID21 77
+    3300170: ID21 78
+    3300172: ID21 79
+    3300174: ID21 8
+    3300176: ID21 80
+    3300178: ID21 9
+    3300180: ID221
+    3300182: ID229
+    3300184: ID237
+    3300186: ID243
+    3300188: ID251
+    3300190: ID259
+    3300192: ID265
+    3300194: ID271
+    3300196: ID284
+    3300198: ID292
+    3300200: ID305
+    3300202: ID313
+    3300204: ID321
+    3300206: ID329
+    3300208: ID337
+    3300210: ID345
+    3300212: ID358
+    3300214: ID366
+    3300216: ID374
+    3300218: ID382
+    3300220: ID390
+    3300222: ID398
+    3300224: ID406
+    3300226: ID414
+    3300228: ID422
+    3300230: ID430
+    3300232: ID438
+    3300234: Komponente_2
+    3300236: Komponente_2 1
+    3300238: Komponente_2 10
+    3300240: Komponente_2 11
+    3300242: Komponente_2 12
+    3300244: Komponente_2 13
+    3300246: Komponente_2 14
+    3300248: Komponente_2 15
+    3300250: Komponente_2 16
+    3300252: Komponente_2 17
+    3300254: Komponente_2 18
+    3300256: Komponente_2 19
+    3300258: Komponente_2 2
+    3300260: Komponente_2 20
+    3300262: Komponente_2 21
+    3300264: Komponente_2 22
+    3300266: Komponente_2 23
+    3300268: Komponente_2 24
+    3300270: Komponente_2 25
+    3300272: Komponente_2 26
+    3300274: Komponente_2 27
+    3300276: Komponente_2 28
+    3300278: Komponente_2 29
+    3300280: Komponente_2 3
+    3300282: Komponente_2 30
+    3300284: Komponente_2 31
+    3300286: Komponente_2 32
+    3300288: Komponente_2 33
+    3300290: Komponente_2 34
+    3300292: Komponente_2 35
+    3300294: Komponente_2 36
+    3300296: Komponente_2 37
+    3300298: Komponente_2 38
+    3300300: Komponente_2 39
+    3300302: Komponente_2 4
+    3300304: Komponente_2 40
+    3300306: Komponente_2 41
+    3300308: Komponente_2 42
+    3300310: Komponente_2 43
+    3300312: Komponente_2 44
+    3300314: Komponente_2 45
+    3300316: Komponente_2 46
+    3300318: Komponente_2 47
+    3300320: Komponente_2 48
+    3300322: Komponente_2 49
+    3300324: Komponente_2 5
+    3300326: Komponente_2 50
+    3300328: Komponente_2 51
+    3300330: Komponente_2 52
+    3300332: Komponente_2 53
+    3300334: Komponente_2 54
+    3300336: Komponente_2 55
+    3300338: Komponente_2 56
+    3300340: Komponente_2 57
+    3300342: Komponente_2 58
+    3300344: Komponente_2 59
+    3300346: Komponente_2 6
+    3300348: Komponente_2 60
+    3300350: Komponente_2 61
+    3300352: Komponente_2 62
+    3300354: Komponente_2 63
+    3300356: Komponente_2 64
+    3300358: Komponente_2 65
+    3300360: Komponente_2 66
+    3300362: Komponente_2 67
+    3300364: Komponente_2 68
+    3300366: Komponente_2 69
+    3300368: Komponente_2 7
+    3300370: Komponente_2 70
+    3300372: Komponente_2 71
+    3300374: Komponente_2 72
+    3300376: Komponente_2 73
+    3300378: Komponente_2 74
+    3300380: Komponente_2 75
+    3300382: Komponente_2 76
+    3300384: Komponente_2 77
+    3300386: Komponente_2 78
+    3300388: Komponente_2 79
+    3300390: Komponente_2 8
+    3300392: Komponente_2 80
+    3300394: Komponente_2 81
+    3300396: Komponente_2 82
+    3300398: Komponente_2 83
+    3300400: Komponente_2 84
+    3300402: Komponente_2 9
+    3300404: Komponente_3
+    3300406: Komponente_3 1
+    3300408: Komponente_3 10
+    3300410: Komponente_3 11
+    3300412: Komponente_3 12
+    3300414: Komponente_3 13
+    3300416: Komponente_3 14
+    3300418: Komponente_3 15
+    3300420: Komponente_3 16
+    3300422: Komponente_3 17
+    3300424: Komponente_3 18
+    3300426: Komponente_3 19
+    3300428: Komponente_3 2
+    3300430: Komponente_3 20
+    3300432: Komponente_3 21
+    3300434: Komponente_3 22
+    3300436: Komponente_3 23
+    3300438: Komponente_3 24
+    3300440: Komponente_3 25
+    3300442: Komponente_3 26
+    3300444: Komponente_3 27
+    3300446: Komponente_3 28
+    3300448: Komponente_3 29
+    3300450: Komponente_3 3
+    3300452: Komponente_3 30
+    3300454: Komponente_3 31
+    3300456: Komponente_3 32
+    3300458: Komponente_3 33
+    3300460: Komponente_3 34
+    3300462: Komponente_3 35
+    3300464: Komponente_3 36
+    3300466: Komponente_3 37
+    3300468: Komponente_3 38
+    3300470: Komponente_3 39
+    3300472: Komponente_3 4
+    3300474: Komponente_3 40
+    3300476: Komponente_3 41
+    3300478: Komponente_3 42
+    3300480: Komponente_3 43
+    3300482: Komponente_3 44
+    3300484: Komponente_3 45
+    3300486: Komponente_3 46
+    3300488: Komponente_3 47
+    3300490: Komponente_3 48
+    3300492: Komponente_3 49
+    3300494: Komponente_3 5
+    3300496: Komponente_3 50
+    3300498: Komponente_3 51
+    3300500: Komponente_3 52
+    3300502: Komponente_3 53
+    3300504: Komponente_3 54
+    3300506: Komponente_3 55
+    3300508: Komponente_3 56
+    3300510: Komponente_3 57
+    3300512: Komponente_3 58
+    3300514: Komponente_3 59
+    3300516: Komponente_3 6
+    3300518: Komponente_3 60
+    3300520: Komponente_3 61
+    3300522: Komponente_3 62
+    3300524: Komponente_3 63
+    3300526: Komponente_3 64
+    3300528: Komponente_3 65
+    3300530: Komponente_3 66
+    3300532: Komponente_3 67
+    3300534: Komponente_3 68
+    3300536: Komponente_3 69
+    3300538: Komponente_3 7
+    3300540: Komponente_3 70
+    3300542: Komponente_3 71
+    3300544: Komponente_3 72
+    3300546: Komponente_3 73
+    3300548: Komponente_3 74
+    3300550: Komponente_3 75
+    3300552: Komponente_3 76
+    3300554: Komponente_3 77
+    3300556: Komponente_3 78
+    3300558: Komponente_3 79
+    3300560: Komponente_3 8
+    3300562: Komponente_3 80
+    3300564: Komponente_3 81
+    3300566: Komponente_3 82
+    3300568: Komponente_3 83
+    3300570: Komponente_3 84
+    3300572: Komponente_3 9
+    3300574: Parthenon
+    4300000: Parthenon
+    4300002: ID221
+    4300004: ID229
+    4300006: ID237
+    4300008: ID243
+    4300010: ID251
+    4300012: ID259
+    4300014: ID265
+    4300016: ID271
+    4300018: ID284
+    4300020: ID292
+    4300022: ID305
+    4300024: ID313
+    4300026: ID321
+    4300028: ID329
+    4300030: ID337
+    4300032: ID345
+    4300034: ID358
+    4300036: ID366
+    4300038: ID374
+    4300040: ID382
+    4300042: ID390
+    4300044: ID398
+    4300046: ID406
+    4300048: ID414
+    4300050: ID422
+    4300052: ID430
+    4300054: ID438
+    4300056: Komponente_3
+    4300058: Komponente_2
+    4300060: ID21
+    4300062: Komponente_3
+    4300064: Komponente_2
+    4300066: ID132
+    4300068: _3D_Man_Seated_Leg_Crossed
+    4300070: ID184
+    4300072: ID190
+    4300074: ID196
+    4300076: ID202
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
