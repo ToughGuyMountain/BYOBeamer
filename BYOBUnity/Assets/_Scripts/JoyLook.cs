@@ -37,7 +37,7 @@ public class JoyLook : MonoBehaviour {
 		rotationY += inputDevice.RightStickY * sensitivityY;
 		rotationY = Mathf.Clamp (rotationY, minimumY, maximumY);
 		
-		transform.localEulerAngles = new Vector3(-rotationY, rotationX, 0);
+		transform.localEulerAngles = new Vector3(rotationY, rotationX, 0);
 
 	}
 
