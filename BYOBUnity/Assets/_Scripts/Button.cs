@@ -26,6 +26,7 @@ public class Button : MonoBehaviour {
 		var inputDevice = InputManager.ActiveDevice;
 	
 		if (playerNear && inputDevice.Action3) {
+		Debug.Log("press butotn");
 			target.SendMessage(message);
 		}
 	}

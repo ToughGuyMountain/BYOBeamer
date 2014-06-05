@@ -6,6 +6,7 @@ public class Elevator : MonoBehaviour {
 	public string down;
 
 	void ElevateUp() {
+		Debug.Log("elevate");
 		CutScene.Instance.PlayElevatorScene(up);
 	}
 	

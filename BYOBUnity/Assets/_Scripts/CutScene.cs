@@ -14,6 +14,7 @@ public class CutScene : Singleton<CutScene> {
 	}
 
 	public void PlayElevatorScene(string floorName) {
+		Debug.Log (floorName);
 		nextLevel = floorName;
 		state.SwitchTo();
 		screen.material = elevatorMaterial;
